@@ -33,5 +33,5 @@ https://statistics.thelmadejager.co.za/ <br>
 https://mathwork.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
 
-### Snorlax | Contains: Gms, Apps, and Prxy | Note: Can be opened in about:blank <br>
+## Snorlax | Contains: Gms, Apps, and Prxy | Note: Can be opened in about:blank 
 https://design.showmyhomes.com/ <br>
