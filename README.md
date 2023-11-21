@@ -1,5 +1,5 @@
 # ByePassHub - More Coming Soon!!! (WIP)
-# Make sure to credit me if you use this list, do not claim it's yours.
+# Make sure to credit me if you use this list, do not claim it's yours. Please do not leak the sites. also hi kevin. :)
 <h3>I've got these links from multiple sources. Like haleyschool.com, chromebook-utilities (git repository), io.forums (forum number 14464), plus from a list that me and my friends made. </h3>
 <h4>These are a list of proxies (unblockers) that work FOR ME for school chromebooks. <br>
   FYI: I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, render, ALL are blocked. </h4><br><br>
