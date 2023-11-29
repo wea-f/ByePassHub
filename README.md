@@ -8,7 +8,7 @@ I've got these links from multiple sources. Like haleyschool.com, chromebook-uti
   A prxy is an unblocker. <br>
   Examples of apps are like youtube, discord, AI, pinterest, and more. <br> 
   Gms are just gms. <br>
-   
+here is an [url opener](https://www.openallurls.com/) to save some time.
 ## website title | what it contains | any note if needed
 
 ## Norepted | YT video watcher with history hiding 
@@ -17,7 +17,7 @@ https://gzhhqm.csb.app/ <br>
 https://sites.google.com/view/n0repted/home <br>
 https://codepen.io/weaF_z/full/RwJVywE <br>
 
-## Surfskip | a complete WEB BROWSER, can asses TIKTOK | just released!!
+## Surfskip | web browser | just released!!
 http://65.103.160.34.bc.googleusercontent.com/room <br>
 
 ## Interstellar | Gms, Apps, and Prxy | Make sure to allow pop-ups and redirects
@@ -27,6 +27,12 @@ https://axyzmadethis.hop.sh/ <br>
 https://qwertyuiopasdfghjkl.hop.sh/ <br>
 https://beatingbentleyinthespellingbee.hop.sh/ <br>
 https://znz.hop.sh/ <br>
+https://taking-link-requests.hop.sh/ <br>
+https://w-robert.hop.sh/ <br>
+https://zuhayrs-math-tips.hop.sh/ <br>
+https://galaxy.hop.sh/ <br>
+https://hi.hop.sh/ <br>
+https://srt.hop.sh/ <br>
 
 ## Google Sites | A mixture of: Gms, exploits, prxies, and emulators | Some prxy or gms may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
@@ -60,5 +66,16 @@ https://design.showmyhomes.com/ <br>
 ## Galatic | Prxy + Gms
 https://galactic.hop.sh/ <br>
 
-## Anura | a complete WEB BROWSWER | Click "normal user"
+## Anura | web browser | Click "normal user"
 https://anura.mercurywork.shop/ <br>
+
+## Microsoft VM | web browser | Need Microsoft account to access | Credit: [ext-remover by 3kh0](https://github.com/3kh0/ext-remover)
+Go to this [link](https://learn.microsoft.com/en-us/training/modules/implement-common-integration-features-finance-ops/10-exercise-1) and log in to your account <br>
+Then click "Launch VM mode" button and complete the CAPTCHA<br>
+On the sign in page where it says "local admin", the password is `pass@word1` <br>
+Click the Microsoft Edge app on the shelf and enjoy! (some random sites are blocked, sound may not work)<br>
+
+## Page Sandbox | prxy + apps like reddit and twitch | Ignore the random Chinese text it doesn't do anything
+https://j.xj2.workers.dev/ <br>
+https://io.sqeven.workers.dev/ <br>
+https://loli.xianyu1.workers.dev/ <br>
