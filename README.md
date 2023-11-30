@@ -1,4 +1,4 @@
-# ByePassHub - More Coming Soon!!! - last updated nov 29
+# ByePassHub - More Coming Soon!!! - last updated nov 30
 ## Make sure to credit me if you use this list, do not claim it's yours. 
 I've got these links from multiple sources. Like haleyschool.com, chromebook-utilities (git repository), io.forums (forum number 14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that me and my friends made. 
  ### FYI: <br>
@@ -8,7 +8,9 @@ I've got these links from multiple sources. Like haleyschool.com, chromebook-uti
   A prxy is an unblocker. <br>
   Examples of apps are like youtube, discord, AI, pinterest, and more. <br> 
   Gms are just gms. <br>
+  hop.sh links MAY be down sometimes <br>
 here is an [url opener](https://www.openallurls.com/) to save some time.
+
 ### website title | what it contains | any note if needed
 
 ### Norepted | YT video watcher with history hiding 
@@ -19,6 +21,9 @@ https://codepen.io/weaF_z/full/RwJVywE <br>
 
 ### Surfskip | web browser | just released!!
 http://65.103.160.34.bc.googleusercontent.com/room <br>
+http://199.188.117.34.bc.googleusercontent.com/room <br>
+http://192.184.128.34.bc.googleusercontent.com/room <br>
+http://205.93.36.34.bc.googleusercontent.com/room <br>
 
 ### Interstellar | Gms, Apps, and Prxy | Make sure to allow pop-ups and redirects
 https://hopshhopsh.hop.sh/ <br>
@@ -79,3 +84,6 @@ Click the Microsoft Edge app on the shelf and enjoy! (some random sites are bloc
 https://j.xj2.workers.dev/ <br>
 https://io.sqeven.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
+
+### Vortex Math | soundboard + gms | password:126711, games password: 649290
+https://vortexmath.my.canva.site/_password <br>
