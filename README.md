@@ -87,3 +87,8 @@ https://loli.xianyu1.workers.dev/ <br>
 
 ### Vortex Math | soundboard + gms | password:126711, games password: 649290
 https://vortexmath.my.canva.site/_password <br>
+
+## 3kh0 | a ton of gms
+https://gray-sand-0ae3d2d10.2.azurestaticapps.net/ <br>
+https://3kh0-reborn.outred.dev/ <br>
+https://3kh0-gfiles.doge-math-pages.byethost33.com/ <br>
