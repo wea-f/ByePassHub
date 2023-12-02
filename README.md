@@ -1,4 +1,4 @@
-# ByePassHub - More Coming Soon!!! - last updated nov 30
+# ByePassHub - More Coming Soon!!! - last updated Dec 2
 ## Make sure to credit me if you use this list, do not claim it's yours. 
 I've got these links from multiple sources. Like haleyschool.com, chromebook-utilities (git repository), io.forums (forum number 14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that me and my friends made. 
  ### FYI: <br>
@@ -38,6 +38,10 @@ https://zuhayrs-math-tips.hop.sh/ <br>
 https://galaxy.hop.sh/ <br>
 https://hi.hop.sh/ <br>
 https://srt.hop.sh/ <br>
+https://1.hop.sh/ <br>
+https://2.hop.sh/ <br>
+https://3.hop.sh/ <br>
+https://5.hop.sh/ <br>
 
 ### Google Sites | A mixture of: Gms, exploits, prxies, and emulators | Some prxy or gms may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
@@ -56,6 +60,7 @@ https://arithmetic.trisummerseries.co.za/ <br>
 https://statistics.thelmadejager.co.za/ <br>
 https://mathwork.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
+https://mathamatics.us.to/ <br>
 
 ### Shuttle | Gms, Apps, and Prxy 
 https://shuttleproxy.hop.sh <br>
