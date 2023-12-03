@@ -1,10 +1,10 @@
 # ByePassHub - More Coming Soon!!! - last updated Dec 2
 ## Make sure to credit me if you use this list, do not claim it's yours. 
-I've got these links from multiple sources. Like haleyschool.com, chromebook-utilities (git repository), io.forums (forum number 14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that me and my friends made. 
+I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
 <h4>These are a list of proxies (unblockers) that work FOR ME for school chromebooks. </h4>
   
-  I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, render, ALL are blocked. <br>
+  I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuaiopp, railway, glitch, cyclic, koyeb, render, ALL are blocked. <br>
   A prxy is an unblocker. <br>
   Examples of apps are like youtube, discord, AI, pinterest, and more. <br> 
   Gms are just gms. <br>
