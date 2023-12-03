@@ -93,6 +93,14 @@ Then click "Launch VM mode" button and complete the CAPTCHA<br>
 On the sign in page where it says "local admin", the password is `pass@word1` <br>
 Click the Microsoft Edge app on the shelf and enjoy! (some random sites are blocked, sound may not work)<br>
 
+## Skiovox | Unrestricted Chrome (you can install extensions, go to any site, etc.) | Found from [ext-remover](https://github.com/3kh0/ext-remover), exploit made by AkaButNice and Bypassi
+Follow the instructions found from [here](https://drive.google.com/file/d/1tl8eP26MFRejHO38H5HwMLl2VaQrtn0Z/preview)<br>
+If this isn't working for you, here are some tips from my experience doing this: <br>
+- Make sure to press alt shift s, NOT ctrl shift s or something else
+- Make sure to completely wait for the "Network Available" Screen on step 1.4
+- Make sure to install the Skiovox Helper extension from Stage 3 by scrolling down further. 
+- When configuring our browser shortcuts, press the buttons on your keyboard to execute the shortcut, don't type it out like ctrl shift s, actually do it.
+
 ### Page Sandbox | proxy + apps like reddit and twitch | Ignore the random Chinese text it doesn't do anything
 https://j.xj2.workers.dev/ <br>
 https://io.sqeven.workers.dev/ <br>
@@ -108,3 +116,5 @@ https://3kh0-gfiles.doge-math-pages.byethost33.com/ <br>
 
 ## Kazwire | Proxy, Games, Apps
 https://kazwiremath.us.to/ <br>
+
+
