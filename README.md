@@ -1,4 +1,4 @@
-# ByePassHub - last updated Dec 3
+# ByePassHub - last updated Dec 4
 ## If you like this list, make sure to star it!
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
@@ -118,3 +118,7 @@ https://kazwiremath.us.to/ <br>
 
 ## Incognito | Proxy, Games, Apps
 https://5.hop.sh/ <br>
+
+## Selenite | A ton of games | can be opened in about:blank
+https://contact.zverovich.net/ <br>
+https://projects.blueshadows.cl/ <br>
