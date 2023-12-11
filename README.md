@@ -1,6 +1,6 @@
 # ByePassHub - last updated Dec 10
 ## If you like this list, make sure to star it!
-### This is a collection of links of proxies, games, AI, and apps that work in school. 
+### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
 
