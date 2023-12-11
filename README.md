@@ -132,3 +132,6 @@ https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
 https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
+
+## Glype | proxy | May or may not work from time to time
+https://proxy-server.azurewebsites.net/index.php <br>
