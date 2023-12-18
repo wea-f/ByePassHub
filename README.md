@@ -1,4 +1,4 @@
-# ByePassHub - last updated Dec 16
+# ByePassHub - last updated Dec 17
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
@@ -26,8 +26,6 @@ https://100.87.111.34.bc.googleusercontent.com/app <br>
 https://133.139.110.34.bc.googleusercontent.com/room <br>
 https://243.203.227.35.bc.googleusercontent.com/app EXPIRING SOON<br>
 https://205.196.110.34.bc.googleusercontent.com/room EXPIRING SOON <br>
-
-
  
 
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
@@ -61,15 +59,10 @@ https://skillset.autumn.shekinahphotography.com/ <br>
 https://enrich.autumn.shekinahphotography.com/ <br>
 
 ### Asteroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
-https://integralcalculus.asirargentina.com.ar/ <br>
-https://mathsoftware.asirargentina.com.ar/ <br>
-https://geometrycompass.asirargentina.com.ar/ <br>
-https://integralcalculus.tatuarte.cl/ <br>
-https://algebra.tatuarte.cl/ <br>
-https://addition.tatuarte.cl <br>
 https://complexnumbers.digitaltv.cl/ <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://analyticgeometry.dcmusic.ca/ <br>
+https://subtraction.javierblog.com/ <br>
 #### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
@@ -77,6 +70,23 @@ https://mathamatics.us.to/ <br>
 https://subtraction.fr.to/ <br>
 https://statistics.fr.to <br>
 https://differentialcalculus.uk.to/ <br>
+#### martinalia.com links
+https://analyticgeometry.martinalia.com/ <br>
+https://graphingcalculators.martinalia.com/ <br>
+### grid-tronics.com links
+https://mathcompetitions.grid-tronics.com/ <br>
+https://arithmetic.grid-tronics.com/ <br>
+#### alexanderthegreater.com links
+https://analyticGeometry.alexanderthegreater.com <br>
+https://geometry.alexanderthegreater.com/ <br>
+#### tatuarte.cl links
+https://integralcalculus.tatuarte.cl/ <br>
+https://algebra.tatuarte.cl/ <br>
+https://addition.tatuarte.cl <br>
+#### asirargentina.com.ar links
+https://integralcalculus.asirargentina.com.ar/ <br>
+https://mathsoftware.asirargentina.com.ar/ <br>
+https://geometrycompass.asirargentina.com.ar/ <br>
 #### co.za asteroid links
 https://mathflashcards.rivermile.co.za/ <br>
 https://ractions.shellhpg.co.za <br>
