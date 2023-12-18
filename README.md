@@ -112,6 +112,14 @@ https://sites.google.com/view/burritoedition/home <br>
 https://sites.google.com/view/cbk-stuff/home?authuser=0 <br>
 https://sites.google.com/view/dengernetwork/home <br>
 https://sites.google.com/view/kirby-central <br>
+#### Only Games
+https://sites.google.com/view/retro-bowl-play <br>
+https://sites.google.com/view/slope-play/retro-bowl <br>
+https://sites.google.com/view/tyronegamesez/home <br>
+#### Google Doodle Games
+https://www.google.com/logos/2018/gnomes/gnomes18.html <br>
+https://doodles.google/doodle/celebrating-loteria/ <br>
+https://searchplayground.google/
 
 ### Shuttle | Games, Apps, and Proxy 
 https://shuttleproxy.hop.sh <br>
