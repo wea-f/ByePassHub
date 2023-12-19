@@ -1,6 +1,6 @@
-# ByePassHub - last updated Dec 18
+# ByePassHub - last updated Dec 19
 ## If you like this list, make sure to star it!
-### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
+### This is a collection of links of proxies, games, AI, and apps that work in MY school. <br>Be sure to scroll all the way down. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
   I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuaiopp, railway, glitch, cyclic, koyeb, render, ALL are blocked. <br>
@@ -23,7 +23,7 @@ List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29Ipg
  
 
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-#### hop.sh links
+##### hop.sh links
 https://hopshhopsh.hop.sh/ <br>
 https://benjamin.hop.sh/ <br>
 https://axyzmadethis.hop.sh/ <br>
@@ -47,7 +47,7 @@ https://behavioradventure.hop.sh/ <br>
 https://democraticmystery.hop.sh/ <br>
 https://memorialhelicopter.hop.sh/ <br>
 https://banana.hop.sh/ <br>
-#### Not hop.sh links
+##### Not hop.sh links
 https://illuminate.autumn.shekinahphotography.com/ <br>
 https://skillset.autumn.shekinahphotography.com/ <br>
 https://enrich.autumn.shekinahphotography.com/ <br>
@@ -57,31 +57,34 @@ https://complexnumbers.digitaltv.cl/ <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://subtraction.javierblog.com/ <br>
 https://analyticgeometry.dcmusic.ca/ <br>
-#### .to asteroid links
+https://mathematicaloperations.sidoarjogetar.com/ <br>
+https://integralcalculus.dichtiengviet.com/ <br>
+https://integralcalculus.starnightimport.com/ <br>
+##### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
 https://mathamatics.us.to/ <br>
 https://subtraction.fr.to/ <br>
 https://statistics.fr.to <br>
 https://differentialcalculus.uk.to/ <br>
-#### martinalia.com links
+##### martinalia.com links
 https://analyticgeometry.martinalia.com/ <br>
 https://graphingcalculators.martinalia.com/ <br>
-### grid-tronics.com links
+##### grid-tronics.com links
 https://mathcompetitions.grid-tronics.com/ <br>
 https://arithmetic.grid-tronics.com/ <br>
-#### alexanderthegreater.com links
+##### alexanderthegreater.com links
 https://analyticGeometry.alexanderthegreater.com <br>
 https://geometry.alexanderthegreater.com/ <br>
-#### tatuarte.cl links
+##### tatuarte.cl links
 https://integralcalculus.tatuarte.cl/ <br>
 https://algebra.tatuarte.cl/ <br>
 https://addition.tatuarte.cl <br>
-#### asirargentina.com.ar links
+##### asirargentina.com.ar links
 https://integralcalculus.asirargentina.com.ar/ <br>
 https://mathsoftware.asirargentina.com.ar/ <br>
 https://geometrycompass.asirargentina.com.ar/ <br>
-#### co.za links
+##### co.za links
 https://mathflashcards.rivermile.co.za/ <br>
 https://ractions.shellhpg.co.za <br>
 https://arithmetic.businessnightrelay.co.za/ <br>
@@ -98,10 +101,10 @@ https://probability.welkomcity.co.za/ <br>
 
 ### Shadow Broswer | web browser
 https://azrielmadethis.cheap-car-rental.com/ <br>
-#### gurdit.com links
+##### gurdit.com links
 https://ilovepoems.gurdit.com/ <br>
 https://readpoems2.gurdit.com/ <br>
-#### dcmusic.ca links
+##### dcmusic.ca links
 https://mateocastillo.dcmusic.ca/ <br>
 https://azrielstudyforyourtest1.dcmusic.ca/ <br>
 https://yoursodumbyoucantreadthisfastenoughtcuzurnotsmartenough.dcmusic.ca/ <br>
@@ -109,7 +112,7 @@ https://azrielwashere6969azrielwashere6969azrielwashere6969.dcmusic.ca/ <br>
 https://imadethisdontbegpls.dcmusic.ca/ <br>
 
 
-### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some prxy or gms may be blocked 
+### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some proxy or games may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/ubg66/home <br>
 https://sites.google.com/view/bushhub/ <br>
@@ -118,11 +121,11 @@ https://sites.google.com/view/burritoedition/home <br>
 https://sites.google.com/view/cbk-stuff/home?authuser=0 <br>
 https://sites.google.com/view/dengernetwork/home <br>
 https://sites.google.com/view/kirby-central <br>
-#### Only Games
+##### Just Games Only
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/slope-play/retro-bowl <br>
 https://sites.google.com/view/tyronegamesez/home <br>
-#### Google Doodle Games
+##### Google Doodle Games
 https://www.google.com/logos/2018/gnomes/gnomes18.html <br>
 https://doodles.google/doodle/celebrating-loteria/ <br>
 https://searchplayground.google/
@@ -144,17 +147,17 @@ https://galactic.hop.sh/ <br>
 ### Anura | web browser | Click "normal user"
 https://anura.mercurywork.shop/ <br>
 
-### Microsoft VM | web browser | Need Microsoft account to access | Credit: [ext-remover by 3kh0](https://github.com/3kh0/ext-remover)
+### Microsoft VM | web browser | Requires Microsoft account | Credit: [ext-remover by 3kh0](https://github.com/3kh0/ext-remover)
 Go to this [link](https://learn.microsoft.com/en-us/training/modules/implement-common-integration-features-finance-ops/10-exercise-1) and log in to your account <br>
 Then click "Launch VM mode" button and complete the CAPTCHA<br>
-On the sign in page where it says "local admin", the password is `pass@word1` <br>
+On the sign in page where it says "local admin", type in the password which is`pass@word1` <br>
 Click the Microsoft Edge app on the shelf and enjoy! (some random sites are blocked, sound may not work)<br>
 
-### Skiovox | Unrestricted Chrome (you can install extensions, go to any site, etc.) | Found from [ext-remover](https://github.com/3kh0/ext-remover), exploit made by AkaButNice and Bypassi
+### Skiovox | Unrestricted CHROME | Found in [ext-remover](https://github.com/3kh0/ext-remover), made by AkaButNice and Bypassi
 Follow the instructions found from [here](https://drive.google.com/file/d/1tl8eP26MFRejHO38H5HwMLl2VaQrtn0Z/preview)<br>
-If this isn't working for you, here are some tips from my experience doing this: <br>
+If you are confused on the directions, here are some tips from my experience doing this: <br>
 - Make sure to press alt shift s, NOT ctrl shift s or something else
-- Make sure to completely wait for the "Network Available" Screen on step 1.4
+- Make sure to COMPLETELY wait for the "Network Available" Screen on step 1.4
 - Make sure to install the Skiovox Helper extension from Stage 3 by scrolling down further. 
 - When configuring our browser shortcuts, press the buttons on your keyboard to execute the shortcut, don't type it out like ctrl shift s, actually do it.
 
@@ -188,10 +191,10 @@ https://projects.blueshadows.cl/ <br>
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
-### AI
+### AI | 
 https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
 https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
 
-
+#### I am not responsbile for any illegal problems or being blamed on. It's your device and you control your own decisions. 
