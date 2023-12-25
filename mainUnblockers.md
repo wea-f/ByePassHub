@@ -1,6 +1,8 @@
 # ByePassHub - Main Hub - last updated Dec 25 (merry christmas)
 ## If you like this list, make sure to star it!
-### This is a collection of links of proxies, games, AI, and apps that work in MY school. <br>Be sure to scroll all the way down. 
+### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
+### Want some exploits? Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits.md) or go to the Exploits.md file 
+### Be sure to scroll all the way down for ALL links. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
   I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuaiopp, railway, glitch, cyclic, koyeb, render, ALL are blocked. <br>
