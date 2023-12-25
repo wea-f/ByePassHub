@@ -189,14 +189,16 @@ https://buypass.brandonprather.repl.co/ <br>
 #### If none of these work for you try these
 https://playful-meringue-fb58bc.netlify.app/ <br>
 https://sort.darkshade.design/ <br>
+https://kf8pr9d.micasuki.com/ <br>
 #### If none work, Just use another proxy to unblock those blocked sites
 https://j.xj2.workers.dev/-----https://buypass.bypassi.com/ <br>
 
-### AI | 
+### AI 
 https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
 https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
+https://talkai.info/chat <br>
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
 https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit <br>
