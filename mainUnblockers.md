@@ -150,20 +150,6 @@ https://galactic.hop.sh/ <br>
 ### Anura | web browser | Click "normal user"
 https://anura.mercurywork.shop/ <br>
 
-### Microsoft VM | web browser | Requires Microsoft account | Credit: [ext-remover by 3kh0](https://github.com/3kh0/ext-remover)
-Go to this [link](https://learn.microsoft.com/en-us/training/modules/implement-common-integration-features-finance-ops/10-exercise-1) and log in to your account <br>
-Then click "Launch VM mode" button and complete the CAPTCHA<br>
-On the sign in page where it says "local admin", type in the password which is`pass@word1` <br>
-Click the Microsoft Edge app on the shelf and enjoy! (some random sites are blocked, sound may not work)<br>
-
-### Skiovox | Unrestricted CHROME | Found in [ext-remover](https://github.com/3kh0/ext-remover), made by AkaButNice and Bypassi
-Follow the instructions found from [here](https://drive.google.com/file/d/1tl8eP26MFRejHO38H5HwMLl2VaQrtn0Z/preview)<br>
-If you are confused on the directions, here are some tips from my experience doing this: <br>
-- Make sure to press alt shift s, NOT ctrl shift s or something else
-- Make sure to COMPLETELY wait for the "Network Available" Screen on step 1.4
-- Make sure to install the Skiovox Helper extension from Stage 3 by scrolling down further. 
-- When configuring our browser shortcuts, press the buttons on your keyboard to execute the shortcut, don't type it out like ctrl shift s, actually do it.
-
 ### Page Sandbox | proxy + apps like reddit and twitch | Ignore the random Chinese text it doesn't do anything
 https://j.xj2.workers.dev/ <br>
 https://io.sqeven.workers.dev/ <br>
