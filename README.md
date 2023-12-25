@@ -1,4 +1,4 @@
-# ByePassHub - last updated Dec 19
+# ByePassHub - last updated Dec 25 (merry christmas)
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. <br>Be sure to scroll all the way down. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
@@ -121,6 +121,7 @@ https://sites.google.com/view/burritoedition/home <br>
 https://sites.google.com/view/cbk-stuff/home?authuser=0 <br>
 https://sites.google.com/view/dengernetwork/home <br>
 https://sites.google.com/view/kirby-central <br>
+https://sites.google.com/site/thegamecompilation/ <br>
 ##### Just Games Only
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/slope-play/retro-bowl <br>
@@ -196,5 +197,13 @@ https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
 https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
+
+### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
+https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit <br>
+https://github.com/S-PScripts/chromebook-utilities <br>
+https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464 <br>
+https://haleyschool.com/new-links <br>
+https://github.com/Salty-Coder/Unblocked-Sites <br>
+https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
 
 #### I am not responsbile for any illegal problems or being blamed on. It's your device and you control your own decisions. 
