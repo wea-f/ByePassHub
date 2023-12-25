@@ -181,16 +181,10 @@ https://projects.blueshadows.cl/ <br>
 https://proxy-server.azurewebsites.net/index.php <br>
 
 ### Buypass | not quite proxy | lasts 3 minutes, doesn't bypass network filters
-https://buypass.bypassi.com/ <br>
-https://buypass.netlify.app/ <br>
-https://buypass.glitch.me/ <br>
-https://buypass-poc.netlify.app/ <br>
-https://buypass.brandonprather.repl.co/ <br>
-#### If none of these work for you try these
 https://playful-meringue-fb58bc.netlify.app/ <br>
 https://sort.darkshade.design/ <br>
 https://kf8pr9d.micasuki.com/ <br>
-#### If none work, Just use another proxy to unblock those blocked sites
+#### If the links above are blocked, just use another proxy to unblock those blocked sites
 https://j.xj2.workers.dev/-----https://buypass.bypassi.com/ <br>
 
 ### AI 
