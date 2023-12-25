@@ -12,7 +12,7 @@ I've got these links from multiple sources. Like haleyschool.com, [chromebook-ut
   #### hop.sh links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 
-### website title | what it contains | any note if needed
+## website title | what it contains | any note if needed
 
 ### Norepted | YT video watcher with history hiding 
 https://norepted.playcode.io/ Note: click "Skip Intro" <br>
