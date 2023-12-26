@@ -1,4 +1,4 @@
-# ByePassHub - Main Hub - last updated Dec 25 (merry christmas)
+# ByePassHub - Main Unblockers - last updated Dec 26
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 ### Exploits: Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits.md) or go to the Exploits.md file 
