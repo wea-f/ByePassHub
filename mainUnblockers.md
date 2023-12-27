@@ -10,7 +10,7 @@ I've got these links from multiple sources. Like haleyschool.com, [chromebook-ut
   A prxy is an unblocker. <br>
   Examples of apps are like youtube, discord, roblox, AI, pinterest, and more. <br> 
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
-  #### hop.sh links MAY be down during school or any time. <br>
+  #### Links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 
 ## website title | what it contains | any note if needed
@@ -24,9 +24,8 @@ https://codepen.io/weaF_z/full/RwJVywE <br>
 ### Surfskip | web browser | Links cycle every two days
 List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29IpgOpdv8L7oe-DRHiu9GE/edit <br>
  
-
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-##### hop.sh links
+##### hop.sh links (may be down from time to time)
 https://hopshhopsh.hop.sh/ <br>
 https://benjamin.hop.sh/ <br>
 https://axyzmadethis.hop.sh/ <br>
@@ -60,9 +59,11 @@ https://complexnumbers.digitaltv.cl/ <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://subtraction.javierblog.com/ <br>
 https://analyticgeometry.dcmusic.ca/ <br>
+https://wordproblems.espacoextra.pt/ <br.
 https://mathematicaloperations.sidoarjogetar.com/ <br>
 https://integralcalculus.dichtiengviet.com/ <br>
 https://integralcalculus.starnightimport.com/ <br>
+https://differentialequations.poptour.com.ar/ <br>
 ##### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
@@ -79,6 +80,10 @@ https://arithmetic.grid-tronics.com/ <br>
 ##### alexanderthegreater.com links
 https://analyticGeometry.alexanderthegreater.com <br>
 https://geometry.alexanderthegreater.com/ <br>
+##### asoch.cl links
+https://multiplication.asoch.cl/ <br>
+https://statistics.asoch.cl/ <br>
+https://interactivemathwebsites.asoch.cl <br>
 ##### tatuarte.cl links
 https://integralcalculus.tatuarte.cl/ <br>
 https://algebra.tatuarte.cl/ <br>
@@ -87,6 +92,10 @@ https://addition.tatuarte.cl <br>
 https://integralcalculus.asirargentina.com.ar/ <br>
 https://mathsoftware.asirargentina.com.ar/ <br>
 https://geometrycompass.asirargentina.com.ar/ <br>
+##### ussargentina.com.ar links
+https://wordproblems.ussargentina.com.ar/ <br>
+https://educationalmathapps.ussargentina.com.ar/ <br>
+https://complexnumbers.ussargentina.com.ar/ <br>
 ##### co.za links
 https://mathflashcards.rivermile.co.za/ <br>
 https://ractions.shellhpg.co.za <br>
@@ -102,6 +111,7 @@ https://trigonometry.rivermile.co.za <br>
 https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to access)<br>
 https://probability.welkomcity.co.za/ <br>
 
+
 ### Shadow Broswer | web browser
 https://azrielmadethis.cheap-car-rental.com/ <br>
 ##### gurdit.com links
@@ -113,7 +123,6 @@ https://azrielstudyforyourtest1.dcmusic.ca/ <br>
 https://yoursodumbyoucantreadthisfastenoughtcuzurnotsmartenough.dcmusic.ca/ <br>
 https://azrielwashere6969azrielwashere6969azrielwashere6969.dcmusic.ca/ <br>
 https://imadethisdontbegpls.dcmusic.ca/ <br>
-
 
 ### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some proxy or games may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
@@ -137,6 +146,8 @@ https://searchplayground.google/
 ### Shuttle | Games, Apps, and Proxy 
 https://shuttleproxy.hop.sh <br>
 https://learnsmartly.org <br>
+https://atutor.tien-shan.org/ <br>
+https://geometry.precisewarehousing.com/ <br>
 
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
@@ -173,6 +184,8 @@ https://5.hop.sh/ <br>
 ### Abyss | web browser + games
 https://carve.wombecology.com/ <br>
 https://enfix.aspirelactation.com.au/ <br>
+https://urine.espacoextra.pt/ <br>
+https://oak.asoch.cl/ <br>
 
 ### Selenite | A ton of games | can be opened in about:blank
 https://contact.zverovich.net/ <br>
@@ -180,6 +193,9 @@ https://projects.blueshadows.cl/ <br>
 
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
+
+### Doge | proxy, games, apps
+https://home.emersonbrookforest.org/app<br>
 
 ### Buypass | not quite proxy | lasts 3 minutes, doesn't bypass network filters
 https://playful-meringue-fb58bc.netlify.app/ <br>
