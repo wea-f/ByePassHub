@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | last updated dec 26
+# ByePassHub > Main Links | last updated dec 28
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
@@ -53,6 +53,7 @@ https://banana.hop.sh/ <br>
 https://illuminate.autumn.shekinahphotography.com/ <br>
 https://skillset.autumn.shekinahphotography.com/ <br>
 https://enrich.autumn.shekinahphotography.com/ <br>
+https://experiment.autumn.shekinahphotography.com/ <br>
 
 ### Asteroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
 https://complexnumbers.digitaltv.cl/ <br>
@@ -64,13 +65,23 @@ https://mathematicaloperations.sidoarjogetar.com/ <br>
 https://integralcalculus.dichtiengviet.com/ <br>
 https://integralcalculus.starnightimport.com/ <br>
 https://differentialequations.poptour.com.ar/ <br>
+https://photography.abatek.com/ <br>
+https://peardeck.youramys.com/ <br>
+https://learningalgebra101.tafca.co.uk/ <br>
+https://interactivemathwebsites.sitaci.com/ <br>
+https://roid.strangled.net/ <br>
 ##### .to asteroid links
 https://mathwork.uk.to/ <br>
+https://differentialcalculus.uk.to/ <br>
+https://miami-str.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
 https://mathamatics.us.to/ <br>
 https://subtraction.fr.to/ <br>
 https://statistics.fr.to <br>
-https://differentialcalculus.uk.to/ <br>
+https://education2.fr.to/ <br>
+https://education3.fr.to/ <br>
+https://education4.fr.to/ <br>
+https://education5.fr.to/ <br>
 ##### martinalia.com links
 https://analyticgeometry.martinalia.com/ <br>
 https://graphingcalculators.martinalia.com/ <br>
@@ -96,6 +107,11 @@ https://geometrycompass.asirargentina.com.ar/ <br>
 https://wordproblems.ussargentina.com.ar/ <br>
 https://educationalmathapps.ussargentina.com.ar/ <br>
 https://complexnumbers.ussargentina.com.ar/ <br>
+##### shekinahphotography links
+https://zelvinlosthisgum.shekinahphotography.com/ <br>
+https://thankyoufortherole.shekinahphotography.com/ <br>
+https://happyholidays.shekinahphotography.com/ <br>
+https://vypergroupbest.shekinahphotography.com/
 ##### co.za links
 https://mathflashcards.rivermile.co.za/ <br>
 https://ractions.shellhpg.co.za <br>
@@ -111,6 +127,9 @@ https://trigonometry.rivermile.co.za <br>
 https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to access)<br>
 https://probability.welkomcity.co.za/ <br>
 
+### ROBLOX | HOW IS THIS POSSIBLE???
+https://beta1.caculatorgeo.info/demo <br>
+https://beta7.caculatorgeo.info/demo <br>
 
 ### Shadow Broswer | web browser
 https://azrielmadethis.cheap-car-rental.com/ <br>
@@ -134,7 +153,9 @@ https://sites.google.com/view/cbk-stuff/home?authuser=0 <br>
 https://sites.google.com/view/dengernetwork/home <br>
 https://sites.google.com/view/kirby-central <br>
 https://sites.google.com/site/thegamecompilation/ <br>
-##### Just Games Only
+##### Proxies Only
+https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
+##### Games Only
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/slope-play/retro-bowl <br>
 https://sites.google.com/view/tyronegamesez/home <br>
@@ -152,6 +173,15 @@ https://geometry.precisewarehousing.com/ <br>
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
 https://subscribe.sciencesimplified.pro/ <br>
+https://wick.hop.sh <br>
+https://discord.hop.sh <br>
+https://parrot.hop.sh <br>
+https://class.hop.sh <br>
+https://cafelabs.hop.sh <br>
+https://artclass.hop.sh <br>
+https://proxies.hop.sh <br>
+https://unblocker.hop.sh <br>
+
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
 https://design.showmyhomes.com/ <br>
@@ -212,6 +242,11 @@ https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
 https://talkai.info/chat <br>
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
+https://twigs-utilities.github.io/Pr0x1es.html <br>
+https://docs.google.com/document/d/127R3fjJAeJeavA-6B2o4gMFJHeCxOo6v53Nmo6gjMPw/edit <br>
+https://docs.google.com/document/d/1PEOeAQOTFgJBL80K49ZEGM4a6ubAH_XJck8ZbQfizIc/edit <br>
+https://docs.google.com/document/d/1--67STZIq89INcoYWrf96YBiBLaMpFkjilK1bYhUi6k/edit <br>
+https://docs.google.com/document/d/1R_Rifi41XLgtTFCve8g5-2ugAEnOcDT5XB1_G5ykVag/edit <br>
 https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit <br>
 https://github.com/S-PScripts/chromebook-utilities <br>
 https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464 <br>
