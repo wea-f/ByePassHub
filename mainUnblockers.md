@@ -4,7 +4,7 @@
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
-I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
+I've got these links from multiple sources. Like [haleyschool.com](https://haleyschool.com), [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
   For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
   A proxy is an unblocker, used for searching anything up on Google or going to any website. <br>
@@ -133,7 +133,7 @@ https://complexnumbers.digitaltv.cl/ <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://subtraction.javierblog.com/ <br>
 https://analyticgeometry.dcmusic.ca/ <br>
-https://wordproblems.espacoextra.pt/ <br.
+https://wordproblems.espacoextra.pt/ <br>
 https://mathematicaloperations.sidoarjogetar.com/ <br>
 https://integralcalculus.dichtiengviet.com/ <br>
 https://integralcalculus.starnightimport.com/ <br>
