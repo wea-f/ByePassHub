@@ -6,11 +6,11 @@
 ### Be sure to scroll all the way down for ALL links. 
 I've got these links from multiple sources. Like haleyschool.com, [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
-  I have CK Authenticator G3 and a internet filter. github.io links are blocked, so is pages.dev links, replit, vercel, herokuaiopp, railway, glitch, cyclic, koyeb, render, ALL are blocked. <br>
-  A prxy is an unblocker. <br>
+  For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
+  A proxy is an unblocker, used for searching anything up on Google or going to any website. <br>
   Examples of apps are like youtube, discord, roblox, AI, pinterest, and more. <br> 
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
-  #### Links MAY be down during school or any time. <br>
+  #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 
 ## website title | what it contains | any note if needed
@@ -49,27 +49,29 @@ https://behavioradventure.hop.sh/ <br>
 https://democraticmystery.hop.sh/ <br>
 https://memorialhelicopter.hop.sh/ <br>
 https://banana.hop.sh/ <br>
-##### Not hop.sh links
+#### Not hop.sh links
+##### shekinahphotography.com links
 https://illuminate.autumn.shekinahphotography.com/ <br>
 https://skillset.autumn.shekinahphotography.com/ <br>
 https://enrich.autumn.shekinahphotography.com/ <br>
 https://experiment.autumn.shekinahphotography.com/ <br>
+##### herionewarrior.com links
+https://boringsuit.rivalryyyy.heroinewarrior.com/ <br>
+https://boringsuit.rivalryyyyy.heroinewarrior.com/ <br>
+https://boringsuit.rivalryyy.heroinewarrior.com/ <br>
+https://boringsuit.rivalryy.heroinewarrior.com/ <br>
+https://boringsuit.rivalry.heroinewarrior.com/ <br>
+##### youramys.com links
+https://dish.cooking.youramys.com/ <br>
+https://kitchen.cooking.youramys.com/ <br>
+https://recipe.cooking.youramys.com/ <br>
+https://business.youramys.com/ <br>
+##### Misc. Interstellar Links
+https://kappa.y.glenwaverleychurches.org/ <br>
 
-### Asteroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
-https://complexnumbers.digitaltv.cl/ <br>
-https://wordproblems.blackbooth.com.au/ <br>
-https://subtraction.javierblog.com/ <br>
-https://analyticgeometry.dcmusic.ca/ <br>
-https://wordproblems.espacoextra.pt/ <br.
-https://mathematicaloperations.sidoarjogetar.com/ <br>
-https://integralcalculus.dichtiengviet.com/ <br>
-https://integralcalculus.starnightimport.com/ <br>
-https://differentialequations.poptour.com.ar/ <br>
-https://photography.abatek.com/ <br>
-https://peardeck.youramys.com/ <br>
-https://learningalgebra101.tafca.co.uk/ <br>
-https://interactivemathwebsites.sitaci.com/ <br>
-https://roid.strangled.net/ <br>
+
+### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
+**2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
 ##### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://differentialcalculus.uk.to/ <br>
@@ -126,13 +128,28 @@ https://mathsoftware.saixge.co.za/ <br>
 https://trigonometry.rivermile.co.za <br>
 https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to access)<br>
 https://probability.welkomcity.co.za/ <br>
+##### Misc. Astroid Links
+https://complexnumbers.digitaltv.cl/ <br>
+https://wordproblems.blackbooth.com.au/ <br>
+https://subtraction.javierblog.com/ <br>
+https://analyticgeometry.dcmusic.ca/ <br>
+https://wordproblems.espacoextra.pt/ <br.
+https://mathematicaloperations.sidoarjogetar.com/ <br>
+https://integralcalculus.dichtiengviet.com/ <br>
+https://integralcalculus.starnightimport.com/ <br>
+https://differentialequations.poptour.com.ar/ <br>
+https://photography.abatek.com/ <br>
+https://peardeck.youramys.com/ <br>
+https://mathsclass.youramys.com/ <br>
+https://learningalgebra101.tafca.co.uk/ <br>
+https://interactivemathwebsites.sitaci.com/ <br>
+https://roid.strangled.net/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://beta1.caculatorgeo.info/demo <br>
 https://beta7.caculatorgeo.info/demo <br>
 
 ### Shadow Broswer | web browser
-https://azrielmadethis.cheap-car-rental.com/ <br>
 ##### gurdit.com links
 https://ilovepoems.gurdit.com/ <br>
 https://readpoems2.gurdit.com/ <br>
@@ -142,6 +159,8 @@ https://azrielstudyforyourtest1.dcmusic.ca/ <br>
 https://yoursodumbyoucantreadthisfastenoughtcuzurnotsmartenough.dcmusic.ca/ <br>
 https://azrielwashere6969azrielwashere6969azrielwashere6969.dcmusic.ca/ <br>
 https://imadethisdontbegpls.dcmusic.ca/ <br>
+##### Misc. Shadow Broswer Links
+https://azrielmadethis.cheap-car-rental.com/ <br> 
 
 ### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some proxy or games may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
@@ -169,6 +188,7 @@ https://shuttleproxy.hop.sh <br>
 https://learnsmartly.org <br>
 https://atutor.tien-shan.org/ <br>
 https://geometry.precisewarehousing.com/ <br>
+https://counting.jweststudio.com/ <br>
 
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
@@ -220,12 +240,14 @@ https://oak.asoch.cl/ <br>
 ### Selenite | A ton of games | can be opened in about:blank
 https://contact.zverovich.net/ <br>
 https://projects.blueshadows.cl/ <br>
+https://deals.youramys.com/ <br>
 
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
 ### Doge | proxy, games, apps
 https://home.emersonbrookforest.org/app<br>
+
 
 ### Buypass | not quite proxy | lasts 3 minutes, doesn't bypass network filters
 https://playful-meringue-fb58bc.netlify.app/ <br>
