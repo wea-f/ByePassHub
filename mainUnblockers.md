@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | last updated dec 28
+# ByePassHub > Main Links | updated Jan 5
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
