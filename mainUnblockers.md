@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 8
+# ByePassHub > Main Links | updated Jan 11
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
@@ -132,11 +132,13 @@ https://probability.welkomcity.co.za/ <br>
 https://complexnumbers.digitaltv.cl/ <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://subtraction.javierblog.com/ <br>
+https://fractions.javierblog.com/ <br>
 https://analyticgeometry.dcmusic.ca/ <br>
 https://wordproblems.espacoextra.pt/ <br>
 https://mathematicaloperations.sidoarjogetar.com/ <br>
 https://integralcalculus.dichtiengviet.com/ <br>
 https://integralcalculus.starnightimport.com/ <br>
+https://geometry.starnightimport.com/ <br>
 https://differentialequations.poptour.com.ar/ <br>
 https://photography.abatek.com/ <br>
 https://peardeck.youramys.com/ <br>
@@ -260,8 +262,15 @@ https://j.xj2.workers.dev/-----https://buypass.bypassi.com/ <br>
 https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
-https://www.hypotenuse.ai/ai-chat (you need to sign up) <br>
 https://talkai.info/chat <br>
+https://bard.google.com/ <br>
+https://quizlet.com/qchat (you need to have an account)<br>
+https://www.hypotenuse.ai/ai-chat (you need to have an account) <br>
+##### Others (a bit harder to access)
+##### Grammarly Go (must have grammarly account)<br>
+Directions: Go into a document and press the GrammarlyGo button on the right side. <br>
+##### BingAI
+Directions: Go to bing.com or Microsoft Edge and hit the chat icon on the sidebar.
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
 https://twigs-utilities.github.io/Pr0x1es.html <br>
@@ -291,8 +300,7 @@ https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/
 https://docs.google.com/document/d/1-8TpQDcP5gdzjvPCy2-ESrKy8n-OpetRkFt3VqkUTX4/edit <br>
 https://docs.google.com/document/d/1Q5V1AgsoS2hbCvQJ7RmDzx4ZRIaiGRLLhjkhOrjJqLc/edit?usp=sharing <br>
 https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br>
-https://docs.google.com/document/d/1ydL4e9SgtG7uq7abeRMiPnsGAM8oE_gsmIJvrykst_Y/edit#heading=h.8g9lop9f625i <br>
-                                                                                      
+https://docs.google.com/document/d/1ydL4e9SgtG7uq7abeRMiPnsGAM8oE_gsmIJvrykst_Y/edit#heading=h.8g9lop9f625i <br>                    
 https://github.com/S-PScripts/chromebook-utilities <br>
 https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464 <br>
 https://haleyschool.com/new-links <br>
