@@ -3,7 +3,7 @@
 #### This is a collection of links of proxies, games, exploits, bypasses, AI, and apps that work FOR ME.  <br>
 
 **Proxy,Games, AI, and app links:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file<br>
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. 
+**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
 **Main Game Links:** Go [here](https://github.com/wea-f/ByePassHub/blob/Games.md) or go to the Games.md file <br>
 ---
 
