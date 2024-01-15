@@ -34,6 +34,75 @@ https://sites.google.com/view/slope-play/retro-bowl <br>
 https://sites.google.com/view/tyronegamesez/home <br>
 https://sites.google.com/view/alpha-networksite/page <br>
 
+### Shell Shockers Alternatives ([credit](https://shellshockers.fandom.com/wiki/Alternate_URLs))
+https://shellshock.io 
+https://eggboy.me 
+https://algebra.best
+https://algebra.vip
+https://biologyclass.club
+https://deadlyegg.com
+https://deathegg.world
+https://egg.dance
+https://eggboy.club
+https://eggboy.xyz
+https://eggcombat.com
+https://eggfacts.fun
+https://egghead.institute
+https://eggisthenewblack.com
+https://eggsarecool.com
+https://eggshooter.best
+https://geometry.best
+https://geometry.monster
+https://geometry.pw
+https://geometry.report
+https://hardboiled.life
+https://hardshell.life
+https://humanorganising.org
+https://mathactivity.xyz
+https://mathdrills.info
+https://mathdrills.life
+https://mathfun.rocks
+https://mathgames.world
+https://math.international
+https://mathlete.fun
+https://mathlete.pro
+https://overeasy.club
+https://scrambled.tech
+https://scrambled.today
+https://scrambled.us
+https://scrambled.world
+https://shellsocks.com
+https://shellshockers.best
+https://shellshockers.club
+https://shellshockers.life
+https://shellshockers.site
+https://shellshockers.us
+https://shellshockers.world
+https://shellshockers.xyz
+https://softboiled.club
+https://urbanegger.com
+https://violentegg.club
+https://violentegg.fun
+https://yolk.best
+https://yolk.life
+https://yolk.quest
+https://yolk.rocks
+https://yolk.tech
+https://yolk.today
+https://zygote.cafe
+
+### Minecraft 
+##### Eaglercraft 
+https://kerosene.gmod9.com/nebula <br>
+https://kerosene.gmod9.com/oddfuture <br>
+https://eagler.almondnet.cn/Nebula.html <br>
+https://precisionclient-88k.pages.dev/ <br>
+https://webclient.asspixel.net/versions.html <br>
+##### Actual, real Minecraft
+https://bash.gg/ <br>
+https://loudsafari.com/ <br>
+https://flyinglambs.com/  <br>
+
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
 
