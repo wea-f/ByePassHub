@@ -1,7 +1,7 @@
 # ByePassHub > Games | updated Jan 15
 ## If you like this list, make sure to star it!
 ### This is a collection of links of ONLY games, no unblockers just games. 
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
+**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
