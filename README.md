@@ -4,7 +4,7 @@
 
 **Proxy, Games, AI, and app links:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file<br>
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
-**Main Game Links:** Go [here](https://github.com/wea-f/ByePassHub/blob/Games.md) or go to the Games.md file <br>
+**Main Game Links:** Go [here](https://github.com/wea-f/ByePassHub/tree/Games.md) or go to the Games.md file <br>
 ---
 
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
