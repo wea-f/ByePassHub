@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 11
+# ByePassHub > Main Links | updated Jan 15
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/bookmarklets/Exploits) or go to the Exploits folder. <br>
@@ -148,8 +148,8 @@ https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
-https://beta1.caculatorgeo.info/demo <br>
-https://beta7.caculatorgeo.info/demo <br>
+Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
+
 
 ### Shadow Broswer | web browser
 ##### gurdit.com links
@@ -177,9 +177,7 @@ https://sites.google.com/site/thegamecompilation/ <br>
 ##### Proxies Only
 https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
 ##### Games Only
-https://sites.google.com/view/retro-bowl-play <br>
-https://sites.google.com/view/slope-play/retro-bowl <br>
-https://sites.google.com/view/tyronegamesez/home <br>
+These links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 ##### Google Doodle Games
 https://www.google.com/logos/2018/gnomes/gnomes18.html <br>
 https://doodles.google/doodle/celebrating-loteria/ <br>
@@ -220,12 +218,10 @@ https://io.sqeven.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
 
 ### Vortex Math | soundboard + games | password:126711, games password: 649290
-https://vortexmath.my.canva.site/_password <br>
+Link have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### 3kh0 | a ton of games
-https://gray-sand-0ae3d2d10.2.azurestaticapps.net/ <br>
-https://3kh0-reborn.outred.dev/ <br>
-https://3kh0-gfiles.doge-math-pages.byethost33.com/ <br>
+Links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### Kazwire | Proxy, Games, Apps
 https://kazwiremath.us.to/ <br>
@@ -240,9 +236,7 @@ https://urine.espacoextra.pt/ <br>
 https://oak.asoch.cl/ <br>
 
 ### Selenite | A ton of games | can be opened in about:blank
-https://contact.zverovich.net/ <br>
-https://projects.blueshadows.cl/ <br>
-https://deals.youramys.com/ <br>
+Links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
@@ -300,7 +294,7 @@ https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/
 https://docs.google.com/document/d/1-8TpQDcP5gdzjvPCy2-ESrKy8n-OpetRkFt3VqkUTX4/edit <br>
 https://docs.google.com/document/d/1Q5V1AgsoS2hbCvQJ7RmDzx4ZRIaiGRLLhjkhOrjJqLc/edit?usp=sharing <br>
 https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br>
-https://docs.google.com/document/d/1ydL4e9SgtG7uq7abeRMiPnsGAM8oE_gsmIJvrykst_Y/edit#heading=h.8g9lop9f625i <br>                    
+https://docs.google.com/document/d/1ydL4e9SgtG7uq7abeRMiPnsGAM8oE_gsmIJvrykst_Y/edit#heading=h.8g9lop9f625i                
 https://github.com/S-PScripts/chromebook-utilities <br>
 https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464 <br>
 https://haleyschool.com/new-links <br>
