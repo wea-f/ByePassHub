@@ -259,8 +259,13 @@ https://you.com <br>
 https://chat-gpt.org <br>
 https://talkai.info/chat <br>
 https://bard.google.com/ <br>
-https://quizlet.com/qchat (you need to have an account)<br>
-https://www.hypotenuse.ai/ai-chat (you need to have an account) <br>
+https://simsimi.com/ <br>
+##### These ones you need to sign up
+https://quizlet.com/qchat <br>
+https://www.hypotenuse.ai/ai-chat <br>
+https://chat.kuki.ai/createaccount <br>
+https://my.replika.com/signup <br>
+https://www.jasper.ai/chat <br>
 ##### Others (a bit harder to access)
 ##### Grammarly Go (must have grammarly account)<br>
 Directions: Go into a document and press the GrammarlyGo button on the right side. <br>
