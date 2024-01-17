@@ -8,5 +8,6 @@
 ---
 
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
+**If you use any of these links for your OWN list, please make sure to credit me and the repository.** <br>
 **Credits are in the individual files** <br>
 **I am not responsbile for any illegal problems or being blamed on. It's your device and you control your own decisions.**
