@@ -5,7 +5,7 @@
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
-I've got these links from multiple sources. Like [haleyschool.com](https://haleyschool.com), [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
+I've got these links from multiple sources. Like [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
  ### FYI: <br>
   For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
@@ -33,6 +33,9 @@ https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/slope-play/retro-bowl <br>
 https://sites.google.com/view/tyronegamesez/home <br>
 https://sites.google.com/view/alpha-networksite/page <br>
+
+### Schoology
+https://schoologygamers.weebly.com/games.html <br>
 
 ### Shell Shockers Alternatives ([credit](https://shellshockers.fandom.com/wiki/Alternate_URLs))
 https://shellshock.io 
@@ -109,4 +112,10 @@ https://vortexmath.my.canva.site/_password <br>
 ### AIRMASH | Don't know why this was unblocked for me
 https://altao.azureedge.net/ <br>
 
+## Games
+Brick Out: https://www.ducksters.com/games/brick_out.php <br>
+Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
+Reflector: https://www.ducksters.com/games/reflector.php <br>
+Sorcerer: https://www.ducksters.com/games/sorcerer.php <br>
+GeoGuessr: https://www.geoguessr.com/ <br>
 
