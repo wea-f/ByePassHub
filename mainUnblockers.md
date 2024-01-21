@@ -13,7 +13,17 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
-
+---
+### Shortcuts & Table of Contents (doesn't include all websites):
+#### Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
+#### Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
+#### Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
+#### Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
+#### Artclass and Shuttle: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy)
+#### Proxies with less than 2 links (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
+#### AI: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai)
+#### Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work)
+---
 ## website title | what it contains | any note if needed
 
 ### Norepted | YT video watcher with history hiding 
