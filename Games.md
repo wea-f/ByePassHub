@@ -1,16 +1,18 @@
 # ByePassHub > Games | updated Jan 15
 ## If you like this list, make sure to star it!
-### This is a collection of links of ONLY games, no unblockers just games. 
+This is a collection of links of ONLY games, no unblockers just games.  
+
+---
+### Table of Contents:
+#### Game Hubs with multiple games inside: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games)
+#### Specific, Single Games: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
+---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
 I've got these links from multiple sources. Like [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
- ### FYI: <br>
-  For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
-  #### Some links MAY be down during school or any time. <br>
-  #### here is an [url opener](https://www.openallurls.com/) to save some time.
 
 ## website title | any note if needed
 
