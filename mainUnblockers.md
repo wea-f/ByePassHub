@@ -180,12 +180,18 @@ https://azrielmadethis.cheap-car-rental.com/ <br>
 ### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some proxy or games may be blocked 
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/ubg66/home <br>
+https://sites.google.com/view/un35/home <br>
 https://sites.google.com/view/bushhub/ <br>
+https://sites.google.com/view/www-clever-com/home <br>
+https://sites.google.com/view/access-denied-2-backup/home  <br>
 https://sites.google.com/view/supereducationalsite/home <br>
 https://sites.google.com/view/burritoedition/home <br>
+https://sites.google.com/view/tripplethepotatoes/home <br>
 https://sites.google.com/view/cbk-stuff/home?authuser=0 <br>
 https://sites.google.com/view/dengernetwork/home <br>
 https://sites.google.com/view/kirby-central <br>
+https://sites.google.com/view/wolfunblock/home<br>
+https://sites.google.com/view/master-editionn/home <br>
 https://sites.google.com/site/thegamecompilation/ <br>
 ##### Proxies Only
 https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
@@ -275,6 +281,9 @@ https://chat-gpt.org <br>
 https://talkai.info/chat <br>
 https://bard.google.com/ <br>
 https://simsimi.com/ <br>
+https://www.perplexity.ai/ <br>
+https://chatgpt.bestim.org <br>
+https://chatgpt1s.com/ <br>
 ##### These ones you need to sign up
 https://quizlet.com/qchat <br>
 https://www.hypotenuse.ai/ai-chat <br>
