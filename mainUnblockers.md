@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 15
+# ByePassHub > Main Links | updated Jan 24
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -83,6 +83,7 @@ https://kappa.y.glenwaverleychurches.org/ <br>
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
+**200 more Astroid Links** (use unblocker if restricted): https://pastes.io/wkgmzaxgsk <br>
 ##### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://differentialcalculus.uk.to/ <br>
@@ -141,6 +142,7 @@ https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to ac
 https://probability.welkomcity.co.za/ <br>
 ##### Misc. Astroid Links
 https://complexnumbers.digitaltv.cl/ <br>
+https://algebra.sentinam.io/worksheets/index.html <br>
 https://wordproblems.blackbooth.com.au/ <br>
 https://subtraction.javierblog.com/ <br>
 https://fractions.javierblog.com/ <br>
@@ -249,6 +251,9 @@ https://oak.asoch.cl/ <br>
 ### Selenite | A ton of games | can be opened in about:blank
 Links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
+### TBG95 | games and apps
+https://sio.sentinam.io/ <br>
+
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
@@ -316,3 +321,51 @@ https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec
 https://haleyschool.com/new-links <br>
 https://github.com/Salty-Coder/Unblocked-Sites <br>
 https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
+##### Proxy Discord Servers, these servers have many secret links that are probably unblocked
+Titanium Network [has a link dispenser]: https://discord.gg/unblock <br>  
+Interstellar [has a link dispenser]: https://discord.gg/interstellar  
+Shuttle Network [has a link dispenser]: https://discord.gg/xi  
+Rammerhead: https://discord.gg/VNT4E7gN5Y 
+ExtremeMath: https://discord.gg/extrememath-942214712349818880 
+Art Class [has a link dispenser]: https://discord.gg/desmos 
+EchoDev: https://discord.gg/echodev-971769908205604864 
+Kazwire [has a link dispenser]: https://discord.gg/kazwire 
+Utopia [has a link dispenser]: https://discord.gg/hFZC5cgsmq 
+Astroid: https://discord.gg/nowgg 
+Tinf0il [has a link dispenser]: https://discord.gg/aluminum 
+Doge Unblocker [has a link dispenser]: https://discord.gg/unblocking 
+Nova: https://discord.gg/nova-949081080571494450 
+TG95 Unblocked Games: https://discord.gg/sTZzAx77CR  
+Math Study: https://discord.gg/k5Hpsbre 
+Totally Science [has a link dispenser]: https://discord.gg/gRftfEgUbN 
+Delusions: https://discord.gg/vWkbFcqgnw  
+Cog Network: https://discord.gg/WMUzsUJRjm 
+Nebula Services [has a link dispenser]: https://discord.gg/unblocker 
+Galactic Network [has a link dispenser]: https://discord.gg/HU8u8vRWQ4 
+Abyss Services [has a link dispenser]: https://discord.gg/goabyss 
+SNORLAX'S CAVE [has a link dispenser]: https://discord.gg/snorlaxscave  
+Radon Games: https://discord.gg/86xjPkMk7v  
+Typeist Proxies: https://discord.gg/PxTGqHcugj  
+Shadow (has a link dispenser): https://discord.gg/goshadow  
+Math Orbit [has a link dispenser]: https://discord.gg/TGY24zYHV5  
+Ruby Network [has a link dispenser]: https://discord.gg/bXJCZJZcJe  
+Blue Hat Crew: https://discord.gg/Bcnqnbwx5c  
+Surfskip: https://discord.gg/vgEbRmzsaF  
+Noblocc: https://discord.gg/NmXE72R9Ud 
+Metallic (link dispenser is currently down): https://discord.gg/xhSprDzba9  
+Unblocked Cave: https://discord.gg/qjKeseN9FG 
+OutRed [has a link dispenser]: https://discord.gg/EU2GVw5Rb9  
+Selenite [has a link dispenser]: https://discord.gg/NGqUsuTd2M  
+Polaris: https://discord.gg/skool-community-950407933408198717  
+Bigfoot's Game Shack: https://discord.gg/bigfoots  
+Deblok: https://discord.gg/deblok  
+Alpha Network [has a link dispenser]: https://discord.gg/ae9rt5phKb  
+saturn space: https://discord.gg/NBSDeumhd2  
+Amethyst Network: https://discord.gg/KA2bKyyaYS  
+PLEXILE ARCADE: https://discord.gg/3ZNywZFQ5M  
+Flame Network: https://discord.gg/yfg7CjFPRv 
+Mocha [has a link dispenser]: https://discord.gg/JbnSrDxSxk  
+Night Network (proxy is still in development): https://discord.gg/mP7MEDZxNE 
+PBLocker [has a link dispenser]: https://discord.gg/85wvBERsEm  
+Syce's Game Shack: https://discord.gg/rTYbmvZC7X  
+
