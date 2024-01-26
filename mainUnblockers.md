@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 24
+# ByePassHub > Main Links | updated Jan 25
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -117,6 +117,9 @@ https://addition.tatuarte.cl <br>
 https://integralcalculus.asirargentina.com.ar/ <br>
 https://mathsoftware.asirargentina.com.ar/ <br>
 https://geometrycompass.asirargentina.com.ar/ <br>
+##### ariefcyber4rt.co.uk links
+https://numberlines.ariefcyber4rt.co.uk/ <br>
+https://mathvideos.ariefcyber4rt.co.uk/ <br>
 ##### ussargentina.com.ar links
 https://wordproblems.ussargentina.com.ar/ <br>
 https://educationalmathapps.ussargentina.com.ar/ <br>
@@ -140,6 +143,10 @@ https://mathsoftware.saixge.co.za/ <br>
 https://trigonometry.rivermile.co.za <br>
 https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to access)<br>
 https://probability.welkomcity.co.za/ <br>
+##### brettanderson.co.uk links
+https://trigonometry.brettanderson.co.uk/ <br>
+https://arithmetic.brettanderson.co.uk/ <br>
+https://linearalgebra.brettanderson.co.uk/ <br>
 ##### Misc. Astroid Links
 https://complexnumbers.digitaltv.cl/ <br>
 https://algebra.sentinam.io/worksheets/index.html <br>
@@ -159,6 +166,7 @@ https://mathsclass.youramys.com/ <br>
 https://learningalgebra101.tafca.co.uk/ <br>
 https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
+https://multiplication.worthingfirealarms.co.uk/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
