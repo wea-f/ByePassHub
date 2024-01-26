@@ -19,6 +19,7 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ### Selenite | RECOMMENDED
 https://contact.zverovich.net/ <br>
 https://projects.blueshadows.cl/ <br>
+https://archive.puzzles.rugeleychessclub.co.uk/ <br>
 https://deals.youramys.com/ <br>
 https://buy.deleesportsmedicine.com/ <br>
 https://buy.garagesport.ch/ <br>
