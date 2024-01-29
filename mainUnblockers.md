@@ -268,6 +268,10 @@ Links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.m
 ### TBG95 | games and apps
 https://sio.sentinam.io/ <br>
 
+### NEW! Dm Unbl0cker | games, proxy, apps (movies)
+https://free.unibutton.com/ <br>
+https://iam.pastrypowered.com/ <br>
+
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
