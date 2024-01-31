@@ -14,21 +14,19 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
-**Jan 31 Update: NEW [Emerald](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#Emerald--proxy-games-apps) proxy added, 5+ more Abyss, 5+ more Astroid**  <br>
-**Jan 30 Update: More Interstellar, Astroid, Shadow Browser, and Kazwire** <br>
+**Jan 31 Update: NEW** [Emerald](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-emerald--proxy-games-apps) proxy added, 5+ more Abyss, 5+ more Astroid  <br>
+**Jan 30 Update:** More Interstellar, Astroid, Shadow Browser, and Kazwire <br>
 
 ### Shortcuts & Table of Contents (doesn't include all websites):
-<br>
-
 Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) <br>
-Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-browser--web-browser) <br>
+Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser) <br>
 Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#google-sites--a-mixture-of-Games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) <br>
 Artclass, Shuttle, Abyss, EMERALD, Page Sandbox, and Kazwire: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
 Proxies with less than 2 links (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) <br>
 AI: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
 Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) <br>
-
+Proxy Servers: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#proxy-discord-servers-these-servers-have-many-secret-links-that-are-probably-unblocked) <br>
 ---
 
 ## website title | what it contains | any note if needed
