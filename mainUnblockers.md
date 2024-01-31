@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 28
+# ByePassHub > Main Links | updated Jan 30
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,12 +14,13 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
+**Jan 30 Update: More Interstellar, Astroid, Shadow Browser, and Kazwire**
 ### Shortcuts & Table of Contents (doesn't include all websites):
 #### Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
 #### Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
 #### Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
 #### Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
-#### Artclass and Shuttle: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy)
+#### Artclass, Shuttle, and Kazwire: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy)
 #### Proxies with less than 2 links (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
 #### AI: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai)
 #### Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work)
@@ -88,15 +89,18 @@ https://business.youramys.com/ <br>
 ##### .to asteroid links
 https://mathwork.uk.to/ <br>
 https://differentialcalculus.uk.to/ <br>
-https://miami-str.uk.to/ <br>
+https://miami-str.uk.to/ <br> <br>
+**NEW!** https://mathisfun.uk.to/ <br>
+**NEW!** https://english-reading-games.uk.to/ <br>
 https://mathisthebest.us.to/ <br>
-https://mathamatics.us.to/ <br>
+https://mathamatics.us.to/ <br> <br>
 https://subtraction.fr.to/ <br>
 https://statistics.fr.to <br>
 https://education2.fr.to/ <br>
 https://education3.fr.to/ <br>
 https://education4.fr.to/ <br>
 https://education5.fr.to/ <br>
+**NEW!** https://social-studies-work.fr.to/ <br>
 ##### martinalia.com links
 https://analyticgeometry.martinalia.com/ <br>
 https://graphingcalculators.martinalia.com/ <br>
@@ -169,6 +173,7 @@ https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
 https://multiplication.worthingfirealarms.co.uk/ <br>
 **NEW!** https://geometrycompass.panel-laboralcj.gob.mx/ <br>
+**NEW!** https://mathcompetitions.kick.sh/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
@@ -232,6 +237,11 @@ https://artclass.hop.sh <br>
 https://proxies.hop.sh <br>
 https://unblocker.hop.sh <br>
 
+### Kazwire | Proxy, Games, Apps
+https://kazwiremath.us.to/ <br>
+**NEW!** https://math.rehabforum.org/ <br>
+**NEW!** https://english.sanjan.com.np/ <br>
+**NEW!** https://chemistry.jcho.com/ <br>
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
 https://design.showmyhomes.com/ <br>
@@ -252,9 +262,6 @@ Link have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md
 
 ### 3kh0 | a ton of games
 Links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
-
-### Kazwire | Proxy, Games, Apps
-https://kazwiremath.us.to/ <br>
 
 ### Incognito | Proxy, Games, Apps
 https://5.hop.sh/ <br>
@@ -280,7 +287,6 @@ https://proxy-server.azurewebsites.net/index.php <br>
 
 ### Doge | proxy, games, apps
 https://home.emersonbrookforest.org/app<br>
-
 
 ### Buypass | not quite proxy | lasts 3 minutes, doesn't bypass network filters
 https://playful-meringue-fb58bc.netlify.app/ <br>
