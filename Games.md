@@ -17,12 +17,21 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ## website title | any note if needed
 
 ### Selenite | RECOMMENDED
-https://contact.zverovich.net/ <br>
+##### blueshadows.cl links
 https://projects.blueshadows.cl/ <br>
+https://telescopes.blueshadows.cl/ <br>
+##### garamanage.com links
+https://thevoicesaregettinglouder.garmanage.com/ <br>
+https://sizing.tool.garmanage.com/ <br>
+##### Misc.
+https://contact.zverovich.net/ <br>
 https://archive.puzzles.rugeleychessclub.co.uk/ <br>
 https://deals.youramys.com/ <br>
 https://buy.deleesportsmedicine.com/ <br>
 https://buy.garagesport.ch/ <br>
+https://information.potomacriversafetycommittee.org/<br>
+http://static.69.118.161.5.clients.your-server.de/ <br>
+https://edu.kick.sh/ <br>
 https://checkout.donate.potomacriversafetycommittee.org/ <br>
 https://clubs.tafca.co.uk/ <br>
 https://fediverse.faefox.org/ <br>
@@ -30,6 +39,8 @@ https://form.contact.essexregional.org/ <br>
 https://pricing.tourism.mza.com.ar/ <br>
 https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
+
+
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://beta1.caculatorgeo.info/demo <br>
 https://beta7.caculatorgeo.info/demo <br>
