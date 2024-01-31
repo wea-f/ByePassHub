@@ -20,6 +20,7 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ##### blueshadows.cl links
 https://projects.blueshadows.cl/ <br>
 https://telescopes.blueshadows.cl/ <br>
+https://fideos.projects.blueshadows.cl <br>
 ##### garamanage.com links
 https://thevoicesaregettinglouder.garmanage.com/ <br>
 https://sizing.tool.garmanage.com/ <br>
@@ -58,6 +59,33 @@ https://sites.google.com/view/alpha-networksite/page <br>
 https://sites.google.com/view/bushhub/home <br>
 https://sites.google.com/view/noah-hub/ <br>
 https://sites.google.com/view/bingforschools/Google?authuser=0 <br>
+
+### NEW! Jordan's Math Work
+https://www.jordansmathwork.cf/  <br>
+https://jmw.algebrashelper.com/  <br>
+https://jmw.mathisthebest.xyz/  <br>
+https://a1riscool.easyreadwrite.xyz/ (CLICK 1 ON YOUR KEYBOARD TWICE) <br>
+https://jmw.tethers.wiki/   <br>
+https://new.commanders.design/ <br>
+https://5min.doityourselfcrafts.design/     <br>
+https://onk.vercel.app/   <br>
+https://dash.schoolcharts.lat/  <br>
+https://getridof.chubsinfestation.design/  <br>
+https://school.stem-challenges.quest/  <br>
+https://help-from.your.learningally.cfd/  <br>
+https://everyone.loves.bachsite.us/  <br>
+https://really.the.eaglessuck.design/  <br> 
+https://who-does-not.love.blackwomen.design/  <br>
+https://voting-for.better.eduacation.pro/  <br>
+https://detailed.articles.nasa-info.link/  <br>
+https://i-am.a.eduacation.pro/  <br>
+https://cnn10.nasa-info.link/  <br>
+https://jobs.more.nasa-info.link/  <br>
+https://insights.info.nasatech.space/  <br>
+https://dashboard.viewing.gianthomesforsale.homes  <br>
+https://learning.about.nasatechnology.space  <br>
+https://portfolio.tether-dev.com/    <br>
+https://tutoring.easyreadwrite.xyz/   <br>
 
 ### Schoology
 https://schoologygamers.weebly.com/games.html <br>
