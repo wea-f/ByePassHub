@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Jan 24
+# ByePassHub > Games | updated Feb 2
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -40,6 +40,7 @@ https://form.contact.essexregional.org/ <br>
 https://pricing.tourism.mza.com.ar/ <br>
 https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
+**NEW!** https://art.portfolio.steveharrop.co.uk/ <br>
 
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
@@ -154,6 +155,7 @@ https://kerosene.gmod9.com/oddfuture <br>
 https://eagler.almondnet.cn/Nebula.html <br>
 https://precisionclient-88k.pages.dev/ <br>
 https://webclient.asspixel.net/versions.html <br>
+**NEW!** http://marccraft.mooo.com/secret/mc/minecraftoff.html <br>
 ##### Actual, real Minecraft
 https://bash.gg/ <br>
 https://loudsafari.com/ <br>
@@ -168,7 +170,13 @@ https://altao.azureedge.net/ <br>
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
 Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
+**NEW!** Snow Rider 3D: https://gg-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/89574567@71f165531792ae450fe0a522a52ba4e827344de2/sr3d.xml <br>
+**NEW!** Time Shooter: https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@0d8fb9c7430567ed0900902593eee6ba2ba8d297/ts3.xml <br>
+**NEW!** Mario 64: https://2pu896.csb.app/ <br>
+**NEW!** Swerve: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/VecAxR3e/index.html <br>
+**NEW!** Idle Breakout: https://rawcdn.githack.com/3kh0/3kh0-Assets/master/idle-breakout/index.html <br>
 Reflector: https://www.ducksters.com/games/reflector.php <br>
 Sorcerer: https://www.ducksters.com/games/sorcerer.php <br>
+
 GeoGuessr: https://www.geoguessr.com/ <br>
 
