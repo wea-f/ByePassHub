@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Jan 30
+# ByePassHub > Main Links | updated Feb 2
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,8 +14,8 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
+**Feb 2 Update: NEW** [Celestial Network proxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 10+ Interstellar, 5+ more Astroid
 **Jan 31 Update: NEW** [Emerald](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-emerald--proxy-games-apps) proxy added, 5+ more Abyss, 5+ more Astroid  <br>
-**Jan 30 Update:** More Interstellar, Astroid, Shadow Browser, and Kazwire <br>
 
 ### Shortcuts & Table of Contents (doesn't include all websites):
 Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
@@ -82,10 +82,21 @@ https://dish.cooking.youramys.com/ <br>
 https://kitchen.cooking.youramys.com/ <br>
 https://recipe.cooking.youramys.com/ <br>
 https://business.youramys.com/ <br>
+##### glenwaverleychurhces.org links
+https://kappa.y.glenwaverleychurches.org/ <br>
+**NEW!** https://alpha.y.glenwaverleychurches.org/ <br>
+**NEW!** https://beta.y.glenwaverleychurches.org/ <br>
+##### lakeballs.fi links
+**NEW!** https://h2o.lakeballs.fi/ <br>
+**NEW!** https://ocean.lakeballs.fi/ <br>
 ##### Misc. Interstellar Links
-**NEW!** https://kappa.y.glenwaverleychurches.org/ <br>
-**NEW!** https://w.r.youngchurch.org/ <br>
-**NEW!** https://a.j.kayru.org/ <br>
+https://w.r.youngchurch.org/ <br>
+https://a.j.kayru.org/ <br>
+**NEW!** https://dove.soapagent.com/ <br>
+**NEW!** https://dove.soapclient.com/ <br>
+**NEW!** https://spacial-awareness.potomacriversafetycommittee.org/ <br>
+**NEW!** https://workshop.precisewarehousing.com/ <br>
+**NEW!** https://acetaminophen.deleesportsmedicine.com/ <br>
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
@@ -157,6 +168,12 @@ https://probability.welkomcity.co.za/ <br>
 https://trigonometry.brettanderson.co.uk/ <br>
 https://arithmetic.brettanderson.co.uk/ <br>
 https://linearalgebra.brettanderson.co.uk/ <br>
+##### youramys.com links
+https://peardeck.youramys.com/ <br>
+https://mathsclass.youramys.com/ <br>
+##### deleesportsmedicine.com links
+**NEW!** https://multiplication.deleesportsmedicine.com/ <br>
+**NEW!** https://matrices.deleesportsmedicine.com/ <br>
 ##### Misc. Astroid Links
 https://complexnumbers.digitaltv.cl/ <br>
 https://algebra.sentinam.io/worksheets/index.html <br>
@@ -171,8 +188,6 @@ https://integralcalculus.starnightimport.com/ <br>
 https://geometry.starnightimport.com/ <br>
 https://differentialequations.poptour.com.ar/ <br>
 https://photography.abatek.com/ <br>
-https://peardeck.youramys.com/ <br>
-https://mathsclass.youramys.com/ <br>
 https://learningalgebra101.tafca.co.uk/ <br>
 https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
@@ -180,6 +195,7 @@ https://multiplication.worthingfirealarms.co.uk/ <br>
 **NEW!** https://geometrycompass.panel-laboralcj.gob.mx/ <br>
 **NEW!** https://mathcompetitions.kick.sh/ <br>
 **NEW!** https://trigonometry.abk.ch <br>
+
 
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
@@ -216,6 +232,7 @@ https://sites.google.com/view/kirby-central <br>
 https://sites.google.com/view/wolfunblock/home<br>
 https://sites.google.com/view/master-editionn/home <br>
 https://sites.google.com/site/thegamecompilation/ <br>
+**NEW!** https://sites.google.com/view/bushhub/ <br>
 ##### Proxies Only
 https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
 ##### Games Only
@@ -246,9 +263,10 @@ https://unblocker.hop.sh <br>
 
 ### Kazwire | Proxy, Games, Apps
 https://kazwiremath.us.to/ <br>
-**NEW!** https://math.rehabforum.org/ <br>
-**NEW!** https://english.sanjan.com.np/ <br>
-**NEW!** https://chemistry.jcho.com/ <br>
+https://math.rehabforum.org/ <br>
+https://english.sanjan.com.np/ <br>
+https://chemistry.jcho.com/ <br>
+**NEW!** https://joshyboshyboi.fr.to/ <br>
 
 ### Page Sandbox | proxy + apps like reddit and twitch | Ignore the random Chinese text it doesn't do anything
 https://j.xj2.workers.dev/ <br>
@@ -270,6 +288,9 @@ https://oak.asoch.cl/ <br>
 **NEW!** https://greatestaxeofflox.thelmadejager.co.za/ <br>
 **NEW!** https://greatestaxeofllow.thelmadejager.co.za/ <br>
 **NEW!** https://how-to-make.soapagent.com/  <br>
+
+### NEW! Celestial Network
+https://287kx5.csb.app/ <br>
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
 https://design.showmyhomes.com/ <br>
@@ -305,6 +326,9 @@ https://proxy-server.azurewebsites.net/index.php <br>
 
 ### Doge | proxy, games, apps
 https://home.emersonbrookforest.org/app<br>
+
+### NEW! miniProxy
+https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php <br>
 
 ### Buypass | not quite proxy | lasts 3 minutes, doesn't bypass network filters
 https://playful-meringue-fb58bc.netlify.app/ <br>
