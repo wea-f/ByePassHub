@@ -14,8 +14,8 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
-**Feb 2 Update: NEW** [Celestial Network proxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 10+ Interstellar, 5+ more Astroid
-**Jan 31 Update: NEW** [Emerald](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-emerald--proxy-games-apps) proxy added, 5+ more Abyss, 5+ more Astroid  <br>
+**Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** AI checker section!<br>
+**Feb 2 Update: NEW** [Celestial Network proxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 10+ Interstellar, 5+ more Astroid <br>
 
 ### Shortcuts & Table of Contents (doesn't include all websites):
 Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
@@ -65,6 +65,8 @@ https://behavioradventure.hop.sh/ <br>
 https://democraticmystery.hop.sh/ <br>
 https://memorialhelicopter.hop.sh/ <br>
 https://banana.hop.sh/ <br>
+**NEW!** https://monkey.hop.sh/ <br>
+**NEW!** sh.hop.sh <br>
 #### Not hop.sh links
 ##### shekinahphotography.com links
 https://illuminate.autumn.shekinahphotography.com/ <br>
@@ -174,6 +176,12 @@ https://mathsclass.youramys.com/ <br>
 ##### deleesportsmedicine.com links
 **NEW!** https://multiplication.deleesportsmedicine.com/ <br>
 **NEW!** https://matrices.deleesportsmedicine.com/ <br>
+##### pakasak.com links
+**NEW!** https://badastroid.pakasak.com/ <br>
+**NEW!** https://subtraction.pakasak.com <br>
+##### bookworm.com.np links
+**NEW!** https://now.bookworm.com.np/ <br>
+**NEW!** https://arithmetic.bookworm.com.np <br>
 ##### Misc. Astroid Links
 https://complexnumbers.digitaltv.cl/ <br>
 https://algebra.sentinam.io/worksheets/index.html <br>
@@ -192,10 +200,11 @@ https://learningalgebra101.tafca.co.uk/ <br>
 https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
 https://multiplication.worthingfirealarms.co.uk/ <br>
-**NEW!** https://geometrycompass.panel-laboralcj.gob.mx/ <br>
-**NEW!** https://mathcompetitions.kick.sh/ <br>
-**NEW!** https://trigonometry.abk.ch <br>
-
+https://geometrycompass.panel-laboralcj.gob.mx/ <br>
+https://mathcompetitions.kick.sh/ <br>
+https://trigonometry.abk.ch <br>
+**NEW!** https://inboxastroid.fr.to/ <br>
+**NEW!** https://statistics.glk.com.np/ <br>
 
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
@@ -288,6 +297,9 @@ https://oak.asoch.cl/ <br>
 **NEW!** https://greatestaxeofflox.thelmadejager.co.za/ <br>
 **NEW!** https://greatestaxeofllow.thelmadejager.co.za/ <br>
 **NEW!** https://how-to-make.soapagent.com/  <br>
+**NEW!** https://oiuytrewq.pakasak.com/ <br>
+**NEW!** https://morphputtoswell.uk.to/ <br>
+**NEW!** https://hoselsaintoscar.uk.to/ <br>
 
 ### NEW! Celestial Network
 https://287kx5.csb.app/ <br>
@@ -347,17 +359,22 @@ https://simsimi.com/ <br>
 https://www.perplexity.ai/ <br>
 https://chatgpt.bestim.org <br>
 https://chatgpt1s.com/ <br>
+**NEW!** https://www.wolframalpha.com/ <br>
 ##### These ones you need to sign up
 https://quizlet.com/qchat <br>
 https://www.hypotenuse.ai/ai-chat <br>
 https://chat.kuki.ai/createaccount <br>
 https://my.replika.com/signup <br>
 https://www.jasper.ai/chat <br>
+https://poe.com/login <br>
 ##### Others (a bit harder to access)
 ##### Grammarly Go (must have grammarly account)<br>
 Directions: Go into a document and press the GrammarlyGo button on the right side. <br>
 ##### BingAI
 Directions: Go to bing.com or Microsoft Edge and hit the chat icon on the sidebar.
+##### NEW! Ai Checker
+https://www.zerogpt.com/ <br>
+https://writer.com/ai-content-detector/ <br>
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
 https://twigs-utilities.github.io/Pr0x1es.html <br>
