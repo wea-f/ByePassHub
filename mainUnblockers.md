@@ -14,7 +14,7 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
-**Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** AI checker section!<br>
+**Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
 **Feb 2 Update: NEW** [Celestial Network proxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 10+ Interstellar, 5+ more Astroid <br>
 
 ### Shortcuts & Table of Contents (doesn't include all websites):
