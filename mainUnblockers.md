@@ -1,12 +1,11 @@
-# ByePassHub > Main Links | updated Feb 3
+# ByePassHub > Main Links | updated Feb 6
 ## If you like this list, make sure to star it!
-### This is a collection of links of proxies, games, AI, and apps that work in MY school. 
+### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
-I've got these links from multiple sources. Like [haleyschool.com](https://haleyschool.com), [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
- ### FYI: <br>
+ #### FYI: <br>
   For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
   A proxy is an unblocker, used for searching anything up on Google or going to any website. <br>
   Examples of apps are like youtube, discord, roblox, AI, pinterest, and more. <br> 
@@ -14,19 +13,22 @@ I've got these links from multiple sources. Like [haleyschool.com](https://haley
   #### Some links MAY be down during school or any time. <br>
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
+## Updates/Changes:
+**Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solvers-calculators) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [DOGE UNBLOCKER](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#doge--proxy-games-apps) links and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
 **Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
-**Feb 2 Update: NEW** [Celestial Network proxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 10+ Interstellar, 5+ more Astroid <br>
 
-### Shortcuts & Table of Contents (doesn't include all websites):
+
+## Shortcuts & Table of Contents:
 Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) <br>
 Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser) <br>
 Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#google-sites--a-mixture-of-Games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) <br>
-Artclass, Shuttle, Abyss, EMERALD, Page Sandbox, and Kazwire: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
+Artclass, Shuttle, Abyss, EMERALD, Page Sandbox, DOGE, and Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
 Proxies with less than 2 links (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) <br>
-AI: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
+AI and Calculators: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
 Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) <br>
 Proxy Servers: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#proxy-discord-servers-these-servers-have-many-secret-links-that-are-probably-unblocked) <br>
+
 ---
 
 ## website title | what it contains | any note if needed
@@ -182,6 +184,9 @@ https://mathsclass.youramys.com/ <br>
 ##### bookworm.com.np links
 **NEW!** https://now.bookworm.com.np/ <br>
 **NEW!** https://arithmetic.bookworm.com.np <br>
+##### journaliststudio.com links
+**NEW!** https://division.journaliststudio.com/ <br>
+**NEW!** https://graphingcalculators.journaliststudio.com/ <br>
 ##### Misc. Astroid Links
 https://complexnumbers.digitaltv.cl/ <br>
 https://algebra.sentinam.io/worksheets/index.html <br>
@@ -301,6 +306,12 @@ https://oak.asoch.cl/ <br>
 **NEW!** https://morphputtoswell.uk.to/ <br>
 **NEW!** https://hoselsaintoscar.uk.to/ <br>
 
+### Doge | proxy, games, apps
+https://home.emersonbrookforest.org/app <br>
+**NEW!** https://blog.journaliststudio.com/app <br>
+**NEW!** https://analytics.thebluecanopy.com/app <br>
+**NEW!** https://lunyrbvg.us.to/app <br>
+
 ### NEW! Celestial Network
 https://287kx5.csb.app/ <br>
 
@@ -336,9 +347,6 @@ https://iam.pastrypowered.com/ <br>
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
-### Doge | proxy, games, apps
-https://home.emersonbrookforest.org/app<br>
-
 ### NEW! miniProxy
 https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php <br>
 
@@ -349,7 +357,7 @@ https://kf8pr9d.micasuki.com/ <br>
 #### If the links above are blocked, just use another proxy to unblock those blocked sites
 https://j.xj2.workers.dev/-----https://buypass.bypassi.com/ <br>
 
-### AI 
+### AI and Homework Solvers
 https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
@@ -360,6 +368,15 @@ https://www.perplexity.ai/ <br>
 https://chatgpt.bestim.org <br>
 https://chatgpt1s.com/ <br>
 **NEW!** https://www.wolframalpha.com/ <br>
+**NEW!** https://qanda.ai/en/search/ <br>
+**NEW! Homework Solvers/Calculators:** <br>
+https://www.symbolab.com/solver <br>
+https://www.mathway.com/Algebra <br>
+https://www.geogebra.org/solver <br>
+https://cameramath.com/mathsolver <br>
+https://mathforyou.net/en/online/ <br>
+https://www.tiger-algebra.com/ <br>
+https://quickmath.com/solve/ <br>
 ##### These ones you need to sign up
 https://quizlet.com/qchat <br>
 https://www.hypotenuse.ai/ai-chat <br>
@@ -375,6 +392,8 @@ Directions: Go to bing.com or Microsoft Edge and hit the chat icon on the sideba
 ##### NEW! Ai Checker
 https://www.zerogpt.com/ <br>
 https://writer.com/ai-content-detector/ <br>
+
+---
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
 https://twigs-utilities.github.io/Pr0x1es.html <br>
@@ -458,3 +477,5 @@ Night Network (proxy is still in development): https://discord.gg/mP7MEDZxNE <br
 PBLocker [has a link dispenser]: https://discord.gg/85wvBERsEm  <br>  
 Syce's Game Shack: https://discord.gg/rTYbmvZC7X  <br>  
 
+### Credits
+I've got these links from multiple sources. Especially from the proxy lists google docs above. Others include [haleyschool.com](https://haleyschool.com), [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [io.forums (forum number 14464)](https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec-2023/14464), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made.  
