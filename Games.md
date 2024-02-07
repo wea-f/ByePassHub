@@ -4,7 +4,12 @@ This is a collection of links of ONLY games, no unblockers just games.
 
 ---
 ### Table of Contents:
-#### Game Hubs with multiple games inside: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games)
+#### Selenite (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
+#### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+#### Google Site (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+#### Jordan's Math Work and 3kh0 (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#3kh0--recommended)
+#### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
+#### Minecraft and more (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### Specific, Single Games: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -41,6 +46,10 @@ https://pricing.tourism.mza.com.ar/ <br>
 https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
 **NEW!** https://art.portfolio.steveharrop.co.uk/ <br>
+**NEW!** https://form.contact.essexregional.org <br>
+**NEW!** https://staff.about.essexregional.org/ <br>
+**NEW!** https://weston-makes-links.mooo.com/ <br>
+**NEW!** https://weston-is-honest.fr.to/ <br>
 
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
@@ -164,6 +173,9 @@ https://flyinglambs.com/  <br>
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
 
+### Lich
+https://lichgames.s3.amazonaws.com/index.html <br>
+
 ### AIRMASH | Don't know why this was unblocked for me
 https://altao.azureedge.net/ <br>
 
@@ -177,6 +189,7 @@ Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
 **NEW!** Idle Breakout: https://rawcdn.githack.com/3kh0/3kh0-Assets/master/idle-breakout/index.html <br>
 Reflector: https://www.ducksters.com/games/reflector.php <br>
 Sorcerer: https://www.ducksters.com/games/sorcerer.php <br>
-
 GeoGuessr: https://www.geoguessr.com/ <br>
-
+**NEW!** Swerve: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/VecAxR3e/index.html <br>
+**NEW!** Offline: https://rgukt-sklm-abccf.firebaseapp.com/taxa/taxa.html <br>
+**NEW!** Tas: https://tasweb.org/games.html <br>
