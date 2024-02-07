@@ -369,7 +369,7 @@ https://chatgpt.bestim.org <br>
 https://chatgpt1s.com/ <br>
 **NEW!** https://www.wolframalpha.com/ <br>
 **NEW!** https://qanda.ai/en/search/ <br>
-**NEW! Homework Solvers/Calculators:** <br>
+#### NEW! Homework Solvers/Calculators: <br>
 https://www.symbolab.com/solver <br>
 https://www.mathway.com/Algebra <br>
 https://www.geogebra.org/solver <br>
