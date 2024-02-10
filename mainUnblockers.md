@@ -424,6 +424,7 @@ https://haleyschool.com/new-links <br>
 https://github.com/Salty-Coder/Unblocked-Sites <br>
 https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
 ##### Proxy Discord Servers, these servers have many secret links that are probably unblocked
+### CAUTION!! MANY OF THESE SERVERS WILL BAN YOU FOR LEAKING LEAKS PUBLICLY, USE IT FOR PRIVATE USE ONLY
 Titanium Network [has a link dispenser]: https://discord.gg/unblock <br>  
 Interstellar [has a link dispenser]: https://discord.gg/interstellar  <br>  
 Shuttle Network [has a link dispenser]: https://discord.gg/xi  <br>  
