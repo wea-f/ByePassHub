@@ -14,7 +14,7 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
-**Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [DOGE UNBLOCKER](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#doge--proxy-games-apps) links and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
+**Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
 **Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
 
 
@@ -308,9 +308,6 @@ https://oak.asoch.cl/ <br>
 
 ### Doge | proxy, games, apps
 https://home.emersonbrookforest.org/app <br>
-**NEW!** https://blog.journaliststudio.com/app <br>
-**NEW!** https://analytics.thebluecanopy.com/app <br>
-**NEW!** https://lunyrbvg.us.to/app <br>
 
 ### NEW! Celestial Network
 https://287kx5.csb.app/ <br>
