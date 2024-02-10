@@ -23,7 +23,7 @@ Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblocker
 Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) <br>
 Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser) <br>
 Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#google-sites--a-mixture-of-Games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) <br>
-Artclass, Shuttle, Abyss, EMERALD, Page Sandbox, DOGE, and Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
+Artclass, Shuttle, Abyss, EMERALD, Page Sandbox,and Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
 Proxies with less than 2 links (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) <br>
 AI and Calculators: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
 Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) <br>
@@ -305,9 +305,6 @@ https://oak.asoch.cl/ <br>
 **NEW!** https://oiuytrewq.pakasak.com/ <br>
 **NEW!** https://morphputtoswell.uk.to/ <br>
 **NEW!** https://hoselsaintoscar.uk.to/ <br>
-
-### Doge | proxy, games, apps
-https://home.emersonbrookforest.org/app <br>
 
 ### NEW! Celestial Network
 https://287kx5.csb.app/ <br>
