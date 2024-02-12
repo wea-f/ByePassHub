@@ -14,7 +14,7 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
-**Feb 11 Update:** Added **NEW** [FlowOS links](), **NEW** [Tinf0il link](), 5+ more [Shadow Browser Links](), updated [Interstellar links]() <br>
+**Feb 11 Update:** Added **NEW** [FlowOS links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-flowos--web-browser), **NEW** [Tinf0il link](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-tinf0il--games-proxy-apps), 5+ more [Shadow Browser Links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser), updated [Interstellar links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 **Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
 **Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
 
