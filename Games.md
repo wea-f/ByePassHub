@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Feb 2
+# ByePassHub > Games | updated Feb 11
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -6,6 +6,7 @@ This is a collection of links of ONLY games, no unblockers just games.
 ### Table of Contents:
 #### Selenite (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
 #### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+#### Phantom Games (tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-phantom-games--recommended)
 #### Google Site (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### Jordan's Math Work and 3kh0 (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#3kh0--recommended)
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
@@ -51,10 +52,17 @@ https://selenite.skysthelimit.dev/ <br>
 **NEW!** https://weston-makes-links.mooo.com/ <br>
 **NEW!** https://weston-is-honest.fr.to/ <br>
 
-
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://beta1.caculatorgeo.info/demo <br>
 https://beta7.caculatorgeo.info/demo <br>
+
+### NEW Phantom Games | RECOMMENDED
+**NEW!** https://freedns.afraid.org.uk.to/ <br>
+**NEW!** https://idididididididididididididiidididididididididididididididididid.us.to/ <br>
+**NEW!** https://iamsobored.ah.spikygames.fr.to/ <br>
+**NEW!** https://lorick1.us.to/ <br>
+**NEW!** https://steelplunkrunic.uk.to/ <br>
+**NEW!** https://endless-science-help.ftp.sh/ <br>
 
 ### 3kh0 | RECOMMENDED
 https://gray-sand-0ae3d2d10.2.azurestaticapps.net/ <br>
