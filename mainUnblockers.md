@@ -14,6 +14,7 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
+**Feb 12 Update:** Added more Shuttle and Astroid <br>
 **Feb 11 Update:** Added **NEW** [FlowOS links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-flowos--web-browser), **NEW** [Tinf0il link](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-tinf0il--games-proxy-apps), 5+ more [Shadow Browser Links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser), updated [Interstellar links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 **Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
 **Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
@@ -193,7 +194,8 @@ https://trigonometry.abk.ch <br>
 **NEW!** https://inboxastroid.fr.to/ <br>
 **NEW!** https://statistics.glk.com.np/ <br>
 **NEW!** https://educationalmathapps.radiolallave.cl/ <br>
-
+**NEW!** https://differentialcalculus.226vitech.com/ <br>
+**NEW!** https://calculus.myers-usa.com <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
@@ -251,6 +253,7 @@ https://learnsmartly.org <br>
 https://atutor.tien-shan.org/ <br>
 https://geometry.precisewarehousing.com/ <br>
 https://counting.jweststudio.com/ <br>
+**NEW!** https://homework.226vitech.com/ <br>
 
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
