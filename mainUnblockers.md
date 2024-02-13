@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Feb 11
+# ByePassHub > Main Links | updated Feb 13
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,7 +14,7 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
-**Feb 12 Update:** Added more Shuttle and Astroid <br>
+**Feb 12 & 13 Update:** Added more Shuttle and Astroid <br>
 **Feb 11 Update:** Added **NEW** [FlowOS links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-flowos--web-browser), **NEW** [Tinf0il link](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-tinf0il--games-proxy-apps), 5+ more [Shadow Browser Links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser), updated [Interstellar links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 **Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
 **Feb 3 Update:** 10+ more Astroid, Interstellar, AI, and Emerald links and added **NEW** [AI checker](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-ai-checker) section!<br>
@@ -196,6 +196,8 @@ https://trigonometry.abk.ch <br>
 **NEW!** https://educationalmathapps.radiolallave.cl/ <br>
 **NEW!** https://differentialcalculus.226vitech.com/ <br>
 **NEW!** https://calculus.myers-usa.com <br>
+**NEW!** https://fractions.javierblog.com/ <br>
+**NEW!** https://subtraction.javierblog.com/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
