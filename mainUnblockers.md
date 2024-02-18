@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Feb 13
+# ByePassHub > Main Links | updated Feb 17
 ## If you like this list, make sure to star it!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,7 +14,7 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
-**Feb 15 Update**: 15+ MORE INTERSTELLAR! <br>
+**Feb 15 & 17 Update**: 20+ MORE INTERSTELLAR, more LISTS LIKE THIS ONE! <br>
 **Feb 12 & 13 Update:** Added more Shuttle and Astroid <br>
 **Feb 11 Update:** Added **NEW** [FlowOS links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-flowos--web-browser), **NEW** [Tinf0il link](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-tinf0il--games-proxy-apps), 5+ more [Shadow Browser Links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser), updated [Interstellar links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 **Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
@@ -71,23 +71,31 @@ https://kappa.y.glenwaverleychurches.org/ <br>
 **NEW!** https://alpha.y.glenwaverleychurches.org/ <br>
 **NEW!** https://beta.y.glenwaverleychurches.org/ <br>
 **NEW!** https://epsilon.y.glenwaverleychurches.org/ <br>
+**NEW!** https://lambda.y.glenwaverleychurches.org/ <br>
+**NEW!** https://delta.y.glenwaverleychurches.org/ <br>
 ##### lakeballs.fi links
 **NEW!** https://h2o.lakeballs.fi/ <br>
 **NEW!** https://ocean.lakeballs.fi/ <br>
 ##### kayru.org links
 https://j.kayru.org/ <br>
 https://a.j.kayru.org/ <br>
+##### texasmath links
+**NEW!** https://e.t.texasmath.org/ <br>
+ttps://w.t.texasmath.org/ <br>
+##### h4xxel.org links
+**NEW** https://x4.o.h4xxel.org <br>
+https://j.o.h4xxel.org/ <br> <br>
 ##### Misc. Interstellar Links
 https://w.r.youngchurch.org/ <br>
-**NEW!** https://dove.soapagent.com/ <br>
-**NEW!** https://dove.soapclient.com/ <br>
-**NEW!** https://spacial-awareness.potomacriversafetycommittee.org/ <br>
-**NEW!** https://workshop.precisewarehousing.com/ <br>
+https://dove.soapagent.com/ <br>
+https://dove.soapclient.com/ <br>
+https://spacial-awareness.potomacriversafetycommittee.org/ <br>
+https://workshop.precisewarehousing.com/ <br>
 **NEW!** https://acetaminophen.deleesportsmedicine.com/ <br>
 **NEW!** xp.x14n.org <br>
-**NEW!** https://w.t.texasmath.org/ <br>
 **NEW!** https://ocean.lakeballs.fi/ <br>
-**NEW!** https://j.o.h4xxel.org/ <br>
+**NEW!** w.q.sagesinst.org <br>
+**NEW!** https://news.about.dansted.org/ <br>
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
@@ -395,6 +403,8 @@ https://writer.com/ai-content-detector/ <br>
 ---
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
+**NEW!** https://bio.link/theblackhand <br>
+**NEW!** https://bio.link/fuhnny <br>
 https://twigs-utilities.github.io/Pr0x1es.html <br>
 https://docs.google.com/document/d/127R3fjJAeJeavA-6B2o4gMFJHeCxOo6v53Nmo6gjMPw/edit <br>
 https://docs.google.com/document/d/1PEOeAQOTFgJBL80K49ZEGM4a6ubAH_XJck8ZbQfizIc/edit <br>
