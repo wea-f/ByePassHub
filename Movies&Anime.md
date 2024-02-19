@@ -1,4 +1,4 @@
-# ByePassHub > Movies & Anime | created Feb 16
+# ByePassHub > Movies & Anime | updated Feb 19
 ## If you like this list, make sure to star it!
 ### This is a collection of links of movies and anime watchers **free**! 
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -9,11 +9,6 @@
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
   #### Use a proxy if site is blocked.
 ---
-## Shortcuts & Table of Contents:
-coming soon
----
-
-## website title | what it contains | any note if needed
 
 ## Movies
 ### MovieWeb
@@ -36,6 +31,19 @@ https://onionplay.se/ <br>
 https://serieshd.watch/ <br>
 https://movie4kto.net/  <br>
 **prob unblocked** https://sites.google.com/view/sealflix <br>
+**NEW** https://flixwave.to/  <br>
+**NEW** https://shuttletv.net/ <br>
+**NEW** https://movieshd.watch/ <br>
+**NEW** https://movie4kto.net/ <br>
+**NEW** https://serieshd.watch/ <br>
+**NEW** https://soap2dayhd.com/  <br>
+**NEW** https://freemoviesfull.cc/ <br>
+**NEW** https://freemovieswatch.tv/  <br>
+**NEW** https://watchfreemovi.es/  <br>
+**NEW** https://flixhd.cc/  <br>
+**NEW** https://quitt.net/ <br>
+**NEW** https://tikmovies.com/ <br>
+
 ## Anime
 https://anix.to/ <br>
 https://kaido.to/  <br>
