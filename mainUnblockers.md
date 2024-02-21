@@ -27,8 +27,8 @@ Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblock
 Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#google-sites--a-mixture-of-Games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) <br>
 Abyss: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games)<br>
 **NEW** Rammerhead: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-rammerhead--web-browser) <br>
-Artclass: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulator)
-Shuttle: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy)
+Artclass: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulators) <br>
+Shuttle: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
 EMERALD, Page Sandbox, Celestial Network and Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#kazwire--proxy-games-apps) <br>
 Proxies with less than 2 links containing Dm Unblocker, Tinfoil, FlowOS, Anura, Snorlax, miniProxy, and more!: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) <br>
 AI and Calculators: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
