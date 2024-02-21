@@ -1,33 +1,35 @@
-# ByePassHub > Main Links | updated Feb 19
-## If you like this list, make sure to star it!
+# ByePassHub > Main Links | updated Feb 21
+## If you like this list, make sure to star this repository!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 ### Be sure to scroll all the way down for ALL links. 
  #### FYI: <br>
-  For me, github.io links are blocked, so is pages.dev links, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render domains ALL are blocked, so this list DOES NOT include them. <br>
-  A proxy is an unblocker, used for searching anything up on Google or going to any website. <br>
+  This list DOES NOT include github.io, pages.dev, replit, vercel, herokuapp, railway, glitch, cyclic, koyeb, and render links/domains. <br>
+  A proxy is an unblocker, used for searching anything up on Google or going to any website, unrestricted and untrackable. <br>
   Examples of apps are like youtube, discord, roblox, AI, pinterest, and more. <br> 
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
   #### Some links MAY be down during school or any time. <br>
-  #### here is an [url opener](https://www.openallurls.com/) to save some time.
+  #### [Url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
-**Feb 19 Update**: 5+ more [Celestial Network](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 5+ more [Abyss](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games), organized file.
+**Feb 21 Update**: Add **NEW** [RAMMERHEAD WEB BROWSER](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-rammerhead--web-browser) MORE (5+) [ARTCLASS](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulator) and [EMERALD](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-emerald--proxy-games-apps) <br>
+**Feb 19 Update**: 5+ more [Celestial Network](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 5+ more [Abyss](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games), organized file.<br>
 **Feb 15 & 17 Update**: 20+ MORE INTERSTELLAR, more LISTS LIKE THIS ONE! <br>
 **Feb 12 & 13 Update:** Added more Shuttle and Astroid <br>
 **Feb 11 Update:** Added **NEW** [FlowOS links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-flowos--web-browser), **NEW** [Tinf0il link](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-tinf0il--games-proxy-apps), 5+ more [Shadow Browser Links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser), updated [Interstellar links](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
-**Feb 6 Update:** Added **NEW** [Homework Solver/Calculator](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-solverscalculators-) section, added **NEW** [miniProxy](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-miniProxy), and more [ASTROID](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)! <br>  
-
 
 ## Shortcuts & Table of Contents:
 Interstellar: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) <br>
 Astroid: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) <br>
 Shadow Browser: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shadow-broswer--web-browser) <br>
 Google Site Hubs: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#google-sites--a-mixture-of-Games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) <br>
-Abyss: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games)
-Artclass, Shuttle, EMERALD, Page Sandbox, Celestial Networkand Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy) <br>
+Abyss: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games)<br>
+**NEW** Rammerhead: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-rammerhead--web-browser) <br>
+Artclass: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulator)
+Shuttle: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shuttle--games-apps-and-proxy)
+EMERALD, Page Sandbox, Celestial Network and Kazwire (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#kazwire--proxy-games-apps) <br>
 Proxies with less than 2 links containing Dm Unblocker, Tinfoil, FlowOS, Anura, Snorlax, miniProxy, and more!: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) <br>
 AI and Calculators: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#ai) <br>
 Other lists like this one: [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) <br>
@@ -49,7 +51,7 @@ List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29Ipg
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 ##### hop.sh links (may be down from time to time)
 **NEW!** https://monkey.hop.sh/ <br>
-**NEW!** sh.hop.sh <br>
+**NEW!** https://sh.hop.sh/ <br>
 **NEW!** https://schoolmath.hop.sh/ <br>
 #### Not hop.sh links
 ##### shekinahphotography.com links
@@ -206,7 +208,7 @@ https://geometrycompass.panel-laboralcj.gob.mx/ <br>
 https://mathcompetitions.kick.sh/ <br>
 https://trigonometry.abk.ch <br>
 https://inboxastroid.fr.to/ <br>
-**NEW!** https://statistics.glk.com.np/ <br>
+https://statistics.glk.com.np/ <br>
 **NEW!** https://educationalmathapps.radiolallave.cl/ <br>
 **NEW!** https://differentialcalculus.226vitech.com/ <br>
 **NEW!** https://calculus.myers-usa.com <br>
@@ -231,8 +233,8 @@ https://imadethisdontbegpls.dcmusic.ca/ <br>
 **NEW!** https://manynotes.dcmusic.ca/  <br>
 ##### Misc. Shadow Broswer Links
 https://azrielmadethis.cheap-car-rental.com/ <br> 
-**NEW!** https://interactivemathwebsites.panel-laboralcj.gob.mx/ <br>
-**NEW!** https://christmas.blueshadows.cl/ <br>
+https://interactivemathwebsites.panel-laboralcj.gob.mx/ <br>
+https://christmas.blueshadows.cl/ <br>
 **NEW!** https://mathpuzzles.hilleberg.tw/ <br>
 **NEW!** https://khanacademy.radiolallave.cl/ <br>
 **NEW!** https://mathgames.gz-associates.com/ <br>
@@ -285,13 +287,12 @@ https://talkative.abk.ch/ <br>
 **NEW!** https://bitch.torcedorvermelho.com.br/ <br>
 **NEW!** https://grant.torcedorvermelho.com.br/ <br>
 
-### Shuttle | Games, Apps, and Proxy 
-https://shuttleproxy.hop.sh <br>
-https://learnsmartly.org <br>
-https://atutor.tien-shan.org/ <br>
-https://geometry.precisewarehousing.com/ <br>
-https://counting.jweststudio.com/ <br>
-**NEW!** https://homework.226vitech.com/ <br>
+### NEW Rammerhead | Web Browser
+**NEW!** https://donuts.pastrypowered.com/ <br>
+**NEW!** https://forbmskids.dietpc.org/ <br>
+**NEW!** https://gooseprobro.8bit.ca/ <br>
+**NEW!** https://hamuneko86-test.ddo.jp/ <br>
+**NEW!** https://pineapple-pizza.fsagc.org/ <br>
 
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
@@ -304,6 +305,17 @@ https://cafelabs.hop.sh <br>
 https://artclass.hop.sh <br>
 https://proxies.hop.sh <br>
 https://unblocker.hop.sh <br>
+**NEW** https://oi.fr.to/ <br>
+**NEW** https://schoolreading.us.to/ <br>
+**NEW** https://t3yeg.tfbt.co.za/ <br>
+**NEW** https://artclassbydropalltables.duckdns.org/ <br>
+### Shuttle | Games, Apps, and Proxy 
+https://shuttleproxy.hop.sh <br>
+https://learnsmartly.org <br>
+https://atutor.tien-shan.org/ <br>
+https://geometry.precisewarehousing.com/ <br>
+https://counting.jweststudio.com/ <br>
+**NEW!** https://homework.226vitech.com/ <br>
 
 
 ### Kazwire | Proxy, Games, Apps
@@ -320,11 +332,11 @@ https://loli.xianyu1.workers.dev/ <br>
 
 ### NEW! Emerald | Proxy, Games, Apps
 https://greatestaxeofflox.thelmadejager.co.za/ <br>
-https://greatestaxeofllow.thelmadejager.co.za/ <br>
 https://how-to-make.soapagent.com/  <br>
 https://oiuytrewq.pakasak.com/ <br>
 https://morphputtoswell.uk.to/ <br>
 https://hoselsaintoscar.uk.to/ <br>
+**NEW** https://bloxfruits.blueshadows.cl/ <br>
 
 ### NEW! Celestial Network
 https://287kx5.csb.app/ <br>
