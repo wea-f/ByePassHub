@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Feb 19
+# ByePassHub > Games | updated Feb 21
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -6,6 +6,7 @@ This is a collection of links of ONLY games, no unblockers just games.
 ### Table of Contents:
 #### Selenite (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
 #### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+#### NEW A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-a1r)
 #### Phantom Games (tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-phantom-games--recommended)
 #### Google Site (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### Jordan's Math Work and 3kh0 (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#3kh0--recommended)
@@ -62,6 +63,9 @@ https://selenite.skysthelimit.dev/ <br>
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://beta1.caculatorgeo.info/demo <br>
 https://beta7.caculatorgeo.info/demo <br>
+
+### NEW A1R
+https://iamasweaty.fortnitebuilder.pro/ <br>
 
 ### NEW Phantom Games | RECOMMENDED
 **NEW!** https://freedns.afraid.org.uk.to/ <br>
