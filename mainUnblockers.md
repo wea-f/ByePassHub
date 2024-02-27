@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Feb 22
+# ByePassHub > Main Links | updated Feb 26
 ## If you like this list, make sure to star this repository!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,6 +14,7 @@
   #### [Url opener](https://www.openallurls.com/) to save some time.
 ---
 ## Updates/Changes:
+**Feb 26**: 10+ more [Rammerhead]((https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-rammerhead--web-browser)) web browser, 5+ [Artclass]((https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulator))
 **Feb 22**: Added more (5+) [ABYSS](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games) links, **NEW** [HOMEWORK HELP](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-homework-help--games-proxy) and [MOONLIGHT](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-moonlight--games-and-proxy) Links (Games, Proxy, Apps!!)
 **Feb 21**: Add **NEW** [RAMMERHEAD WEB BROWSER](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-rammerhead--web-browser) MORE (5+) [ARTCLASS](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#artclass--games-apps-proxy-and-emulator) and [EMERALD](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-emerald--proxy-games-apps) <br>
 **Feb 19**: 5+ more [Celestial Network](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#new-celestial-network), 5+ more [Abyss](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#abyss--web-browser--games), organized file.<br>
@@ -297,6 +298,13 @@ https://talkative.abk.ch/ <br>
 **NEW!** https://gooseprobro.8bit.ca/ <br>
 **NEW!** https://hamuneko86-test.ddo.jp/ <br>
 **NEW!** https://pineapple-pizza.fsagc.org/ <br>
+**NEW!** https://rammerhead11.uk.to/ <br>
+**NEW!** https://medmop.blacknapkins.org/ <br>
+**NEW!** https://boringsuit-mathwork.thelmadejager.co.za/ <br>
+**NEW!** https://math.cky.cl/ <br>
+**NEW!** https://soraapp.com.breakingpar.com/ <br>
+**NEW!** https://gogaurdianaddresscomingsoon.rahulsj.com/ <br>
+**NEW!** https://duckiscute.duckdns.org <br>
 
 ### Artclass | Games, Apps, Proxy, and Emulators
 https://artclass.hop.sh <br>
@@ -313,6 +321,11 @@ https://unblocker.hop.sh <br>
 **NEW** https://schoolreading.us.to/ <br>
 **NEW** https://t3yeg.tfbt.co.za/ <br>
 **NEW** https://artclassbydropalltables.duckdns.org/ <br>
+**NEW** https://frankisnpc.inet2.org/ <br>
+**NEW** https://dynamic-peacock.fossil-bug.com/ <br>
+**NEW** https://activities.math.web.id/ <br>
+**NEW** https://frankisbig.00z.us/ <br>
+**NEW** https://funfunfun.havefun.ch/ <br>
 
 ### Shuttle | Games, Apps, and Proxy 
 https://shuttleproxy.hop.sh <br>
