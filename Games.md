@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Feb 21
+# ByePassHub > Games | updated Feb 27
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -199,6 +199,11 @@ https://lichgames.s3.amazonaws.com/index.html <br>
 ### AIRMASH | Don't know why this was unblocked for me
 https://altao.azureedge.net/ <br>
 
+### NEW Monkeytype
+https://www.monkey-type.org/games <br>
+
+### NEW Playhydra
+https://wqqcwh.csb.app/ <br>
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
 Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
@@ -210,9 +215,9 @@ Idle Breakout: https://rawcdn.githack.com/3kh0/3kh0-Assets/master/idle-breakout/
 Reflector: https://www.ducksters.com/games/reflector.php <br>
 Sorcerer: https://www.ducksters.com/games/sorcerer.php <br>
 GeoGuessr: https://www.geoguessr.com/ <br>
-**NEW!** Swerve: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/VecAxR3e/index.html <br>
 **NEW!** Offline: https://rgukt-sklm-abccf.firebaseapp.com/taxa/taxa.html <br>
 **NEW!** Tas: https://tasweb.org/games.html <br>
 **NEW!** Welding: https://welding-game.web.app/#/ <br>
 **NEW!** Neon Flames: https://29a.ch/sandbox/2011/neonflames/ <br>
 **NEW!** Neal.fun: https://neal.fun/ <br>
+**NEW!** Nothing to Hide: https://nothing-to-hide-demo.s3.amazonaws.com/index.html <br>
