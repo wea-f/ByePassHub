@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Feb 27
+# ByePassHub > Games | updated Feb 29
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -88,6 +88,17 @@ https://sites.google.com/view/alpha-networksite/page <br>
 https://sites.google.com/view/bushhub/home <br>
 https://sites.google.com/view/noah-hub/ <br>
 https://sites.google.com/view/bingforschools/Google?authuser=0 <br>
+**NEW** https://sites.google.com/site/classroom6x <br>
+**NEW** https://sites.google.com/view/iogames <br>
+**NEW** https://sites.google.com/view/lotsogames/ <br>
+**NEW** https://sites.google.com/view/bruny
+**NEW** https://sites.google.com/view/meximath/home
+**NEW** https://sites.google.com/view/craziest-games/home
+**NEW** https://sites.google.com/site/mostfungames69/home
+**NEW** https://sites.google.com/view/schoolgames444/home
+**NEW** https://sites.google.com/view/cybercityunblocked/gxmes
+**NEW** https://sites.google.com/view/game-hub-unbl0cked/
+**NEW** https://sites.google.com/view/universal-arcade/home
 
 ### NEW! Jordan's Math Work
 https://www.jordansmathwork.cf/  <br>
