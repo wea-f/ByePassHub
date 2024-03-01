@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Feb 28
+# ByePassHub > Main Links | updated Feb 29
 ## If you like this list, make sure to star this repository!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -316,7 +316,9 @@ https://sites.google.com/view/kirby-central <br>
 https://sites.google.com/view/wolfunblock/home<br>
 https://sites.google.com/view/master-editionn/home <br>
 https://sites.google.com/site/thegamecompilation/ <br>
-**NEW!** https://sites.google.com/view/bushhub/ <br>
+https://sites.google.com/view/bushhub/ <br>
+**NEW!** https://sites.google.com/view/www-clever-com/home
+**NEW!** https://sites.google.com/view/access-denied-2-backup/home  <br>
 ##### Proxies Only
 https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
 ##### Games Only
