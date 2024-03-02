@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Feb 29
+# ByePassHub > Games | updated March 2
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -6,12 +6,13 @@ This is a collection of links of ONLY games, no unblockers just games.
 ### Table of Contents:
 #### Selenite (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
 #### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
-#### NEW A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-a1r)
+#### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
 #### Phantom Games (tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-phantom-games--recommended)
 #### Google Site (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### Jordan's Math Work and 3kh0 (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#3kh0--recommended)
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### Minecraft and more (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+#### 1v1.LOL: [here](https://github.com/wea-f/ByePassHub/blob/main.Games.md#1v1.lol)
 #### Specific, Single Games: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -53,12 +54,14 @@ https://fediverse.faefox.org/ <br>
 https://pricing.tourism.mza.com.ar/ <br>
 https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
-**NEW!** https://art.portfolio.steveharrop.co.uk/ <br>
-**NEW!** https://about.blog.steveharrop.co.uk/ <br>
-**NEW!** https://form.contact.essexregional.org <br>
-**NEW!** https://staff.about.essexregional.org/ <br>
-**NEW!** https://weston-makes-links.mooo.com/ <br>
-**NEW!** https://weston-is-honest.fr.to/ <br>
+https://art.portfolio.steveharrop.co.uk/ <br>
+https://about.blog.steveharrop.co.uk/ <br>
+https://form.contact.essexregional.org <br>
+https://staff.about.essexregional.org/ <br>
+https://weston-makes-links.mooo.com/ <br>
+https://weston-is-honest.fr.to/ <br>
+**NEW!** https://visit.the.us.to/ <br>
+**NEW!** https://results.search.dansted.org/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://beta1.caculatorgeo.info/demo <br>
@@ -66,6 +69,7 @@ https://beta7.caculatorgeo.info/demo <br>
 
 ### NEW A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
+**NEW** https://student-portal.hustlersuniversity.pro/  <br>
 
 ### NEW Phantom Games | RECOMMENDED
 **NEW!** https://freedns.afraid.org.uk.to/ <br>
@@ -200,6 +204,18 @@ https://webclient.asspixel.net/versions.html <br>
 https://bash.gg/ <br>
 https://loudsafari.com/ <br>
 https://flyinglambs.com/  <br>
+
+### NEW 1v1.LOL
+https://1v1.lol/   <br>
+https://1v1.school/   <br>
+https://boxfight.io/     <br>
+https://justedit.lol/   <br>
+https://zonewars.io/   <br>
+https://play1v1.com/   <br>
+https://1v1.fail/   <br>
+https://justaim.lol/   <br>
+https://aim.lol/   <br>
+https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html <br>
 
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
