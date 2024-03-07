@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated March 3
+# ByePassHub > Games | updated March 6
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -134,7 +134,9 @@ https://dashboard.viewing.gianthomesforsale.homes  <br>
 https://learning.about.nasatechnology.space  <br>
 https://portfolio.tether-dev.com/    <br>
 https://tutoring.easyreadwrite.xyz/   <br>
-**NEW!** https://its-the.michael.myers-usa.com/ <br>
+https://its-the.michael.myers-usa.com/ <br>
+**NEW** https://what.language-isthis.xn--72cg7bdd3bro6b3ab9c8btw4x.com/ <br>
+**NEW** https://the.studio.dcmusic.ca/ <br>
 
 ### Schoology
 https://schoologygamers.weebly.com/games.html <br>
