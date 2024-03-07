@@ -54,63 +54,8 @@ https://codepen.io/weaF_z/full/RwJVywE <br>
 List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29IpgOpdv8L7oe-DRHiu9GE/edit <br>
  
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-##### hop.sh links (may be down from time to time)
-**NEW!** https://monkey.hop.sh/ <br>
-**NEW!** https://sh.hop.sh/ <br>
-**NEW!** https://schoolmath.hop.sh/ <br>
-#### Not hop.sh links
-##### shekinahphotography.com links
-https://illuminate.autumn.shekinahphotography.com/ <br>
-https://skillset.autumn.shekinahphotography.com/ <br>
-https://enrich.autumn.shekinahphotography.com/ <br>
-https://experiment.autumn.shekinahphotography.com/ <br>
-##### herionewarrior.com links
-https://boringsuit.rivalryyyy.heroinewarrior.com/ <br>
-https://boringsuit.rivalryyyyy.heroinewarrior.com/ <br>
-https://boringsuit.rivalryyy.heroinewarrior.com/ <br>
-https://boringsuit.rivalryy.heroinewarrior.com/ <br>
-https://boringsuit.rivalry.heroinewarrior.com/ <br>
-##### youramys.com links
-https://dish.cooking.youramys.com/ <br>
-https://kitchen.cooking.youramys.com/ <br>
-https://recipe.cooking.youramys.com/ <br>
-https://business.youramys.com/ <br>
-##### glenwaverleychurhces.org links
-https://kappa.y.glenwaverleychurches.org/ <br>
-https://alpha.y.glenwaverleychurches.org/ <br>
-https://beta.y.glenwaverleychurches.org/ <br>
-https://epsilon.y.glenwaverleychurches.org/ <br>
-https://lambda.y.glenwaverleychurches.org/ <br>
-https://delta.y.glenwaverleychurches.org/ <br>
-##### lakeballs.fi links
-https://h2o.lakeballs.fi/ <br>
-https://ocean.lakeballs.fi/ <br>
-##### kayru.org links
-https://j.kayru.org/ <br>
-https://a.j.kayru.org/ <br>
-##### texasmath links
-https://e.t.texasmath.org/ <br>
-https://w.t.texasmath.org/ <br>
-##### h4xxel.org links
-https://x4.o.h4xxel.org <br>
-https://j.o.h4xxel.org/ <br> 
-##### sanluix.org links
-**NEW** https://frontend.development.sanluix.org/ <br>
-**NEW** https://backend.development.sanluix.org/<br>
-**NEW** https://mobile.development.sanluix.org/<br>
-**NEW** https://database.development.sanluix.org/ <br>
-**NEW** https://tools.development.sanluix.org/ <br>
-##### Misc. Interstellar Links
-https://w.r.youngchurch.org/ <br>
-https://dove.soapagent.com/ <br>
-https://dove.soapclient.com/ <br>
-https://spacial-awareness.potomacriversafetycommittee.org/ <br>
-https://workshop.precisewarehousing.com/ <br>
-https://acetaminophen.deleesportsmedicine.com/ <br>
-https://xp.x14n.org <br>
-https://ocean.lakeballs.fi/ <br>
-https://w.q.sagesinst.org <br>
-https://news.about.dansted.org/ <br> <br>
+https://gointerstellar.app <br>
+Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
