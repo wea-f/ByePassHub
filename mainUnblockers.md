@@ -54,7 +54,7 @@ https://codepen.io/weaF_z/full/RwJVywE <br>
 List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29IpgOpdv8L7oe-DRHiu9GE/edit <br>
  
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-https://gointerstellar.app <br>
+https://gointerstellar.app <br> <br>
 Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
