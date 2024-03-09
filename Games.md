@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated March 6
+# ByePassHub > Games | updated March 8
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -206,6 +206,46 @@ https://eagler.almondnet.cn/Nebula.html <br>
 https://precisionclient-88k.pages.dev/ <br>
 https://webclient.asspixel.net/versions.html <br>
 **NEW!** http://marccraft.mooo.com/secret/mc/minecraftoff.html <br>
+##### NEW EaglercraftX (1.3 version of minecraft)
+https://eaglercrack-archive.vercel.app/<br>
+https://eaglercrack.github.io/clients.html<br>
+https://eagler.rimm.rocks/clients.html<br>
+https://math-lessons.vercel.app/clients.html <br>
+https://eaglerclients.vercel.app/clients.html <br>
+https://eaglerclient.vercel.app/clients.html <br>
+https://eaglercracker.vercel.app/clients.html <br>
+https://almondnet.vercel.app/clients.html<br>
+https://eaglercraftlauncher.vercel.app/clients.html<br>
+https://cloudfuntime.vercel.app/clients.html<br>
+https://eaglercrack.vercel.app/clients.html<br>
+https://eaglercrackx.vercel.app/clients.html<br>
+##### NEW Eaglercraft (v1.5.2 of minecraft)
+https://eaglercraft.com/mc/1.5.2/<br>
+https://turtletown71.github.io/<br>
+https://xlegends.github.io/server-gxmehub/<br>
+https://kerosene.gmod9.com/oddfuture<br>
+https://theguy888.github.io/EvenBetterThanMinekhan/<br>
+https://eaglercraft.github.io/game/<br>
+https://eaglerhacks.vercel.app/ <br>
+https://eaglercraft000.pages.dev/<br>
+https://client.tlochsta.dev/compiled/web/<br>
+https://astronetclient.pages.dev/compiled/web/<br>
+https://johntherriiiippper.github.io/Eaglercraft%201.5.2.html<br>
+https://sd592g.github.io/zj684od4lfg/<br>
+https://eaglercraft.net/mc/1.5.2/<br>
+https://eaglercraft.me/mc/1.5.2/<br>
+https://villade.theludos.com/1.5.2/<br>
+https://eaglercraft.org/mc/1.5.2/<br>
+##### NEW Eaglercraft (version 1.8.8 of minecraft, newest)
+https://eaglercraft.net/ <br>
+https://code.nyphp.com/ <br>
+https://svaaps.github.io/eaglercrafthtml/<br>
+https://johntherriiiippper.github.io/eaglercraftx.html <br>
+https://eaglercraft.q13x.com/ <br> 
+https://villade.theludos.com/1.8.8/ <br>
+https://eaglercraft.me/ <br>
+https://eaglercraft.org/ <br>
+https://eaglercraft.com/ <br>
 ##### Actual, real Minecraft
 https://bash.gg/ <br>
 https://loudsafari.com/ <br>
