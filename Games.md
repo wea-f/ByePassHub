@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated March 8
+# ByePassHub > Games | updated March 12
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -71,7 +71,7 @@ https://weston-is-honest.fr.to/ <br>
 https://beta1.caculatorgeo.info/demo <br>
 https://beta7.caculatorgeo.info/demo <br>
 
-### NEW A1R
+### A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
 **NEW** https://student-portal.hustlersuniversity.pro/  <br>
 
@@ -96,17 +96,21 @@ https://sites.google.com/view/alpha-networksite/page <br>
 https://sites.google.com/view/bushhub/home <br>
 https://sites.google.com/view/noah-hub/ <br>
 https://sites.google.com/view/bingforschools/Google?authuser=0 <br>
-**NEW** https://sites.google.com/site/classroom6x <br>
-**NEW** https://sites.google.com/view/iogames <br>
-**NEW** https://sites.google.com/view/lotsogames/ <br>
-**NEW** https://sites.google.com/view/bruny
-**NEW** https://sites.google.com/view/meximath/home
-**NEW** https://sites.google.com/view/craziest-games/home
-**NEW** https://sites.google.com/site/mostfungames69/home
-**NEW** https://sites.google.com/view/schoolgames444/home
-**NEW** https://sites.google.com/view/cybercityunblocked/gxmes
-**NEW** https://sites.google.com/view/game-hub-unbl0cked/
-**NEW** https://sites.google.com/view/universal-arcade/home
+https://sites.google.com/site/classroom6x <br>
+https://sites.google.com/view/iogames <br>
+https://sites.google.com/view/lotsogames/ <br>
+https://sites.google.com/view/bruny <br>
+https://sites.google.com/view/meximath/home <br>
+https://sites.google.com/view/craziest-games/home <br>
+https://sites.google.com/site/mostfungames69/home <br>
+https://sites.google.com/view/schoolgames444/home <br>
+https://sites.google.com/view/cybercityunblocked/gxmes <br>
+**NEW** https://sites.google.com/view/game-hub-unbl0cked/ <br>
+**NEW** https://sites.google.com/view/universal-arcade/home <br>
+**NEW** https://sites.google.com/view/bd-games/home <br>
+**NEW** https://sites.google.com/view/hexxedgames/home <br>
+**NEW** https://sites.google.com/view/jimmygamingsite-jg/home
+**NEW** https://sites.google.com/view/thats-nuclear/home
 
 ### NEW! Jordan's Math Work
 https://www.jordansmathwork.cf/  <br>
