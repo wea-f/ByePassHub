@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated March 11
+# ByePassHub > Main Links | updated March 12
 ## If you like this list, make sure to star this repository!
 ### This is a collection of links of proxies, games, AI, and apps
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -180,7 +180,7 @@ https://statistics.glk.com.np/ <br>
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### Abyss | web browser + games
-**currently down as of mar 4, new links coming soon** <br>
+**currently down as of mar 12, new links coming soon** <br>
 ##### Edificare.cl links
 https://stock.edificare.cl/<br>
 https://panel.edificare.cl/<br>
@@ -279,7 +279,7 @@ https://sites.google.com/view/kirby-central <br>
 https://sites.google.com/view/wolfunblock/home<br>
 https://sites.google.com/site/thegamecompilation/ <br>
 https://sites.google.com/view/bushhub/ <br>
-https://sites.google.com/view/www-clever-com/home
+https://sites.google.com/view/www-clever-com/home <br>
 **NEW LINKS BELOW** <br>
 https://sites.google.com/view/ratheads  <br>
 https://sites.google.com/view/olius  <br>
@@ -381,7 +381,7 @@ https://baonguyenisdabest.gurdit.com/<br>
 https://goguardianislovely.gurdit.com/<br>
 https://mychineseboy.gurdit.com/<br>
 https://giddyismyman.gurdit.com/<br>
-###### NEW scottexteroirs.com links
+##### NEW scottexteroirs.com links
 https://crimefightingrat.scottexteriors.com/ <br>
 https://crimefightingisadiseasespreadit.scottexteriors.com/ <br>
 https://ilovepolice.scottexteriors.com/ <br>
