@@ -421,6 +421,8 @@ https://funfunfun.havefun.ch/ <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### NEW Kitty Cat Club | proxy, games, apps
+**Username:** `kittycatclub` <br>
+**Password:** `welovekittens` <br>
 ##### NEW gurdit.com links
 https://imakittykittycat.gurdit.com/ <br>
 https://thejpstoreiscool.gurdit.com/ <br>
