@@ -1,19 +1,26 @@
-# ByePassHub > Games | updated March 15
+# ByePassHub > Games | updated March 18
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
 ---
 ### Table of Contents:
-#### Selenite (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
+#### Selenite (TONS of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
 #### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+#### NEW Unblocked Games Hub: [here](#unblocked-games-hub)
 #### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
 #### Phantom Games (tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
-#### Google Site (recommended, tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
-#### Jordan's Math Work and 3kh0 (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#3kh0--recommended)
+#### 3kh0: [here](#3kh0--recommended)
+#### Google Site (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+#### Jordan's Math Work: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### Minecraft and more (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### 1v1.LOL: [here](https://github.com/wea-f/ByePassHub/blob/main.Games.md#1v1.lol)
-#### Specific, Single Games: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
+#### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
+#### Lich: [here](#lich)
+#### NEW Not Games: [here](#new-not-games)
+#### Monkeytype: [here](#new-monkeytype)
+#### Playhydra: [here]()#new-playhydra)
+#### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
 **Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
@@ -41,7 +48,8 @@ https://sizing.tool.garmanage.com/ <br>
 ##### New tafca.co.uk links
 **NEW!** https://calendar.matches.tafca.co.uk/ <br>
 **NEW!** https://clubs.tafca.co.uk/ <br>
-**NEW!** https://pawn.pieces.tafca.co.uk <br>
+**NEW!** https://pawn.pieces.tafca.co.uk <br><br>
+**^ Back to [top ^](#table-of-contents)**
 ##### essexregional.org links
 https://form.contact.essexregional.org <br>
 https://staff.about.essexregional.org/ <br>
@@ -65,7 +73,8 @@ https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
 https://weston-makes-links.mooo.com/ <br>
 https://weston-is-honest.fr.to/ <br>
-**NEW!** https://visit.the.us.to/ <br>
+**NEW!** https://visit.the.us.to/ <br><br>
+**^ Back to [top ^](#table-of-contents)**
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 https://acb.supertunnelrush.com/demo  <br>
@@ -93,7 +102,10 @@ https://beta3.caculatorgeo.info/demo  <br>
 https://beta4.caculatorgeo.info/demo  <br>
 https://beta5.caculatorgeo.info/demo <br>
 https://beta6.caculatorgeo.info/demo <br>
-https://beta7.caculatorgeo.info/demo  <br> <br>
+https://beta7.caculatorgeo.info/demo  <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
+<br>
 
 https://beta1.caculatorgeo.fun/demo  <br>
 https://beta2.caculatorgeo.fun/demo  <br>
@@ -126,8 +138,11 @@ https://beta4.apktbg.com/demo  <br>
 https://beta5.apktbg.com/demo <br>
 https://beta6.apktbg.com/demo <br>
 https://beta7.apktbg.com/demo <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 
-
+### Unblocked Games Hub
+https://beiswenger.net/unblocked/ <br>
 
 ### A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
@@ -140,15 +155,23 @@ https://iamsobored.ah.spikygames.fr.to/ <br>
 https://lorick1.us.to/ <br>
 https://steelplunkrunic.uk.to/ <br>
 https://endless-science-help.ftp.sh/ <br>
-**NEW!** https://phantom.aybit.ch/   <br>
-**NEW!** https://uidhqwi.sanek.pro/  <br>
-**NEW!** https://nmhbr.infocalypse.org/  <br>
-**NEW!** https://fdst2.darkstorm.nl/  <br>
-**NEW!** https://cvbdfer.bergherz.ch/  <br>
-**NEW!** https://4523rfwf.alfateksystems.com/  <br> 
-**NEW!** https://rwe3t23.donbot.net/  <br>
-**NEW!** https://y45h54.elnietoideal.com.ar/  <br> 
+https://phantom.aybit.ch/   <br>
+https://uidhqwi.sanek.pro/  <br>
+https://nmhbr.infocalypse.org/  <br>
+https://fdst2.darkstorm.nl/  <br>
+https://cvbdfer.bergherz.ch/  <br>
+https://4523rfwf.alfateksystems.com/  <br> 
+https://rwe3t23.donbot.net/  <br>
+https://y45h54.elnietoideal.com.ar/  <br> 
 **NEW!** https://yhu45y45.rivalnations.com/  <br>
+**NEW!** https://shadows.blueshadows.cl/  <br> 
+**NEW!** https://free.education10.actsministries.org/  <br> 
+**NEW!** https://free.education7.actsministries.org/  <br> 
+**NEW!** https://free.education6.actsministries.org/  <br> 
+**NEW!** https://free.education8.actsministries.org/  <br> 
+**NEW!** https://free.education9.actsministries.org/  <br> 
+<br>
+**^ Back to [top ^](#table-of-contents)**
 
 
 ### 3kh0 | RECOMMENDED
@@ -178,6 +201,9 @@ https://sites.google.com/view/cybercityunblocked/gxmes <br>
 **NEW** https://sites.google.com/view/bd-games/home <br>
 **NEW** https://sites.google.com/view/hexxedgames/home <br>
 **NEW** https://sites.google.com/view/jimmygamingsite-jg/home
+<br>
+**^ Back to [top ^](#table-of-contents)**
+
 **NEW** https://sites.google.com/view/thats-nuclear/home
 
 ### NEW! Jordan's Math Work
@@ -209,6 +235,8 @@ https://tutoring.easyreadwrite.xyz/   <br>
 https://its-the.michael.myers-usa.com/ <br>
 **NEW** https://what.language-isthis.xn--72cg7bdd3bro6b3ab9c8btw4x.com/ <br>
 **NEW** https://the.studio.dcmusic.ca/ <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 
 ### Schoology
 https://schoologygamers.weebly.com/games.html <br>
@@ -233,6 +261,8 @@ https://eggshooter.best<br>
 https://geometry.best<br>
 https://geometry.monster<br>
 https://geometry.pw<br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 https://geometry.report<br>
 https://hardboiled.life<br>
 https://hardshell.life<br>
@@ -291,6 +321,8 @@ https://eaglercraftlauncher.vercel.app/clients.html<br>
 https://cloudfuntime.vercel.app/clients.html<br>
 https://eaglercrack.vercel.app/clients.html<br>
 https://eaglercrackx.vercel.app/clients.html<br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 ##### NEW Eaglercraft (v1.5.2 of minecraft)
 https://eaglercraft.com/mc/1.5.2/<br>
 https://turtletown71.github.io/<br>
@@ -322,6 +354,8 @@ https://eaglercraft.com/ <br>
 https://bash.gg/ <br>
 https://loudsafari.com/ <br>
 https://flyinglambs.com/  <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 
 ### NEW 1v1.LOL
 https://1v1.lol/   <br>
@@ -340,9 +374,11 @@ https://vortexmath.my.canva.site/_password <br>
 
 ### Lich
 https://lichgames.s3.amazonaws.com/index.html <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
 
-### AIRMASH | Don't know why this was unblocked for me
-https://altao.azureedge.net/ <br>
+### NEW Not Games
+https://tryhxrdbaconyt.my.canva.site/nothing <br>
 
 ### NEW Monkeytype
 https://www.monkey-type.org/games <br>
@@ -360,9 +396,14 @@ Idle Breakout: https://rawcdn.githack.com/3kh0/3kh0-Assets/master/idle-breakout/
 Reflector: https://www.ducksters.com/games/reflector.php <br>
 Sorcerer: https://www.ducksters.com/games/sorcerer.php <br>
 GeoGuessr: https://www.geoguessr.com/ <br>
-**NEW!** Offline: https://rgukt-sklm-abccf.firebaseapp.com/taxa/taxa.html <br>
-**NEW!** Tas: https://tasweb.org/games.html <br>
-**NEW!** Welding: https://welding-game.web.app/#/ <br>
-**NEW!** Neon Flames: https://29a.ch/sandbox/2011/neonflames/ <br>
-**NEW!** Neal.fun: https://neal.fun/ <br>
-**NEW!** Nothing to Hide: https://nothing-to-hide-demo.s3.amazonaws.com/index.html <br>
+Offline: https://rgukt-sklm-abccf.firebaseapp.com/taxa/taxa.html <br>
+Tas: https://tasweb.org/games.html <br>
+Welding: https://welding-game.web.app/#/ <br>
+Neon Flames: https://29a.ch/sandbox/2011/neonflames/ <br>
+Neal.fun: https://neal.fun/ <br>
+Nothing to Hide: https://nothing-to-hide-demo.s3.amazonaws.com/index.html <br>
+**NEW!** Bad Time Simulator: https://kckarnige.is-a.dev/BadTimeRevamped/ <br>
+**NEW!** Marbleous: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html <br>
+**NEW!** AIRMASH: https://altao.azureedge.net/ <br>
+<br>
+**^ Back to [top ^](#table-of-contents)**
