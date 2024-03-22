@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated March 18
+# ByePassHub > Games | updated March 21
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -19,7 +19,10 @@ This is a collection of links of ONLY games, no unblockers just games.
 #### Lich: [here](#lich)
 #### NEW Not Games: [here](#new-not-games)
 #### Monkeytype: [here](#new-monkeytype)
-#### Playhydra: [here]()#new-playhydra)
+#### Playhydra: [here](#new-playhydra)
+#### Abcya: [here](#abyca)
+#### Hdun: [here](#hdun)
+### Liorxyst: [here](#liorxyst)
 #### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -39,12 +42,12 @@ https://fideos.projects.blueshadows.cl <br>
 ##### garamanage.com links
 https://thevoicesaregettinglouder.garmanage.com/ <br>
 https://sizing.tool.garmanage.com/ <br>
-##### NEW! potomacriversafetycommittee.org links
-**NEW!** https://safety.guidelines.potomacriversafetycommittee.org/ <br>
-**NEW!** https://information.potomacriversafetycommittee.org/ <br>
-**NEW!** https://about.cause.potomacriversafetycommittee.org/ <br>
-**NEW!** https://members.board.potomacriversafetycommittee.org/  <br>
-**NEW!** https://checkout.donate.potomacriversafetycommittee.org/ <br>
+##### potomacriversafetycommittee.org links
+https://safety.guidelines.potomacriversafetycommittee.org/ <br>
+https://information.potomacriversafetycommittee.org/ <br>
+https://about.cause.potomacriversafetycommittee.org/ <br>
+https://members.board.potomacriversafetycommittee.org/  <br>
+https://checkout.donate.potomacriversafetycommittee.org/ <br>
 ##### New tafca.co.uk links
 **NEW!** https://calendar.matches.tafca.co.uk/ <br>
 **NEW!** https://clubs.tafca.co.uk/ <br>
@@ -59,9 +62,13 @@ https://about.blog.steveharrop.co.uk/ <br>
 ##### dansted.org links
 **NEW!** https://results.search.dansted.org/ <br>
 **NEW!** https://rss.feed.link.dansted.org/ <br>
+##### rugelegychessclub.co.uk links
+**NEW** https://archive.puzzles.rugeleychessclub.co.uk/ <br>
+**NEW!** https://rug.rugeleychessclub.co.uk/ <br>
+**NEW!** https://rugby.rugeleychessclub.co.uk/ <br>
+**NEW!** https://practice.chess.rugeleychessclub.co.uk/ <br>
 ##### Misc.
 https://contact.zverovich.net/ <br>
-https://archive.puzzles.rugeleychessclub.co.uk/ <br>
 https://deals.youramys.com/ <br>
 https://buy.deleesportsmedicine.com/ <br>
 https://buy.garagesport.ch/ <br>
@@ -196,15 +203,15 @@ https://sites.google.com/view/craziest-games/home <br>
 https://sites.google.com/site/mostfungames69/home <br>
 https://sites.google.com/view/schoolgames444/home <br>
 https://sites.google.com/view/cybercityunblocked/gxmes <br>
-**NEW** https://sites.google.com/view/game-hub-unbl0cked/ <br>
-**NEW** https://sites.google.com/view/universal-arcade/home <br>
-**NEW** https://sites.google.com/view/bd-games/home <br>
-**NEW** https://sites.google.com/view/hexxedgames/home <br>
-**NEW** https://sites.google.com/view/jimmygamingsite-jg/home
+https://sites.google.com/view/game-hub-unbl0cked/ <br>
+https://sites.google.com/view/universal-arcade/home <br>
+https://sites.google.com/view/bd-games/home <br>
+https://sites.google.com/view/hexxedgames/home <br>
+https://sites.google.com/view/jimmygamingsite-jg/home <br>
+**NEW** https://sites.google.com/view/bingforschools/Google <br>
+**NEW** https://sites.google.com/view/thats-nuclear/home <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
-
-**NEW** https://sites.google.com/view/thats-nuclear/home
 
 ### NEW! Jordan's Math Work
 https://www.jordansmathwork.cf/  <br>
@@ -240,6 +247,7 @@ https://its-the.michael.myers-usa.com/ <br>
 
 ### Schoology
 https://schoologygamers.weebly.com/games.html <br>
+
 
 ### Shell Shockers Alternatives ([credit](https://shellshockers.fandom.com/wiki/Alternate_URLs))
 https://shellshock.io <br>
@@ -385,6 +393,16 @@ https://www.monkey-type.org/games <br>
 
 ### NEW Playhydra
 https://wqqcwh.csb.app/ <br>
+
+### ABCya 
+https://www.abcya.com/ <br>
+
+### Hdun
+https://hdun.org/games/ <br>
+
+### liorxyst
+https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://lioxryt.pages.dev/ <br>
+
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
 Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
@@ -402,8 +420,9 @@ Welding: https://welding-game.web.app/#/ <br>
 Neon Flames: https://29a.ch/sandbox/2011/neonflames/ <br>
 Neal.fun: https://neal.fun/ <br>
 Nothing to Hide: https://nothing-to-hide-demo.s3.amazonaws.com/index.html <br>
-**NEW!** Bad Time Simulator: https://kckarnige.is-a.dev/BadTimeRevamped/ <br>
-**NEW!** Marbleous: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html <br>
-**NEW!** AIRMASH: https://altao.azureedge.net/ <br>
+Bad Time Simulator: https://kckarnige.is-a.dev/BadTimeRevamped/ <br>
+Marbleous: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html <br>
+AIRMASH: https://altao.azureedge.net/ <br>
+**NEW** Dadish 1: https://rawcdn.githack.com/mackeylol/copyofmasite/main/Games/dadish/index.html <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
