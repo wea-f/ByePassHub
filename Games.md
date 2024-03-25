@@ -1,22 +1,23 @@
-# ByePassHub > Games | updated March 21
+# ByePassHub > Games | updated March 25
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
 ---
 ### Table of Contents:
-#### Selenite (TONS of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
-#### Roblox: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+*Italicized ones are RECOMMENDED.*
+#### *Selenite*: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
+#### *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
 #### NEW Unblocked Games Hub: [here](#unblocked-games-hub)
 #### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
-#### Phantom Games (tons of games): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
+#### *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
 #### 3kh0: [here](#3kh0--recommended)
-#### Google Site (recommended): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
-#### Jordan's Math Work: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
+#### *Google Site (recommended):* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+#### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
-#### Minecraft and more (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+#### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### 1v1.LOL: [here](https://github.com/wea-f/ByePassHub/blob/main.Games.md#1v1.lol)
-#### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-#### Lich: [here](#lich)
+#### *Vortex Math:* [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
+#### *Lich:* [here](#lich)
 #### NEW Not Games: [here](#new-not-games)
 #### Monkeytype: [here](#new-monkeytype)
 #### Playhydra: [here](#new-playhydra)
@@ -170,13 +171,24 @@ https://cvbdfer.bergherz.ch/  <br>
 https://4523rfwf.alfateksystems.com/  <br> 
 https://rwe3t23.donbot.net/  <br>
 https://y45h54.elnietoideal.com.ar/  <br> 
-**NEW!** https://yhu45y45.rivalnations.com/  <br>
-**NEW!** https://shadows.blueshadows.cl/  <br> 
-**NEW!** https://free.education10.actsministries.org/  <br> 
-**NEW!** https://free.education7.actsministries.org/  <br> 
-**NEW!** https://free.education6.actsministries.org/  <br> 
-**NEW!** https://free.education8.actsministries.org/  <br> 
-**NEW!** https://free.education9.actsministries.org/  <br> 
+https://yhu45y45.rivalnations.com/  <br>
+https://shadows.blueshadows.cl/  <br> 
+https://free.education10.actsministries.org/  <br> 
+https://free.education7.actsministries.org/  <br> 
+https://free.education6.actsministries.org/  <br> 
+https://free.education8.actsministries.org/  <br> 
+https://free.education9.actsministries.org/  <br> 
+**NEW!** https://mrwetherillshawn.qtech.cl/  <br> 
+**NEW!** https://lyllielevidefinitelydoesnotmakethese.strangled.net   <br>
+**NEW!** https://application3.batboy4k.com/   <br> 
+**NEW!** https://sfjdjd.us.to/  <br> 
+**NEW!** https://playing.uk.to/  <br> 
+**NEW!** https://conjuguemos.dietpc.org/  <br> 
+**NEW!** https://bit.ly/2q39f  <br> 
+**NEW!** hqhttps://boringsuit-reading.chickenwork.fr.to/  <br> 
+**NEW!** https://mrwetherillshawn.qtech.cl/  <br> 
+**NEW!** https://e.tnsmexico.com/  <br> 
+**NEW!** https://9.lusz.one.pl/  <br> 
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -242,6 +254,7 @@ https://tutoring.easyreadwrite.xyz/   <br>
 https://its-the.michael.myers-usa.com/ <br>
 **NEW** https://what.language-isthis.xn--72cg7bdd3bro6b3ab9c8btw4x.com/ <br>
 **NEW** https://the.studio.dcmusic.ca/ <br>
+**NEW** https://ohnoasweaty.fortnitebuilder.pro/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
