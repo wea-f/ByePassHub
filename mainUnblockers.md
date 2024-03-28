@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated March 25
+# ByePassHub > Main Links | updated March 27
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -231,7 +231,10 @@ https://london.boooo.byethost18.com/ <br>
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### Abyss | web browser + games
-**All of these links below are NEW and should work as of Mar 18!** <br>
+**These may not work, they don't for me right now as of mar 27, i will update this later.** <br>
+**If the below links don't work for you too, here are two links that actually work.**: <br>
+**NEW** https://swear.idialup.co.za/ <br>
+**NEW** https://trial.idialup.co.za/ <br>
 ##### hectorhector.com links
 https://taste.hectorhector.com/ <br>
 https://march.hectorhector.com/ <br>
