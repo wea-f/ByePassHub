@@ -1,10 +1,11 @@
-# ByePassHub > Games | updated March 25
+# ByePassHub > Games | updated March 28
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
 ---
 ### Table of Contents:
-*Italicized ones are RECOMMENDED.*
+*Italicized ones are RECOMMENDED.* <br>
+Links with a **NEW** tag means that the link was added recently (< 1 week ago) <br>
 #### *Selenite*: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
 #### *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
 #### NEW Unblocked Games Hub: [here](#unblocked-games-hub)
@@ -16,7 +17,7 @@ This is a collection of links of ONLY games, no unblockers just games.
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### 1v1.LOL: [here](https://github.com/wea-f/ByePassHub/blob/main.Games.md#1v1.lol)
-#### *Vortex Math:* [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
+#### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
 #### *Lich:* [here](#lich)
 #### NEW Not Games: [here](#new-not-games)
 #### Monkeytype: [here](#new-monkeytype)
@@ -24,6 +25,7 @@ This is a collection of links of ONLY games, no unblockers just games.
 #### Abcya: [here](#abyca)
 #### Hdun: [here](#hdun)
 ### Liorxyst: [here](#liorxyst)
+### NEW *Zatoga*: [here](#zatoga)
 #### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -61,8 +63,8 @@ https://staff.about.essexregional.org/ <br>
 https://art.portfolio.steveharrop.co.uk/ <br>
 https://about.blog.steveharrop.co.uk/ <br>
 ##### dansted.org links
-**NEW!** https://results.search.dansted.org/ <br>
-**NEW!** https://rss.feed.link.dansted.org/ <br>
+https://results.search.dansted.org/ <br>
+https://rss.feed.link.dansted.org/ <br>
 ##### rugelegychessclub.co.uk links
 **NEW** https://archive.puzzles.rugeleychessclub.co.uk/ <br>
 **NEW!** https://rug.rugeleychessclub.co.uk/ <br>
@@ -188,7 +190,8 @@ https://free.education9.actsministries.org/  <br>
 **NEW!** hqhttps://boringsuit-reading.chickenwork.fr.to/  <br> 
 **NEW!** https://mrwetherillshawn.qtech.cl/  <br> 
 **NEW!** https://e.tnsmexico.com/  <br> 
-**NEW!** https://9.lusz.one.pl/  <br> 
+https://9.lusz.one.pl/  <br> 
+**NEW!** https://boringgot.thelmadejager.co.za/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -415,6 +418,9 @@ https://hdun.org/games/ <br>
 
 ### liorxyst
 https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://lioxryt.pages.dev/ <br>
+
+### Zatoga
+https://interact.learn.trivialime.com/ <br>
 
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
