@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated March 28
+# ByePassHub > Games | updated March 29
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  
 
@@ -26,6 +26,9 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### Hdun: [here](#hdun)
 ### Liorxyst: [here](#liorxyst)
 ### NEW *Zatoga*: [here](#zatoga)
+### NEW Celery XYZ: [here](#celery-xyz)
+### NEW *Hahamini*: [here](#hahamini)
+### NEW Gessx: [here](#gessx)
 #### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -421,6 +424,15 @@ https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/
 
 ### Zatoga
 https://interact.learn.trivialime.com/ <br>
+
+### Celery Xyz
+https://hookedln.wixsite.com/celery-xyz <br>
+
+### Hahamini
+https://www.hahamini.com/NotFound?gclid=Cj0KCQiA5fetBhC9ARIsAP1UMgH-RupB8PiyTKyh1brnra8hc22zdnNDKZ4krvyqvMqWrxcBS3ty8skaAhfBEALw_wcB <br>
+
+### Gessx
+https://beacons.ai/gessx/mediakit <br>
 
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
