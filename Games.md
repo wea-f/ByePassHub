@@ -17,7 +17,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
 #### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
-#### 1v1.LOL: [here](https://github.com/wea-f/ByePassHub/blob/main.Games.md#1v1.lol)
+#### 1v1.LOL: [here](#1v1.lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
 #### *Lich:* [here](#lich)
 #### NEW Not Games: [here](#new-not-games)
