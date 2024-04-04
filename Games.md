@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 1
+# ByePassHub > Games | updated April 4
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -32,9 +32,15 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 ### NEW Gessx: [here](#gessx)
 #### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
 ---
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
-**Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+**Other files:** <br>
+**Exploits, Bypasses, Cheats:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
+**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
+**Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
+**Back to MainHub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+
+
+
 ### Be sure to scroll all the way down for ALL links. 
 I've got these links from multiple sources. Like [chromebook-utilities](https://github.com/S-PScripts/chromebook-utilities), [this list](https://docs.google.com/document/d/1nK6tJb-sxfrrQJM9bSWcAV-Fo7jHasd_dWpj4VEVg5E/edit) plus from a list that my friends and I made. 
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
@@ -87,7 +93,9 @@ https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
 https://weston-makes-links.mooo.com/ <br>
 https://weston-is-honest.fr.to/ <br>
-**NEW!** https://visit.the.us.to/ <br><br>
+https://visit.the.us.to/ <br>
+**NEW** https://selen-instructions.soapagent.com <br>
+<br>
 **^ Back to [top ^](#table-of-contents)**
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
