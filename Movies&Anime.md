@@ -1,10 +1,12 @@
-# ByePassHub > Movies & Anime | updated Feb 19
+# ByePassHub > Movies & Anime | updated Apr 4
 ## If you like this list, make sure to star it!
 ### This is a collection of links of movies and anime watchers **free**! 
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Exploits, Bypasses, Cheats:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
-**Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
+**Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+
 ### Be sure to scroll all the way down for ALL links. 
   #### here is an [url opener](https://www.openallurls.com/) to save some time.
   #### Use a proxy if site is blocked.
