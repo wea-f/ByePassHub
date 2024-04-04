@@ -13,24 +13,26 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
 #### *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
 #### 3kh0: [here](#3kh0--recommended)
-#### *Google Site (recommended):* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+#### *Google Site:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
-#### Shell Shockers: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
+#### Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
-#### 1v1.LOL: [here](#new-1v1lol)
+#### 1v1.LOL (10+): [here](#new-1v1lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-#### *Lich:* [here](#lich)
-#### NEW Not Games: [here](#new-not-games)
-#### Monkeytype: [here](#new-monkeytype)
-#### Playhydra: [here](#new-playhydra)
-#### Abcya: [here](#abyca)
-#### Hdun: [here](#hdun)
-### Liorxyst: [here](#liorxyst)
-### NEW *Zatoga*: [here](#zatoga)
-### NEW Celery XYZ: [here](#celery-xyz)
-### NEW *Hahamini*: [here](#hahamini)
-### NEW Gessx: [here](#gessx)
-#### Specific, Single Games (25+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#website-title--any-note-if-needed) 
+#### Game Hubs with less than 1-2 links:
+- *Lich:* [here](#lich)
+- NEW Not Games: [here](#new-not-games)
+- Monkeytype: [here](#new-monkeytype)
+- Playhydra: [here](#new-playhydra)
+- Abcya: [here](#abyca)
+- Hdun: [here](#hdun)
+- Liorxyst: [here](#liorxyst)
+- NEW *Zatoga*: [here](#zatoga)
+- NEW Celery XYZ: [here](#celery-xyz)
+- NEW *Hahamini*: [here](#hahamini)
+- NEW Gessx: [here](#gessx)
+#### Specific, Single Games like Idle Breakout (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games) 
+
 ---
 **Other files:** <br>
 **Exploits, Bypasses, Cheats:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder. <br>
@@ -433,6 +435,7 @@ https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
 
+---
 ### Lich
 https://lichgames.s3.amazonaws.com/index.html <br>
 <br>
