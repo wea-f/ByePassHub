@@ -4,11 +4,11 @@
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
 
-**650+ Unblockers (Proxies), AI, and Apps with games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
-**300+ Unblocked Games Links:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
+**650+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
+**300+ Games and Game Hubs:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
 **80+ Exploits, Cheats, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br><br>
-**Guide on how to make your OWN unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) to go to the MakeYourOwnLink.md file. 
-**30+ Movies and Anime Links** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br>
+**Making your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) to go to the MakeYourOwnLink.md file.  <br> <br>
+**30+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
 
 #### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br> <br>
 
