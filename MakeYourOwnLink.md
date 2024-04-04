@@ -9,9 +9,10 @@ This files includes a guide on how to make your own unblockers! You can do this 
  
  ## Other files:
 **Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder.  <br>
-**Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file  <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
-**Games:** Go [here](#https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the Games.md file. <br>
+**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
+**Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
+**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 ### Making links via freeDNS
 1. Go to https://freedns.afraid.org/
