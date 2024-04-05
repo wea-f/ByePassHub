@@ -26,7 +26,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   **If you can't want March Madness at school, or you simply can't watch any sport broadcasts, you can watch it [here](https://methstreams.com/college-basketball-streams/)!!** <br>
 
 ## Updates/Changes:
-### April 5: <br> 30+ More [Abyss](#showmyhomescom-links), <br> 5+ more [Shadow Browser](#shadow-broswer--web-browser), <br> NEW [Sunset Network](#sunset-network--proxy-games-apps) links (proxy, games, apps), <br> NEW [Skydiver-web](#skydiver-web--web-browser) links (web browser + ai & apps)!
+### April 5: <br> 30+ More [Abyss](#showmyhomescom-links), <br> 15+ more [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), <br> 5+ more [Shadow Browser](#shadow-broswer--web-browser), <br> NEW [Sunset Network](#sunset-network--proxy-games-apps) links (proxy, games, apps), <br> NEW [Skydiver-web](#skydiver-web--web-browser) links (web browser + ai & apps)!
 **April 2:**  50+ More [Abyss](#abyss--web-browser--games),  10+ more [Artclass](#artclass--games-apps-proxy-and-emulators), 10+ NEW [Platformer.io](#platformer--proxy-games) Sites (has proxy & games),  NEW [Equinox](#equinox--proxy-games-apps) site (has proxy, games, apps)  <br>
 **March 31:** 35+ More [Abyss](#abyss--web-browser--games), 10+ more [Homework Help](#homework-help--games-proxy), Added [Google Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) to report a link, suggest, or donate one. Happy Spring Break! <br>
 **March 28:** 15+ More [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Night](#night--proxy-games-apps), [Shadow](#shadow-broswer--web-browser), [Kazwire](#kazwir--proxy-games-appe), 5+ [Abyss](#abyss--web-browser--games), [Utopia](#utopia--proxy-games-ai), [Emerald](#emerald--proxy-games-apps), [Tinfoil](#tinf0il--games-proxy-apps), [miniProxy](#new-miniproxy) NEW [Nebula](#nebula--proxy-and-games), NEW [AppOnFly](#apponfly--unrestricted-chrome) <br>
@@ -91,132 +91,50 @@ Interstellar Discord (has more links w/dispenser): https://discord.gg/interstell
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
 **200 more Astroid Links** (use unblocker if restricted): https://pastes.io/wkgmzaxgsk <br>
 ##### .to asteroid links
-https://mathwork.uk.to/ <br>
 https://differentialcalculus.uk.to/ <br>
 https://miami-str.uk.to/ <br> <br>
-https://mathisfun.uk.to/ <br>
-https://english-reading-games.uk.to/ <br>
-https://mathisthebest.us.to/ <br>
-https://mathamatics.us.to/ <br> <br>
-https://subtraction.fr.to/ <br>
-https://statistics.fr.to <br>
-https://education2.fr.to/ <br>
-https://education3.fr.to/ <br>
-https://education4.fr.to/ <br>
-https://education5.fr.to/ <br>
 https://worksheetsandlearn.fr.to/ <br>
-https://social-studies-work.fr.to/ <br>
-https://inboxastroid.fr.to/ <br>
-##### martinalia.com links
-https://analyticgeometry.martinalia.com/ <br>
-https://graphingcalculators.martinalia.com/ <br>
-##### grid-tronics.com links
-https://mathcompetitions.grid-tronics.com/ <br>
-https://arithmetic.grid-tronics.com/ <br>
-##### alexanderthegreater.com links
-https://analyticGeometry.alexanderthegreater.com <br>
-https://geometry.alexanderthegreater.com/ <br><br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
-##### asoch.cl links
-https://multiplication.asoch.cl/ <br>
-https://statistics.asoch.cl/ <br>
-https://interactivemathwebsites.asoch.cl <br>
-##### tatuarte.cl links
-https://integralcalculus.tatuarte.cl/ <br>
-https://algebra.tatuarte.cl/ <br>
-https://addition.tatuarte.cl <br>
-##### asirargentina.com.ar links
-https://integralcalculus.asirargentina.com.ar/ <br>
-https://mathsoftware.asirargentina.com.ar/ <br>
-https://geometrycompass.asirargentina.com.ar/ <br>
-##### ariefcyber4rt.co.uk links
-https://numberlines.ariefcyber4rt.co.uk/ <br>
-https://mathvideos.ariefcyber4rt.co.uk/ <br>
-##### ussargentina.com.ar links
-https://wordproblems.ussargentina.com.ar/ <br>
-https://educationalmathapps.ussargentina.com.ar/ <br>
-https://complexnumbers.ussargentina.com.ar/ <br><br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+https://inboxastroid.fr.to/ <br> <br>
+**NEW** https://49620.us.to/ <br> 
+**NEW** https://lhs.us.to/  <br>
 ##### shekinahphotography links
 https://zelvinlosthisgum.shekinahphotography.com/ <br>
 https://thankyoufortherole.shekinahphotography.com/ <br>
 https://happyholidays.shekinahphotography.com/ <br>
 https://vypergroupbest.shekinahphotography.com/
-##### co.za links
-https://mathflashcards.rivermile.co.za/ <br>
-https://ractions.shellhpg.co.za <br>
-https://arithmetic.businessnightrelay.co.za/ <br>
-https://probability.welkomcity.co.za/ <br>
-https://geometrycompass.thelmadejager.co.za/ <br>
-https://statistics.thelmadejager.co.za <br>
-https://arithmetic.trisummerseries.co.za/ <br>
-https://calculus.muckrun.co.za/ <br>
-https://mathworksheets.me4u.co.za/ <br>
-https://mathsoftware.saixge.co.za/ <br>
-https://trigonometry.rivermile.co.za <br>
-https://mathflashcards.3beaches.co.za/ (privacy error, type "thisisunsafe" to access)<br>
-https://probability.welkomcity.co.za/ <br>
-##### brettanderson.co.uk links
-https://trigonometry.brettanderson.co.uk/ <br>
-https://arithmetic.brettanderson.co.uk/ <br>
-https://linearalgebra.brettanderson.co.uk/ <br>
-##### youramys.com links
-https://peardeck.youramys.com/ <br>
-https://mathsclass.youramys.com/ <br>
-##### deleesportsmedicine.com links
-https://multiplication.deleesportsmedicine.com/ <br>
-https://matrices.deleesportsmedicine.com/ <br>
-##### pakasak.com links
-https://badastroid.pakasak.com/ <br>
-https://subtraction.pakasak.com <br><br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
-##### bookworm.com.np links
-https://now.bookworm.com.np/ <br>
-https://arithmetic.bookworm.com.np <br>
-##### journaliststudio.com links
-https://division.journaliststudio.com/ <br>
-https://graphingcalculators.journaliststudio.com/ <br>
 ##### Astroid | blueshadows.cl links
-**NEW** https://plsastroid.blueshadows.cl/   <br>
-**NEW** https://mathstuffs.blueshadows.cl/  <br>
-**NEW** https://mathisbest.blueshadows.cl/   <br>
-**NEW** https://iluvmath.blueshadows.cl/   <br>
-**NEW** https://calculus.blueshadows.cl/ <br>
+https://plsastroid.blueshadows.cl/   <br>
+https://mathstuffs.blueshadows.cl/  <br>
+https://mathisbest.blueshadows.cl/   <br>
+https://iluvmath.blueshadows.cl/   <br>
+https://calculus.blueshadows.cl/ <br>
 ##### mooo.com links
-**NEW** https://ofcoursethecowsays.mooo.com/ <br>
-**NEW** https://addition.help.mooo.com/ <br>
+https://ofcoursethecowsays.mooo.com/ <br>
+https://addition.help.mooo.com/ <br>
 ##### Misc. Astroid Links
-https://complexnumbers.digitaltv.cl/ <br>
-https://algebra.sentinam.io/worksheets/index.html <br>
-https://wordproblems.blackbooth.com.au/ <br>
-https://subtraction.javierblog.com/ <br>
-https://fractions.javierblog.com/ <br>
-https://analyticgeometry.dcmusic.ca/ <br>
-https://wordproblems.espacoextra.pt/ <br>
-https://mathematicaloperations.sidoarjogetar.com/ <br>
-https://integralcalculus.dichtiengviet.com/ <br>
-https://integralcalculus.starnightimport.com/ <br>
-https://geometry.starnightimport.com/ <br>
-https://differentialequations.poptour.com.ar/ <br>
 https://photography.abatek.com/ <br>
 https://learningalgebra101.tafca.co.uk/ <br>
-https://interactivemathwebsites.sitaci.com/ <br>
 https://roid.strangled.net/ <br>
 https://multiplication.worthingfirealarms.co.uk/ <br>
-https://geometrycompass.panel-laboralcj.gob.mx/ <br>
-https://mathcompetitions.kick.sh/ <br>
-https://trigonometry.abk.ch <br>
-https://statistics.glk.com.np/ <br>
-https://educationalmathapps.radiolallave.cl/ <br>
-https://differentialcalculus.226vitech.com/ <br>
-https://calculus.myers-usa.com <br>
-https://fractions.javierblog.com/ <br>
-https://subtraction.javierblog.com/ <br>
-https://worksheetsandlearn.fr.to/ <br> 
 https://mooo.pagostepeapulco.gob.mx/ <br>
 https://london.boooo.byethost18.com/ <br> 
-**NEW** https://education-center.panel-laboralcj.gob.mx/ <br><br>
-
+https://education-center.panel-laboralcj.gob.mx/ <br>
+**NEW** https://kahoot.mine.bz/ <br>
+**NEW** https://compscirules.sen.org.nz/  <br>
+**NEW** https://mathsisfun.link/ <br>
+**NEW** https://roblox.vyper.group/ <br>
+**NEW** https://integrals.edumath.nl/ <br>
+**NEW** https://v3beta.flyawaybear.nl/  <br>
+**NEW** https://fast.jbones.com/   <br>
+**NEW** https://he-just.farted.net/  <br>
+**NEW** https://this-is-not-a.hackquest.com/   <br>
+**NEW** https://compscirules.sen.org.nz/  <br>
+**NEW** https://astroid.jib.ar/worksheets/index.html  <br>
+**NEW** https://mathematics.soon.it/  <br>
+**NEW** https://division.danielwilkins.org/  <br> 
+**NEW** https://learning.sailtheuniverse.com/  <br>
+**NEW** https://maths.timekeeper.ro/  <br>
+**NEW** https://maths.hs.vc/  <br> <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
