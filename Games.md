@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 4
+# ByePassHub > Games | updated April 5
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -19,6 +19,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### 1v1.LOL (10+): [here](#new-1v1lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
+#### NEw Plexile Arcade (15+): [here](#plexile-arcade)
 #### Game Hubs with less than 1-2 links:
 - *Lich:* [here](#lich)
 - NEW Not Games: [here](#new-not-games)
@@ -63,10 +64,16 @@ https://information.potomacriversafetycommittee.org/ <br>
 https://about.cause.potomacriversafetycommittee.org/ <br>
 https://members.board.potomacriversafetycommittee.org/  <br>
 https://checkout.donate.potomacriversafetycommittee.org/ <br>
-##### New tafca.co.uk links
-**NEW!** https://calendar.matches.tafca.co.uk/ <br>
-**NEW!** https://clubs.tafca.co.uk/ <br>
-**NEW!** https://pawn.pieces.tafca.co.uk <br><br>
+**NEW** http://archive.calendar.potomacriversafetycommittee.org/ <br>
+##### tafca.co.uk links
+https://calendar.matches.tafca.co.uk/ <br>
+https://clubs.tafca.co.uk/ <br>
+https://pawn.pieces.tafca.co.uk/ <br>
+**NEW!** https://winter.league.tafca.co.uk/ <br>
+**NEW!** https:// form.contact.tafca.co.uk/ <br>
+**NEW!** https:// chess.moves.tafca.co.uk/ <br>
+**NEW!** https:// calendar.matches.tafca.co.uk/ <br>
+<br>
 **^ Back to [top ^](#table-of-contents)**
 ##### essexregional.org links
 https://form.contact.essexregional.org <br>
@@ -97,6 +104,11 @@ https://weston-makes-links.mooo.com/ <br>
 https://weston-is-honest.fr.to/ <br>
 https://visit.the.us.to/ <br>
 **NEW** https://selen-instructions.soapagent.com <br>
+**NEW** https://supportukraine.sanluix.org/ <br>
+**NEW** https://toodles.spanishlearning.com.ar/ <br>
+**NEW** https://old.man.joe.mindhackers.org/ <br>
+**NEW** https://security.from.annaffiare.org/ <br>
+**NEW** https://404.1337.cx/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -434,6 +446,27 @@ https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/
 
 ### Vortex Math | main password: 126711, games password: 649290, there is also a soundboard
 https://vortexmath.my.canva.site/_password <br>
+
+### Plexile Arcade
+**All of these links are NEW** - Apr 5 <br>
+https://book-opensocial.ranzdompr0jzxymaths.xml.googleusercontent.cause.vc/  <br>
+https://education.disciplinary.design/   <br>
+https://crazy.thunder.com.ve/  <br>
+https://math-homework.funny.cl/  <br>
+https://ball.usercontent.toogoofy.com/  <br> 
+https://new-software-for-tutors.usercontent.toogoofy.com/  <br>
+https://great.clu.bz/  <br>
+https://pa.maze.lol/  <br>  <br>
+
+https://plexilearcade.glitch.me/  <br>
+https://funschoolprojects.glitch.me/ <br>
+https://nweatestingsite.glitch.me/  <br>  <br>
+
+https://algebratutors.onrender.com/  <br>
+https://schoolapplications.onrender.com/  <br>  <br>
+
+https://mytestscores.netlify.app/  <br>
+https://educationalinsights.netlify.app/ <br>  <br>
 
 ---
 ### Lich
