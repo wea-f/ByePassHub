@@ -37,38 +37,38 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (MUST USE)**
-- [Norepted](#norepted--yt-video-watcher-with-history-hiding) - YT video watcher 
-- [Surfskip](#surfskip--web-browser--links-cycle-every-two-days) - web browser 
-- [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
-- [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
-- [**Abyss**](#abyss--web-browser--games) - Web browser, Games
+- <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher 
+- 5+ [Surfskip](#surfskip--web-browser--links-cycle-every-two-days) - web browser 
+- <5 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
+- 40+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
+- **100+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
 - [Shadow Browser](#shadow-broswer--web-browser) - Web browser (links are scarce, going to refill)
-- [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps
-- [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you.
-- [**Artclass**](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators
-- [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI**
-- [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
-- [HYPERTABS](#hypertabs--web-browser) - Web browser
-- [Night](#night--proxy-games-apps) - Proxy, Games, Apps
-- [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps
-- [Emerald](#emerald--proxy-games-apps) - Proxy, Games, Apps
-- [Homework Help](#homework-help--games-proxy) - Proxy, Games
-- [**Snorlax**](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps
-- [**NEW Platformer**](#platformer--proxy-games) - Proxy, **200+** Games
-- [Celestial Network](#celestial-network--proxy-games-apps) - Proxy, Games, Apps
-- [**NEW Skydiver-web**](#skydiver-web--web-browser) - Web browser (built-in games, AI, apps)
-- [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps
-- [NEW Sunset Network](#sunset-network--proxy-games-apps) - Proxy, Games, Apps
-- [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps
-- [**Tinf0il**](#tinf0il--games-proxy-apps) - Proxy, Games, Apps
-- [NEW Ludicrous](#new-ludicrous--proxy) - Proxy
-- [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps
-- [Sites that have 1-2 links, including 12+ sites](#sites-with-1-2-links) - Includes proxies, web browsers, games, & apps
-- **[AI and Homework Solvers](#ai-and-homework-solvers)**
-  * [Homework Solvers/Calculators](#homework-solverscalculators-)
-    + **[Ai Checker](#ai-checker)**
-- [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work)
-  * [Proxy Discord Servers](#proxy-discord-servers-these-servers-have-many-secret-links-that-are-probably-unblocked) - these servers have many secret links that are probably unblocked
+- 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps
+- **80+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you.
+- 45+ [**Artclass**](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators
+- 25+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI**
+- 25+ [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
+- 10+ [HYPERTABS](#hypertabs--web-browser) - Web browser
+- 15+ [Night](#night--proxy-games-apps) - Proxy, Games, Apps
+- 10+ [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps
+- 10+ [Emerald](#emerald--proxy-games-apps) - Proxy, Games, Apps
+- 10+ [Homework Help](#homework-help--games-proxy) - Proxy, Games
+- 10+ [**Snorlax**](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps
+- 10+ [**NEW Platformer**](#platformer--proxy-games) - Proxy, **200+** Games
+- 5+ [Celestial Network](#celestial-network--proxy-games-apps) - Proxy, Games, Apps
+- 5+ [**NEW Skydiver-web**](#skydiver-web--web-browser) - Web browser (built-in games, AI, apps)
+- 5+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps
+- 5+ [NEW Sunset Network](#sunset-network--proxy-games-apps) - Proxy, Games, Apps
+- <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps
+- 5+ [**Tinf0il**](#tinf0il--games-proxy-apps) - Proxy, Games, Apps
+- <5 [NEW Ludicrous](#new-ludicrous--proxy) - Proxy
+- <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps
+- [1-2 link sites, including 12+ sites and 20+ links](#sites-with-1-2-links) - Includes proxies, web browsers, games, & apps
+- 20+ **[AI](#ai-and-homework-solvers)**
+  * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
+    + <5 **[Ai Checker](#ai-checker)**
+- 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work)
+  * 20+ [Proxy Discord Servers](#proxy-discord-servers-these-servers-have-many-secret-links-that-are-probably-unblocked) - these servers have many secret links that are probably unblocked
 ---
 
 ## website title | what it contains | any note if needed
@@ -312,7 +312,7 @@ https://sites.google.com/view/master-editionn/home  <br>
 http://sites.google.com/view/galaxygameworldv3/home  <br>
 https://sites.google.com/rcs-k12.us/hiddenhtml  <br>
 https://sites.google.com/view/schoolmessage/home  <br> <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)** <br>
 https://sites.google.com/view/rh-tk  <br>
 https://sites.google.com/view/lockdownbrowsereducationexsten/home <br>
 http://sites.google.com/view/jays-hangout/home <br>
@@ -349,8 +349,9 @@ https://malli-is-awesome.fr.nullexistence.net/ <br>
 https://wire.nullexistence.net/ <br>
 https://dylansmakingmore.nullexistence.net/ <br>
 https://cantaddthis.sorry.md.nullexistence.net/ <br>
+https://readingforfun.to.nullexistence.net/ <br>
  <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)** 
 ##### scottexteriors.com links
 **NEW** https://iloveschool.scottexteriors.com/ <br>
 **NEW** https://ilovemath.scottexteriors.com/ <br>
@@ -361,7 +362,6 @@ https://cantaddthis.sorry.md.nullexistence.net/ <br>
 **NEW** https://cp.iscool.scottexteriors.com/ <br>
 **NEW** https://skibidiohiogrimaceshakeleveltengyatmadsus.scottexteriors.com/ <br>
 https://broimtiredhelpme.scottexteriors.com/ <br>
-https://readingforfun.to.nullexistence.net/ <br>
 ##### Misc. links
 https://donuts.pastrypowered.com/ <br>
 https://forbmskids.dietpc.org/ <br>
@@ -382,7 +382,7 @@ https://ddsk.darvin.one.pl/ <br>
 **NEW** https://iticklefatkids.guitarasia.com/ <br>
 **NEW** https://bigblackoiledmen.wikilegia.com/ <br>
 <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)** <br>
 https://y4hrb.saltbush.com/ <br>
 https://history.mr.g.scottjungwirth.com/ <br>
 https://help.open-window.de/ <br>
@@ -790,15 +790,6 @@ https://chatgpt1s.com/ <br>
 https://www.wolframalpha.com/ <br>
 https://qanda.ai/en/search/ <br>
 **NEW** https://writer.com/#ask-writer <br>
-#### Homework Solvers/Calculators: <br>
-https://www.symbolab.com/solver <br>
-https://www.mathway.com/Algebra <br>
-https://www.geogebra.org/solver <br>
-https://cameramath.com/mathsolver <br>
-https://mathforyou.net/en/online/ <br>
-https://www.tiger-algebra.com/ <br>
-https://quickmath.com/solve/ <br> <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 ##### These ones you need to sign up
 https://quizlet.com/qchat <br>
 https://www.hypotenuse.ai/ai-chat <br>
@@ -814,6 +805,15 @@ Directions: Go to bing.com or Microsoft Edge and hit the chat icon on the sideba
 ##### Ai Checker
 https://www.zerogpt.com/ <br>
 https://writer.com/ai-content-detector/ <br><br>
+**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+#### Homework Solvers/Calculators: <br>
+https://www.symbolab.com/solver <br>
+https://www.mathway.com/Algebra <br>
+https://www.geogebra.org/solver <br>
+https://cameramath.com/mathsolver <br>
+https://mathforyou.net/en/online/ <br>
+https://www.tiger-algebra.com/ <br>
+https://quickmath.com/solve/ <br> <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
