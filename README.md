@@ -4,7 +4,7 @@
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
 
-**650+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
+**600+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
 **300+ Games and Game Hubs:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
 **80+ Exploits, Cheats, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br><br>
 **Making your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) to go to the MakeYourOwnLink.md file.  <br> <br>
