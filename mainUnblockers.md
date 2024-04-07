@@ -1,10 +1,11 @@
-# ByePassHub > Main Links | updated April 5
+# ByePassHub > Main Links | updated April 6
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
 **Other files:** <br>
-**Exploits, Bypasses, Cheats:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
+**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
 **Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 

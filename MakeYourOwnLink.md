@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | (WIP) last updated Apr 3
+# ByePassHub > Making your Own Links | (WIP) last updated Apr 6
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Suggestions?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form.
@@ -8,9 +8,10 @@ This files includes a guide on how to make your own unblockers! You can do this 
  #### (COMING SOON) Deploying with providers like Vercel, Render, Cyclic, and Glitch
  
  ### Other files:
-**Exploits:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder.  <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder.  <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
+**Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 **Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
 **Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
