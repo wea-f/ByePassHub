@@ -16,4 +16,5 @@ Updates every week, if not daily
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this lol** <br>
 **Credits are in the individual files** <br> <br>
-**I am not responsbile for any problems that arise associated with this repository. It's your device and you control your own decisions.**
+**I am not responsbile for any problems that arise associated with this repository. It's your device and you control your own decisions.** <br>
+**This repository is also licensed under the MIT license, check the LICENSE file for more information.** 
