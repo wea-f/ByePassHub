@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 5
+# ByePassHub > Games | updated April 8
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -41,6 +41,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
 **Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
+**Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br>
 **Back to MainHub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 
@@ -209,6 +210,7 @@ https://beiswenger.net/unblocked/ <br>
 ### A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
 **NEW** https://student-portal.hustlersuniversity.pro/  <br>
+**NEW** https://schoolmath.mmabathoair.co.za/ <br>
 
 ### Phantom Games | RECOMMENDED
 https://freedns.afraid.org.uk.to/ <br>
@@ -244,6 +246,8 @@ https://free.education9.actsministries.org/  <br>
 **NEW!** https://e.tnsmexico.com/  <br> 
 https://9.lusz.one.pl/  <br> 
 **NEW!** https://boringgot.thelmadejager.co.za/ <br>
+**NEW** https://basket.random.one.pl/ <br>
+**NEW** https://humanitiestutoring.celebsplay.com/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
