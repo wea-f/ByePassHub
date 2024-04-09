@@ -1,10 +1,13 @@
-# ByePassHub > Making your Own Links | (WIP) last updated Apr 6
+# ByePassHub > Making your Own Links | (WIP) last updated Apr 9
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Suggestions?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form.
 
  ## Table of Contents:
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
++ [Deploying via Vercel](#make-links-with-vercel)
++ [Deploying via Cyclic](#make-links-with-cyclic)
++ [Deploying via Render](#make-links-with-render)
  #### (COMING SOON) Deploying with providers like Vercel, Render, Cyclic, and Glitch
  
  ### Other files:
@@ -48,8 +51,29 @@ This files includes a guide on how to make your own unblockers! You can do this 
 10. After putting the IP destination to your subdomain, press "save." Complete the captcha. 
 11. Wait a couple minutes for your site to register and go to the link you created!  
 
+### Make links with Vercel
+Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
+1. Replace the filler with an unblocker repository. For example, https://vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4 for deploying a doge unblocker link. Here's more:
+	> Interstellar: https://github.com/InterstellarNetwork/Interstellar
+ 	> Snorlax's Cave: https://github.com/Snorlaxs-Cave/Snorlaxs-Cave-v2
+ 	> Artclass: https://github.com/art-class/v4
+ 	> Utopia: https://github.com/UtopiaUnblocker/Utopia
+    	> Abyss Web: https://github.com/AbyssServices/Abyss-Web
+ 	> Astroid: https://github.com/VyperGroup/astroidv3
+ 	> Shuttle: https://github.com/shuttlenetwork/shuttle
+ 	> Tinf0il: https://github.com/Aluminum-Depot/Tinf0il-new
+2. Log in to your vercel account with Github, sign up if needed with Github (you will have to authorize).
+3. In the "Create Git Repository," enter the repository name that will be linked to your unblocker, it can be anything.
+4. Click "Create"
+5. After a few moments, go to the link that you just created, which should be (repositoryName).vercel.app
 
+### Make links with Cyclic
+(coming soon!)
+1. Go to `https://app.cyclic.sh/`
+2. Login with Github, sign up with github if you don't have an account.
+3. Link: https://app.cyclic.sh/api/app/deploy/`repositoryname`
 
-
-
+### Make links with Render
+(coming soon!)
+Link: https://render.com/deploy?repo=(repositoryURL)
 
