@@ -28,7 +28,8 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   **If you can't want March Madness at school, or you simply can't watch any sport broadcasts, you can watch it [here](https://methstreams.com/college-basketball-streams/)!!** <br>
 
 ## Updates/Changes:
-### April 8: <br> 15+ more [Abyss](#abyss-misc-links), <br> 15+ more [Artclass](#not-hopsh-links), <br>NEW [12ft](#12ft--proxy) Proxy, <br> NEW [Deblok](#deblok) site! <br> More [Utopia](#utopia--proxy-games-ai)
+### April 9: <br> 50+ more [Abyss!!](#newhopesinfo-links)
+**April 8:** 15+ more [Abyss](#abyss-misc-links), 15+ more [Artclass](#not-hopsh-links), NEW [12ft](#12ft--proxy) Proxy, NEW [Deblok](#deblok) site! More [Utopia](#utopia--proxy-games-ai) <br>
 **April 5:** 30+ More [Abyss](#showmyhomescom-links), 15+ more [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), 5+ more [Shadow Browser](#shadow-broswer--web-browser), NEW [Sunset Network](#sunset-network--proxy-games-apps) links (proxy, games, apps), NEW [Skydiver-web](#skydiver-web--web-browser) links (web browser + ai & apps)! <br>
 **April 2:**  50+ More [Abyss](#abyss--web-browser--games),  10+ more [Artclass](#artclass--games-apps-proxy-and-emulators), 10+ NEW [Platformer.io](#platformer--proxy-games) Sites (has proxy & games),  NEW [Equinox](#equinox--proxy-games-apps) site (has proxy, games, apps)  <br>
 **March 31:** 35+ More [Abyss](#abyss--web-browser--games), 10+ more [Homework Help](#homework-help--games-proxy), Added [Google Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) to report a link, suggest, or donate one. Happy Spring Break! <br>
@@ -44,7 +45,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 5+ [Surfskip](#surfskip--web-browser--links-cycle-every-two-days) - web browser 
 - <5 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
 - 40+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
-- **120+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
+- **160+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
 - [Shadow Browser](#shadow-broswer--web-browser) - Web browser (links are scarce, going to refill)
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps
 - **80+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you.
@@ -241,6 +242,57 @@ https://schoology-sign-in.dcmusic.ca/ <br>
 https://hamburgersandcheeseburgersgowellwithfries.dcmusic.ca/ <br>
 https://cml-testing.dcmusic.ca/ <br>
 https://schoology-login.dcmusic.ca/ <br>
+##### newhopes.info links: 
+**All links in this section are NEW** - Apr 9 <br>
+https://worth.newhopes.info/ <br>
+https://range.newhopes.info/ <br>
+https://fraud.newhopes.info/ <br>
+https://grant.newhopes.info/ <br>
+https://right.newhopes.info/ <br>
+https://dozen.newhopes.info/ <br>
+https://shelf.newhopes.info/ <br>
+https://feign.newhopes.info/ <br>
+https://medal.newhopes.info/ <br>
+https://tough.newhopes.info/ <br>
+https://prize.newhopes.info/ <br>
+https://charm.newhopes.info/ <br>
+https://robot.newhopes.info/ <br>
+https://mayor.newhopes.info/ <br>
+https://movie.newhopes.info/ <br>
+##### lutyk.com.ar links
+**ALL links in this section are NEW** - Apr 9 <br>
+https://cabin.lutyk.com.ar/ <br>
+https://shine.lutyk.com.ar/ <br>
+https://petty.lutyk.com.ar/ <br>
+https://draft.lutyk.com.ar/ <br>
+https://quote.lutyk.com.ar/ <br> 
+https://basis.lutyk.com.ar/ <br>
+https://spoil.lutyk.com.ar/ <br>
+https://charm.lutyk.com.ar/ <br>
+https://eject.lutyk.com.ar/ <br>
+https://chief.lutyk.com.ar/ <br>
+https://march.lutyk.com.ar/ <br>
+https://worry.lutyk.com.ar/ <br>
+https://elbow.lutyk.com.ar/ <br>
+https://knock.lutyk.com.ar/ <br>
+https://treat.lutyk.com.ar/ <br>
+##### assuregloves.com links
+**ALL links in this section are NEW** - Apr 9 <br>
+https://front.assuregloves.com/ <br>
+https://spare.assuregloves.com/ <br>
+https://belly.assuregloves.com/ <br>
+https://smoke.assuregloves.com/ <br>
+https://money.assuregloves.com/ <br>
+https://petty.assuregloves.com/ <br>
+https://order.assuregloves.com/ <br>
+https://cable.assuregloves.com/ <br>
+https://frank.assuregloves.com/ <br>
+https://suite.assuregloves.com/ <br>
+https://taste.assuregloves.com/ <br>
+https://ankle.assuregloves.com/ <br>
+https://enjoy.assuregloves.com/ <br>
+https://haunt.assuregloves.com/ <br>
+https://brink.assuregloves.com/ <br>
 ##### .co links:
 https://mathcalculatortutor.co/ <br>
 https://experimentretirement.co/ <br>
@@ -286,6 +338,11 @@ https://home.eglobaltravelmedia.com/ <br>
 **NEW** https://thisdomain-iswaytolong4u.alsostopwastingtimereadingthis.soapclient.com/ <br>
 **NEW** https://mathfactsharpener.zipper-maker.com/ <br>
 **NEW** https://sindoabyss.lospenitentes.com/ <br>
+**NEW** https://learn-about.argentina.mza.com.ar/ <br>
+**NEW** https://hohohoho.santa.tafca.co.uk/ <br>
+**NEW** https://pokeme.vaizer.cl/ <br>
+**NEW** https://math.learning.uk.rsjug.org/ <br>
+**NEW** https://louisdidnotmakethiswebsitenocap.duckdns.org/ <br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
