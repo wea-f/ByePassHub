@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 8
+# ByePassHub > Main Links | updated April 9
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -52,7 +52,6 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 40+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI**
 - 25+ [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [HYPERTABS](#hypertabs--web-browser) - Web browser
-- 15+ [Night](#night--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Emerald](#emerald--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Homework Help](#homework-help--games-proxy) - Proxy, Games
@@ -578,23 +577,6 @@ https://wiggly-owl.surge.sh/ <br>
 https://bumpy-picture.surge.sh/ <br>
 https://third-army.surge.sh/ <br>
 https://best-dock.surge.sh/ <br> <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
-
-### Night | Proxy, Games, Apps
-https://app.desmos.sanluix.org/ <br>
-https://schools.nationalphotography-forkids.thebookllc.com/ <br>
-https://information.minecraft.pe/  <br>
-https://ilovedns.mathpapers.dc2nyconfessions.com/ <br>
-https://nightproxy.fr.to/ <br>
-https://doesntevenworklmao.duckdns.org/ <br>
-https://app.desmos.apps.dj/ <br>
-https://new-void.abatek.com/ <br>
-https://school.thebookllc.com/ <br>
-https://donate.tostudentsinohio-rn.abatek.com/ <br>
-https://highschoolers.publiclibrary-free.dcmusic.ca/  <br>
-https://free.onlinecoding-classes-forkids.uk.to/ <br>
-**NEW** https://iuefwhofwhufe.kids.com/ <br>
-<br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Kitty Cat Club | proxy, games, apps
