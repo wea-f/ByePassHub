@@ -52,6 +52,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 40+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI**
 - 25+ [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [HYPERTABS](#hypertabs--web-browser) - Web browser
+- [Night Discord Server](#night--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Emerald](#emerald--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Homework Help](#homework-help--games-proxy) - Proxy, Games
@@ -578,6 +579,9 @@ https://bumpy-picture.surge.sh/ <br>
 https://third-army.surge.sh/ <br>
 https://best-dock.surge.sh/ <br> <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
+
+### Night | Proxy, Games, Apps
+Visit their [discord server](https://discord.gg/7SCnPUM5S6) for links! <br>
 
 ### Kitty Cat Club | proxy, games, apps
 **Username:** `kittycatclub` <br>
