@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | (WIP) last updated Apr 10
+# ByePassHub > Making your Own Links | (WIP) last updated Apr 11
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Suggestions?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form.
@@ -27,12 +27,13 @@ This files includes a guide on how to make your own unblockers! You can do this 
 3. Fill out all of the information in the boxes.
 	> For your first and last name, you don't have to put your real name.
 	
-	> For the user ID,  you can put anything.
+	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> If your email gets banned for whatever reason, use a temporary email provider like [TempMail](https://temp-mail.org/), but your created link may expire.
+	> You could also use a temporary email provider like [TempMail](https://temp-mail.org/).
 	
-4. Finish signing up by completing the activation with your email.
+4. Finish signing up by completing the email activation.
 5. Now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
+	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence. 
 6. Click a domain that you would like to use. (e.g. chickenkiller.com)
 	> Make sure to select a domain that is unblocked for you. Domains that have a low popularity are probably unblocked. 
 	
@@ -109,7 +110,4 @@ Link: https://render.com/deploy?repo=(repositoryURL)
 4. For the blueprint name, put anything
 5. For the branch, keep it at `main`
 
-
-### Make links with Koyeb (WIP)
-https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar
 
