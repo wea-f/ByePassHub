@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 8
+# ByePassHub > Games | updated April 14
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -28,7 +28,6 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 - Abcya: [here](#abyca)
 - Hdun: [here](#hdun)
 - Liorxyst: [here](#liorxyst)
-- NEW *Zatoga*: [here](#zatoga)
 - NEW Celery XYZ: [here](#celery-xyz)
 - NEW *Hahamini*: [here](#hahamini)
 - NEW Gessx: [here](#gessx)
@@ -42,7 +41,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 **Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 **Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br>
-**Back to MainHub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 
 
@@ -66,7 +65,7 @@ https://information.potomacriversafetycommittee.org/ <br>
 https://about.cause.potomacriversafetycommittee.org/ <br>
 https://members.board.potomacriversafetycommittee.org/  <br>
 https://checkout.donate.potomacriversafetycommittee.org/ <br>
-**NEW** http://archive.calendar.potomacriversafetycommittee.org/ <br>
+http://archive.calendar.potomacriversafetycommittee.org/ <br>
 ##### tafca.co.uk links
 https://calendar.matches.tafca.co.uk/ <br>
 https://clubs.tafca.co.uk/ <br>
@@ -87,10 +86,10 @@ https://about.blog.steveharrop.co.uk/ <br>
 https://results.search.dansted.org/ <br>
 https://rss.feed.link.dansted.org/ <br>
 ##### rugelegychessclub.co.uk links
-**NEW** https://archive.puzzles.rugeleychessclub.co.uk/ <br>
-**NEW!** https://rug.rugeleychessclub.co.uk/ <br>
-**NEW!** https://rugby.rugeleychessclub.co.uk/ <br>
-**NEW!** https://practice.chess.rugeleychessclub.co.uk/ <br>
+https://archive.puzzles.rugeleychessclub.co.uk/ <br>
+https://rug.rugeleychessclub.co.uk/ <br>
+https://rugby.rugeleychessclub.co.uk/ <br>
+https://practice.chess.rugeleychessclub.co.uk/ <br>
 ##### Misc.
 https://contact.zverovich.net/ <br>
 https://deals.youramys.com/ <br>
@@ -106,11 +105,13 @@ https://weston-makes-links.mooo.com/ <br>
 https://weston-is-honest.fr.to/ <br>
 https://visit.the.us.to/ <br>
 **NEW** https://selen-instructions.soapagent.com <br>
-**NEW** https://supportukraine.sanluix.org/ <br>
-**NEW** https://toodles.spanishlearning.com.ar/ <br>
-**NEW** https://old.man.joe.mindhackers.org/ <br>
-**NEW** https://security.from.annaffiare.org/ <br>
-**NEW** https://404.1337.cx/ <br>
+https://supportukraine.sanluix.org/ <br>
+https://toodles.spanishlearning.com.ar/ <br>
+https://old.man.joe.mindhackers.org/ <br>
+https://security.from.annaffiare.org/ <br>
+https://404.1337.cx/ <br>
+**NEW** https://all.products.shop.womenclothingtoday.com/ <br>
+**NEW** https://astrology.space.g8z.net/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -207,12 +208,25 @@ https://beta7.apktbg.com/demo <br>
 ### Unblocked Games Hub
 https://beiswenger.net/unblocked/ <br>
 
+
 ### A1R
 https://iamasweaty.fortnitebuilder.pro/ <br>
 **NEW** https://student-portal.hustlersuniversity.pro/  <br>
 **NEW** https://schoolmath.mmabathoair.co.za/ <br>
 
 ### Phantom Games | RECOMMENDED
+##### NEW, mascarenhas.inf.br links:
+https://gottahopethisworks.mascarenhas.inf.br/ <br>
+https://bombyolkyellow.mascarenhas.inf.br/ <br>
+https://musicwithmrwetherill.mascarenhas.inf.br/ <br>
+https://kireanstopsharingthis.mascarenhas.inf.br/ <br>
+##### actministries.org links: 
+https://free.education10.actsministries.org/  <br> 
+https://free.education7.actsministries.org/  <br> 
+https://free.education6.actsministries.org/  <br> 
+https://free.education8.actsministries.org/  <br> 
+https://free.education9.actsministries.org/  <br> 
+##### Misc. links
 https://freedns.afraid.org.uk.to/ <br>
 https://idididididididididididididiidididididididididididididididididid.us.to/ <br>
 https://iamsobored.ah.spikygames.fr.to/ <br>
@@ -229,11 +243,6 @@ https://rwe3t23.donbot.net/  <br>
 https://y45h54.elnietoideal.com.ar/  <br> 
 https://yhu45y45.rivalnations.com/  <br>
 https://shadows.blueshadows.cl/  <br> 
-https://free.education10.actsministries.org/  <br> 
-https://free.education7.actsministries.org/  <br> 
-https://free.education6.actsministries.org/  <br> 
-https://free.education8.actsministries.org/  <br> 
-https://free.education9.actsministries.org/  <br> 
 **NEW!** https://mrwetherillshawn.qtech.cl/  <br> 
 **NEW!** https://lyllielevidefinitelydoesnotmakethese.strangled.net   <br>
 **NEW!** https://application3.batboy4k.com/   <br> 
@@ -497,9 +506,6 @@ https://hdun.org/games/ <br>
 ### liorxyst
 https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://lioxryt.pages.dev/ <br>
 
-### Zatoga
-https://interact.learn.trivialime.com/ <br>
-
 ### Celery Xyz
 https://hookedln.wixsite.com/celery-xyz <br>
 
@@ -529,6 +535,8 @@ Nothing to Hide: https://nothing-to-hide-demo.s3.amazonaws.com/index.html <br>
 Bad Time Simulator: https://kckarnige.is-a.dev/BadTimeRevamped/ <br>
 Marbleous: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html <br>
 AIRMASH: https://altao.azureedge.net/ <br>
-**NEW** Dadish 1: https://rawcdn.githack.com/mackeylol/copyofmasite/main/Games/dadish/index.html <br>
+Dadish 1: https://rawcdn.githack.com/mackeylol/copyofmasite/main/Games/dadish/index.html <br>
+**NEW** Compute it: https://compute-it.toxicode.fr/ <br>
+**NEW** Oregon Trail: https://jamesfriend.com.au/pce-js/mecc/oregon-trail.html <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
