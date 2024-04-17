@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 14
+# ByePassHub > Games | updated April 17
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -116,23 +116,20 @@ https://404.1337.cx/ <br>
 **^ Back to [top ^](#table-of-contents)**
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
-**The below links work in a proxy if its blocked.** <br>
-https://mathstutor.life/ 
-https://educationbluesky.com/
-https://maths.news/ 
-https://maths.media/ 
-https://websitesball.com/  
-https://nowgg.me/apps/roblox-corporation/5349/roblox.html
-https://ngg.798sc.com/ 
-https://acb.supertunnelrush.com/demo 
-https://acb.basketballrandom.net/demo 
-https://hotkitchenbag.com/ 
-https://websitesbridge.com/ 
-https://mathsspot.com/ 
-https://selfstudybrain.com/ 
-https://universityequality.com/ 
-https://v3.now.gg/ 
-**Putting the below links in a proxy will not work.** <br>
+**These links may or may not work in a proxy if its blocked.** <br>
+https://mathstutor.life/  <-- works in a proxy btw<br>
+https://educationbluesky.com/ <br>
+https://maths.news/  <br>
+https://maths.media/  <br>
+https://websitesball.com/  <br> 
+https://ngg.798sc.com/  <br>
+https://acb.supertunnelrush.com/demo  <br>
+https://hotkitchenbag.com/  <br>
+https://websitesbridge.com/  <br>
+https://mathsspot.com/  <br>
+https://selfstudybrain.com/  <br>
+https://universityequality.com/  <br> <br>
+
 https://beta1.caculatorgeo.monster/demo <br>
 https://beta2.caculatorgeo.monster/demo <br>
 https://beta3.caculatorgeo.monster/demo <br>
