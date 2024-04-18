@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 14
+# ByePassHub > Main Links | updated April 17
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -28,22 +28,25 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 
 ## Updates/Changes:
-### April 14, 2024: <br> 
-- Added **NEW** [Zatoga](#zatoga--proxy-games-apps-and-cheats) site **(15+ links)** <br> 
-- Added **10+** [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) links <br>
-- Added **5+** [Artclass](#artclass--games-apps-proxy-and-emulators) links <br>
-- Added **5+** [Shuttle](#shuttle--games-apps-and-proxy) links <br>
-- Added **5+** [Equinox](#equinox--proxy-games-apps) links <br>
-- More [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) <br> 
-- More [Skydiver-web](#skydiver-web--web-browser) <br>  <br>
+### April 17,2024:
+- Added **15+** [Xen](#xen--proxy-apps) links!
+- More 5+ WORKING Shadow Tabbed links!
+- Added 5+ [Kazwire](#kazwire--) links!
+- NEW **ASTRO** site added!
+- More Rammerhead links<br>
+**April 14, 2024:** Added **NEW** [Zatoga](#zatoga--proxy-games-apps-and-cheats) site **(15+ links)** <br> 
+Added **10+** [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) links,
+Added **5+** [Artclass](#artclass--games-apps-proxy-and-emulators) links,
+Added **5+** [Shuttle](#shuttle--games-apps-and-proxy) links,
+Added **5+** [Equinox](#equinox--proxy-games-apps) links,
+More [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page),
+More [Skydiver-web](#skydiver-web--web-browser) <br>
 **April 8 & 9:** 65+ more [Abyss](#abyss-misc-links), 15+ more [Artclass](#not-hopsh-links), NEW [12ft](#12ft--proxy) Proxy, More [Utopia](#utopia--proxy-games-ai) <br>
 **April 5:** 30+ More [Abyss](#showmyhomescom-links), 15+ more [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), 5+ more [Shadow Browser](#shadow-broswer--web-browser), NEW [Sunset Network](#sunset-network--proxy-games-apps) links (proxy, games, apps), NEW [Skydiver-web](#skydiver-web--web-browser) links (web browser + ai & apps)! <br>
 **April 2:**  50+ More [Abyss](#abyss--web-browser--games),  10+ more [Artclass](#artclass--games-apps-proxy-and-emulators), 10+ NEW [Platformer.io](#platformer--proxy-games) Sites (has proxy & games),  NEW [Equinox](#equinox--proxy-games-apps) site (has proxy, games, apps)  <br>
 **March 31:** 35+ More [Abyss](#abyss--web-browser--games), 10+ more [Homework Help](#homework-help--games-proxy), Added [Google Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) to report a link, suggest, or donate one. Happy Spring Break! <br>
 **March 28:** 15+ More [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Night](#night--proxy-games-apps), [Shadow](#shadow-broswer--web-browser), [Kazwire](#kazwir--proxy-games-appe), 5+ [Abyss](#abyss--web-browser--games), [Utopia](#utopia--proxy-games-ai), [Emerald](#emerald--proxy-games-apps), [Tinfoil](#tinf0il--games-proxy-apps), [miniProxy](#new-miniproxy) NEW [Nebula](#nebula--proxy-and-games), NEW [AppOnFly](#apponfly--unrestricted-chrome) <br>
 **March 25:** 15+ more [Shadow Browser](#dcmusicca-links), 15+ more [Rammerhead](#scottexteriorscom-links), 5+ more [Astroid](#astroid--blueshadowscl-links) <br>
-**March 22:** NEW [Celestial Proxy](#celestial-proxy)!,5+ [Emerald](#emerald--proxy-games-apps), 10+ [Shadow Browser](#shadow-broswer--web-browser), [Kitty Cat](#new-kitty-cat-club--proxy-games-apps), [Kazwire](#kazwire--proxy-games-apps), [Incognito](#incognito--proxy-games-apps), [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [AI](#ai-and-homework-solvers) <br>
-
 
 
 ## Shortcuts & Table of Contents:
@@ -53,19 +56,20 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - <5 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
 - 40+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
 - **160+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
-- [Shadow Browser](#shadow-broswer--web-browser) - Web browser (links are scarce, going to refill)
+- 5+ [Shadow Browser](#shadow-broswer--web-browser) - Web browser
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps
 - **80+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you.
 - **60+** [**Artclass**](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators
 - 40+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI**
-- 25+ [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
+- 30+ [**Kazwire**](#kazwire--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [HYPERTABS](#hypertabs--web-browser) - Web browser
 - [Night Discord Server](#night--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Emerald](#emerald--proxy-games-apps) - Proxy, Games, Apps
 - 10+ [Homework Help](#homework-help--games-proxy) - Proxy, Games
 - 15+ [**Zatoga**](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, **CHEATS**
-- 10+ [Snorlax (down as of 4/14)](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps
+- 15+ [Xen](#xen--proxy-apps) - Proxy, Apps
+- 10+ [Snorlax (back up)](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps
 - 10+ [**NEW Platformer**](#platformer--proxy-games) - Proxy, **200+** Games
 - 5+ [Celestial Network](#celestial-network--proxy-games-apps) - Proxy, Games, Apps
 - 5+ [**NEW Skydiver-web**](#skydiver-web--web-browser) - Web browser (built-in games, AI, apps)
@@ -358,15 +362,12 @@ https://home.eglobaltravelmedia.com/ <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Shadow Broswer | web browser
-**Working links are scarce, but these links should work. (More links coming soon)** - Apr 5 <br>
+**Working links are scarce, but these NEW links should work. (More links coming soon)** - Apr 17 <br>
 **In the meantime, you can go to the MakeYourOwnLink.md file to make your own Shadow Browser links!** <br>
-##### wip.la links:
-**NEW** https://a.lt.wip.la/ <br>
-**NEW** https://b.lt.wip.la/<br>
-**NEW** https://c.lt.wip.la/<br>
-**NEW** https://freddynetworksiscool.lt.wip.la/ <br>
-**NEW** https://icouldtypesomerandomshitandthiswouldtakemetoshadowbrowser.lt.wip.la/ <br>
-**NEW** https://odwijdwakdnmawjoicjequvrwoahfuvjharwiuharigharwiufjhwif.lt.wip.la/ <br>
+https://bloodleaker.minecraft.pe/ <br>
+https://morepoetryat.gurdit.com/ <br>
+https://booksk-12.minecraft.pe/ <br>
+https://firefox.fortnitebuilder.pro/ <br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
@@ -464,10 +465,12 @@ https://gogaurdianaddresscomingsoon.rahulsj.com/ <br>
 https://duckiscute.duckdns.org <br>
 https://learning.math.scottjungwirth.com/ <br>
 https://ddsk.darvin.one.pl/ <br>
-**NEW** https://surfingking2.1337.cx/ <br>
-**NEW** https://intrumentstuning.guitarasia.com/ <br>
-**NEW** https://iticklefatkids.guitarasia.com/ <br>
-**NEW** https://bigblackoiledmen.wikilegia.com/ <br>
+https://surfingking2.1337.cx/ <br>
+https://intrumentstuning.guitarasia.com/ <br>
+https://iticklefatkids.guitarasia.com/ <br>
+https://bigblackoiledmen.wikilegia.com/ <br>
+**NEW** https://takumi0401.ddo.jp/ <br>
+**NEW** https://free-instructions-how.to.make.soapagent.com/ <br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)** <br>
 https://y4hrb.saltbush.com/ <br>
@@ -636,6 +639,12 @@ https://internal.guitarasia.com/ <br>
 https://ukelele.dcmusic.ca/ <br>
 https://triangle.dcmusic.ca/ <br>
 https://joshyhasnobrain.serverpit.com/ <br>
+**NEW** https://auvpn.epicgamer.org/ <br>
+**NEW** https://kazwire.largent.org/ <br>
+**NEW** https://history.thehomeserver.net/  <br>
+**NEW** https://daily.artitech.com/ <br>
+**NEW** https://kazwire.pololabrau.com.ar/ <br>
+**NEW** https://parabolas.twilightparadox.com/ <br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
@@ -739,6 +748,23 @@ https://zatoga.learn.trivialime.com/ <br>
 https://thyguy.blacknapkins.org/ <br>
 https://zatoga.lareida.org/ <br>
 
+### Xen | Proxy, Apps
+https://li.homaxcorp.com/
+**All below links are NEW - Apr 17** <br>
+https://i.hectorhector.com/ <br>
+https://mc.qthome.org/ <br>
+https://21.sjschroeder.com/ <br>
+https://future.bizzapp.com/ <br>
+https://yeat.proheroeyewear.com/ <br>
+https://2093.joecampanaro.com/ <br>
+https://dna.pristytools.com/ <br>
+https://rsr.ssident.com/ <br>
+https://dns.gandhinagar.com/ <br>
+https://ken.opior.com/ <br>
+https://music.logntw.com/ <br>
+https://userid.kstar.us/ <br>
+https://ripper.jackng.net/ <br>
+https://cdn.innovativegovernance.com/  <br>
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
 https://design.showmyhomes.com/ <br>
@@ -874,10 +900,6 @@ https://iam.pastrypowered.com/ <br>
 ### FlowOS | web browser
 https://mathchamps.net/ <br>
 https://maths4you.net/ <br>
-
-### Xen | Proxy, Apps
-https://li.homaxcorp.com/ <br> <br>
-**^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Moonlight | Games and proxy
 https://scienceiscool.info/ <br>
