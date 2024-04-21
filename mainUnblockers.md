@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 17
+# ByePassHub > Main Links | updated April 20
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -24,8 +24,10 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 
-  **If you can't want March Madness at school, or you simply can't watch any sport broadcasts, you can watch it [here](https://methstreams.com/college-basketball-streams/)!!** <br>
-
+**Announcements (4/20):**
+- Snorlax's Cave sites are working again! (most of them, more links coming soon)
+- More Shadow Tabbed that are working coming your way soon!
+- **If you can't want March Madness at school, or you simply can't watch any sport broadcasts, you can watch it [here](https://methstreams.com/college-basketball-streams/)!!** <br>
 
 ## Updates/Changes:
 ### April 17,2024:
