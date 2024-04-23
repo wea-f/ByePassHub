@@ -1,4 +1,4 @@
-## ByePassHub | Main Hub - Thank you are for 50 stars!!!
+## ByePassHub | Main Hub - I apologize for not updating recently, have a bunch of school work, i'll be back soon :)
 ## If you like this collection, make sure to star it!
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
