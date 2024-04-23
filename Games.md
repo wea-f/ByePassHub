@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 17
+# ByePassHub > Games | updated April 23
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -16,7 +16,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### *Google Site:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
 #### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
 #### Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
-#### *Minecraft* (scroll down): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+#### Minecraft: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
 #### 1v1.LOL (10+): [here](#new-1v1lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
 #### NEw Plexile Arcade (15+): [here](#plexile-arcade)
@@ -71,9 +71,9 @@ https://calendar.matches.tafca.co.uk/ <br>
 https://clubs.tafca.co.uk/ <br>
 https://pawn.pieces.tafca.co.uk/ <br>
 **NEW!** https://winter.league.tafca.co.uk/ <br>
-**NEW!** https:// form.contact.tafca.co.uk/ <br>
-**NEW!** https:// chess.moves.tafca.co.uk/ <br>
-**NEW!** https:// calendar.matches.tafca.co.uk/ <br>
+**NEW!** https://form.contact.tafca.co.uk/ <br>
+**NEW!** https://chess.moves.tafca.co.uk/ <br>
+**NEW!** https://calendar.matches.tafca.co.uk/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 ##### essexregional.org links
@@ -247,7 +247,7 @@ https://shadows.blueshadows.cl/  <br>
 **NEW!** https://playing.uk.to/  <br> 
 **NEW!** https://conjuguemos.dietpc.org/  <br> 
 **NEW!** https://bit.ly/2q39f  <br> 
-**NEW!** hqhttps://boringsuit-reading.chickenwork.fr.to/  <br> 
+**NEW!** https://boringsuit-reading.chickenwork.fr.to/  <br> 
 **NEW!** https://mrwetherillshawn.qtech.cl/  <br> 
 **NEW!** https://e.tnsmexico.com/  <br> 
 https://9.lusz.one.pl/  <br> 
