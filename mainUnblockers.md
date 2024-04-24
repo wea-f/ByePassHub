@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 23
+# ByePassHub > Main Links | updated April 24
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -30,10 +30,11 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - More Shadow Tabbed that are working coming your way soon!
 
 ## Updates/Changes:
-### April 17,2024:
+### April 24,2024:
 - Added **15+** [Xen](#xen--proxy-apps) links!
-- More 5+ WORKING Shadow Tabbed links!
-- Added 5+ [Kazwire](#kazwire--) links!
+- More 5+ WORKING [Shadow Tabbed](#shadow-broswer--web-browser) links!
+- Added 5+ [Kazwire](#kazwire--proxy-games-apps) links!
+- Added 10+ [Surfskip](#surfskip--web-browser) links!
 - More Rammerhead links<br> <br>
 **April 14, 2024:** Added **NEW** [Zatoga](#zatoga--proxy-games-apps-and-cheats) site **(15+ links)** <br> 
 Added **10+** [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) links,
@@ -53,7 +54,7 @@ More [Skydiver-web](#skydiver-web--web-browser) <br> <br>
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (MUST USE)**
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher 
-- 5+ [Surfskip](#surfskip--web-browser--links-cycle-every-two-days) - web browser 
+- 5+ [Surfskip](#surfskip--web-browser) - web browser 
 - <5 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
 - 40+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
 - **100+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
@@ -97,8 +98,18 @@ https://gzhhqm.csb.app/ <br>
 https://sites.google.com/view/n0repted/home <br>
 https://codepen.io/weaF_z/full/RwJVywE <br>
 
-### Surfskip | web browser | Links cycle every two days
-List of all links: https://docs.google.com/document/d/1ebE4sCBR6u7B4xPfSPKt29IpgOpdv8L7oe-DRHiu9GE/edit <br>
+### Surfskip | web browser
+**All newly added** - 4/24 <br>
+https://splashtoyshop.com/ <br>
+https://1win-creator.com/  <br>
+https://lovedrink69.com/ <br>
+https://easyword.shop/  <br>
+https://surfskipp.shop/  <br>
+https://surfskip.shop/  <br>
+https://excelwizard.space/  <br>
+https://excelhub.space/ <br>
+https://surfskip.com/ <br>
+https://web.surfskip.com/en/room <br>
  
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 https://gointerstellar.app <br> <br>
@@ -608,6 +619,7 @@ https://1steducationalsunsetcommunitylink.aybit.ch/  <br>
 https://biologybasics101.ignorelist.com/  <br>
 
 ### Equinox | Proxy, games, apps
+20k+ links https://docs.google.com/document/d/1RCedHMczIibOujLKxDaz1X5nLAaLjIEInzskgn4WH20/edit <br>
 https://xutufj9rugj.xn--72cg7bdd3bro6b3ab9c8btw4x.com/ <br>
 https://your.garmanage.com/ <br>
 **NEW** https://are.breakingpar.com/ <br>
