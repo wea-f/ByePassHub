@@ -29,17 +29,18 @@ This files includes a guide on how to make your own unblockers! You can do this 
 	
 	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> For your email, you could also use a temporary email provider like [TempMail](https://temp-mail.org/).
+	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/).
 	
-4. Press sign-up after fillign the boxes, and complete the email activation.
+4. Press sign-up after filling the boxes, and complete the email activation.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
-	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence. 
+	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence.
+
 6. Click a domain link that you would like to use. (e.g. chickenkiller.com)
-	> Make sure to select a domain that is unblocked for you. Domains that have a low popularity are probably unblocked. 
-	
-8. In the configurations page, make sure "A" record type is selected (it should be already).
-9. Enter the name of the subdomain, it can be anything. (subdomainName.chosenDomain.com)
-10. For the destination, it depends on what unblocker you want to use. You can try to googling it or joining discord servers, here is a helpful table I created:
+	> Make sure to select a domain that is unblocked for you. Domains that have a low popularity are probably unblocked. <br>
+	> Also make sure that the domain is public.
+7. In the configurations page, on the top make sure "A" record type is selected (it should be already).
+8. Enter the name of the subdomain, it can be anything. (subdomainName.chosenDomain.com)
+9. For the destination, it depends on what unblocker you want to use. You can try to googling it or joining discord servers, here is a helpful table I created:
 
 | Unblocker   |  Type | IP Destination |
 | ----------- | ----------- | ------- |
@@ -48,6 +49,13 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | Tinf0il    | Unblocker, Games, Apps |`129.213.65.72` | 
 | Artclass | Unblocker, Games, Apps |`193.26.115.218`|
 | Shadow | Web Browser | `104.243.38.18`|
+| Kitty Cat | Proxy, games, apps | `66.94.122.218` |
+| Kazwire |  Proxy, games, apps | `209.222.97.244` |
+| Plexile Arcade | Proxy, games, apps | `216.24.57.1` |
+| Doge Unblocker | Proxy, games, apps | `38.175.196.242`|
+| Rammerhead | Web Browser | `108.181.32.77`|
+| Phantom Games | tons of games |`109.122.46.55`|
+| Selenite | tons of games | `5.161.118.59`|
 | Other unblockers have specific tutorials in their discord servers. To find their discord server, go to the [Proxy Discord Servers section](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#caution-many-of-these-servers-will-ban-you-for-leaking-leaks-publicly-use-it-for-private-use-only) in the main Unblockers file.  
 
 10. After putting the IP destination to your subdomain, press "save." Complete the captcha. 
