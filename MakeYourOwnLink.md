@@ -29,7 +29,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 	
 	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/).
+	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) so you can create more links in the future.
 	
 4. Press sign-up after filling the boxes, and complete the email activation.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
