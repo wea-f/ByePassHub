@@ -1,4 +1,4 @@
-## ByePassHub | Main Hub - 55 stars!!
+## ByePassHub | Main Hub - TY for 60 STARS!!
 ## If you like this collection, make sure to star it!
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
