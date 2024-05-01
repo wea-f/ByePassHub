@@ -1,7 +1,7 @@
-# ByePassHub > Making your Own Links | (WIP) last updated Apr 29
+# ByePassHub > Making your Own Links | last updated May 1
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
-**Suggestions?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form.
+**Exploit not working? Need help?** Click to fill a [form](https://forms.gle/FaHsGQxFTnZ6uSvn9). With this feedback I will make the instructions easier to understand! <br>
 
  ## Table of Contents:
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
@@ -22,7 +22,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 ---
 
 ### Making links via freeDNS
-1. Go to https://freedns.afraid.org/
+1. Go to https://freedns.afraid.org/, if it's blocked, try this on another device (you can't put the site through an unblocker, it won't work.)
 2. This is probably your first time, so click "Sign Up for Free." If you already have an account, go to step 5.
 3. Fill out all of the information in the boxes.
 	> For your first and last name, you don't have to put your real name.
