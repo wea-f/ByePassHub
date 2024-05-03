@@ -738,7 +738,7 @@ Directions: <br>
 
 ### Light | Proxy, Games, Apps
 Currently in beta so may not work.. <br>
-**Not working currently (5/2):** https://math-sheets.michaelfoody.com/ <br>
+**Broken and not working currently as of 5/2:** https://math-sheets.michaelfoody.com/ <br>
 
 ---
 
