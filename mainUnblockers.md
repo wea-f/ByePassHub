@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 29
+# ByePassHub > Main Links | updated May 2
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -738,7 +738,7 @@ Directions: <br>
 
 ### Light | Proxy, Games, Apps
 Currently in beta so may not work.. <br>
-**NEW** https://math-sheets.michaelfoody.com/ <br>
+**Not working currently (5/2):** https://math-sheets.michaelfoody.com/ <br>
 
 ---
 
