@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated April 29
+# ByePassHub > Games | updated May 4
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -22,15 +22,17 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### NEw Plexile Arcade (15+): [here](#plexile-arcade)
 #### Game Hubs with less than 1-2 links:
 - *Lich:* [here](#lich)
-- NEW Not Games: [here](#new-not-games)
+- Not Games: [here](#new-not-games)
 - Monkeytype: [here](#new-monkeytype)
 - Playhydra: [here](#new-playhydra)
 - Abcya: [here](#abyca)
 - Hdun: [here](#hdun)
 - Liorxyst: [here](#liorxyst)
-- NEW Celery XYZ: [here](#celery-xyz)
-- NEW *Hahamini*: [here](#hahamini)
-- NEW Gessx: [here](#gessx)
+- Celery XYZ: [here](#celery-xyz)
+- *Hahamini*: [here](#hahamini)
+- Gessx: [here](#gessx)
+- NEW Geometry Spot: [here](#geometry-spot)
+- NEW Aster: [here](#aster--and-hacks)
 #### Specific, Single Games like Idle Breakout (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games) 
 
 ---
@@ -513,6 +515,12 @@ https://www.hahamini.com/NotFound?gclid=Cj0KCQiA5fetBhC9ARIsAP1UMgH-RupB8PiyTKyh
 ### Gessx
 https://beacons.ai/gessx/mediakit <br>
 
+### Geometry Spot
+https://geometryspot.ooo/activities/ <br>
+
+### Aster | and hacks!
+https://west.somenews.co.uk/ <br>
+
 ## Games
 Brick Out: https://www.ducksters.com/games/brick_out.php <br>
 Jumper Frog: https://www.ducksters.com/games/jumper_frog_game.php <br>
@@ -534,7 +542,8 @@ Bad Time Simulator: https://kckarnige.is-a.dev/BadTimeRevamped/ <br>
 Marbleous: https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/HEoGi1Mb/index.html <br>
 AIRMASH: https://altao.azureedge.net/ <br>
 Dadish 1: https://rawcdn.githack.com/mackeylol/copyofmasite/main/Games/dadish/index.html <br>
-**NEW** Compute it: https://compute-it.toxicode.fr/ <br>
-**NEW** Oregon Trail: https://jamesfriend.com.au/pce-js/mecc/oregon-trail.html <br>
+Compute it: https://compute-it.toxicode.fr/ <br>
+Oregon Trail: https://jamesfriend.com.au/pce-js/mecc/oregon-trail.html <br>
+**NEW** Super Cook: https://www.supercook.com/#/desktop <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
