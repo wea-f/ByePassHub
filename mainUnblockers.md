@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated May 4
+# ByePassHub > Main Links | updated May 7
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -26,16 +26,17 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 **Announcements:**
 - 5/4 - NEW Light Unblocker Added (15+ links) along with 5+ Abyss! 
-- 4/29 - Two NEW sites! (check updates/changes)
 - 4/23 - FULL DOC CLEAN UP, NO MORE NON-WORKING LINKS & UPDATED LINK COUNT
 - 4/15 - Check out the new Zatoga and Xen sites that got added!
 
 ## Updates/Changes:
-### May 4, 2024: <br>
+### May 7, 2024: <br>
 - NEW [Light](#light--proxy-games-apps) site added (15+)
 - NEW [Astro](#astro--proxy-games-apps) site added
-- Added 5+ [Abyss](#abyss--web-browser--games)
+- Added 10+ [Abyss](#abyss--web-browser--games)
 - More Astroid
+- More Shadow Browser
+- More Proxy Discord Servers
 <br>
 
 **April 29, 2024:** <br>
@@ -62,7 +63,7 @@ Added NEW [MyAndriod](#myandriod--unblocked-chrome) OS, Added NEW [Breakium](bre
 - 10+ [Surfskip](#surfskip--web-browser) - web browser 
 - <5 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps
 - 40+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Apps
-- **75+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
+- **80+** [**Abyss**](#abyss--web-browser--games) - Web browser, Games
 - 5+ [Shadow Browser](#shadow-broswer--web-browser) - Web browser
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps
 - **70+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you.
@@ -172,15 +173,7 @@ https://maths.timekeeper.ro/  <br>
 Roblox links have been moved to [this](https://github.com/wea-f/ByePassHub/blob/Games.md) file, or Games.md
 
 ### Abyss | web browser + games
-##### idialup.co.za links:
-https://chingchong.idialup.co.za/ <br>
-##### bygone-transport.co.uk links:
-**All links in this section are NEW** - Apr 2 <br>
-https://notability.com.bygone-transport.co.uk/ <br>
-https://newsela.com.bygone-transport.co.uk/ <br>
-https://schoology.com.bygone-transport.co.uk/ <br>
-https://drive.google.com.bygone-transport.co.uk/ <br>
-https://edpuzzle.com.bygone-transport.co.uk/ <br>
+<!--
 ##### 1337.cx links:
 https://donaldttrumpplaysdrums.1337.cx/ <br>
 https://paradoxalnight.1337.cx/ <br>
@@ -213,14 +206,22 @@ https://assignmentinsistence.co/ <br>
 https://mathcalculatortutor.co/ <br>
 https://sciencelearnscientific.co/ <br>
 https://realpeoplerealhistorymath.co/ <br>
+-->
 ##### intoabyss.org links:
 https://intoabyss.org/ <br>
 https://vps.intoabyss.org/ <br>
+##### modernpotterystudio.com links
+**ALL NEW as of May 7** <br>
+https://iforgor.modernpotterystudio.com/ <br>
+https://ass.modernpotterystudio.com/ <br>
+https://abyssadsrus.modernpotterystudio.com/ <br>
+https://abyssads.modernpotterystudio.com/ <br>
+https://abyss.modernpotterystudio.com/ <br>
 ##### Abyss - Misc. links:
+<!--
 https://math.learning.uk.rsjug.org/ <br>
 https://rangecropmath.com/ <br>
 https://bibicalformalchurch.org/ <br>
-https://knotgluemath.org/ <br>
 https://newnotionscience.com/ <br>
 https://intoabyss3.mooo.com/ <br>
 https://math.learning.uk.rsjug.org/  <br>
@@ -228,6 +229,7 @@ https://dnamicdump.pakasak.com/ <br>
 https://agent.soapclient.com/ <br>
 https://static.115.136.99.88.clients.your-server.de/ <br>
 https://testingdemo.duckdns.org/ <br>
+-->
 https://sidodn.rebol.info/ <br>
 https://soysauce-cheap.kawa-kun.com/ <br>
 https://locations.centrodiagnosticogenetico.com/ <br>
@@ -239,7 +241,7 @@ https://thisdomain-iswaytolong4u.alsostopwastingtimereadingthis.soapclient.com/ 
 https://mathfactsharpener.zipper-maker.com/ <br>
 https://sindoabyss.lospenitentes.com/ <br>
 https://learn-about.argentina.mza.com.ar/ <br>
-https://hohohoho.santa.tafca.co.uk/ <br>
+<!-- https://hohohoho.santa.tafca.co.uk/ <br> -->
 https://pokeme.vaizer.cl/ <br>
 https://math.learning.uk.rsjug.org/ <br>
 https://louisdidnotmakethiswebsitenocap.duckdns.org/ <br>
@@ -261,6 +263,9 @@ https://bloodleaker.minecraft.pe/ <br>
 https://morepoetryat.gurdit.com/ <br>
 https://booksk-12.minecraft.pe/ <br>
 https://firefox.fortnitebuilder.pro/ <br>
+**NEW** https://letmekissdingus.commwebworks.com/<br>
+**NEW** https://love.minecraft.minecraftr.us/<br>
+**NEW** https://need.friends.minecraftr.us/<br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
@@ -860,6 +865,7 @@ Night: https://discord.gg/7SCnPUM5S6  <br>
 Kitty Cat Club has a link dispenser: https://discord.gg/rqBgxP9Gnj  <br>
 Platformer has a link dispenser: https://discord.gg/sSWRxaHhvA  <br>
 Xenon: https://discord.gg/DyaVHTxng4  <br>
+Sunset Network has a link dispenser: https://discord.gg/GPFwfVNEhn <br>
 
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
