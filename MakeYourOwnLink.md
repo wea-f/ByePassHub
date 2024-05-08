@@ -83,7 +83,7 @@ Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
 ### Make links with Cyclic
 1. Go to `app.cyclic.sh/`
 2. Login with Github, sign up with github if you don't have an account.
-3. Link: app.cyclic.sh/api/app/deploy/`repositoryname`
+3. Link: app.cyclic.sh/api/app/deploy/`repositorynamefiller`
 4. The repository name filler should be replaced with one of the following of your choice (you can find your own too):
 	> Interstellar: `InterstellarNetwork/Interstellar` <br>
  	> Snorlax's Cave: `Snorlaxs-Cave/Snorlaxs-Cave-v2` <br>
