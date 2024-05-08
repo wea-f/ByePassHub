@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | last updated May 1
+# ByePassHub > Making your Own Links | last updated May 7
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/FaHsGQxFTnZ6uSvn9). With this feedback I will make the instructions easier to understand! <br>
@@ -65,7 +65,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 
 ### Make links with Vercel
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
-1. Replace the filler with an unblocker repository. For example, https://vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4 for deploying a doge unblocker link. Here's more (you can find your own too):
+1. Replace the filler with an unblocker repository. For example, vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4 for deploying a doge unblocker link. Here's more (you can find your own too):
 	> Interstellar: `https://github.com/InterstellarNetwork/Interstellar` <br>
  	> Snorlax's Cave: `https://github.com/Snorlaxs-Cave/Snorlaxs-Cave-v2` <br>
  	> Artclass: `https://github.com/art-class/v4` <br>
@@ -81,9 +81,9 @@ Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
 5. After a few moments, go to the link that you just created, which should be (repositoryName).vercel.app
 
 ### Make links with Cyclic
-1. Go to `https://app.cyclic.sh/`
+1. Go to `app.cyclic.sh/`
 2. Login with Github, sign up with github if you don't have an account.
-3. Link: https://app.cyclic.sh/api/app/deploy/`repositoryname`
+3. Link: app.cyclic.sh/api/app/deploy/`repositoryname`
 4. The repository name filler should be replaced with one of the following of your choice (you can find your own too):
 	> Interstellar: `InterstellarNetwork/Interstellar` <br>
  	> Snorlax's Cave: `Snorlaxs-Cave/Snorlaxs-Cave-v2` <br>
@@ -95,7 +95,7 @@ Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
  	> Tinf0il: `Aluminum-Depot/Tinf0il-new` <br>
   	> Doge Unblocker: `dogenetwork/v4` <br>
       	> Shadow Tabbed: `https://github.com/xnightless/Shadownetwork` <br>
-5. Example: https://app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle for a shuttle deployment, go to that link.
+5. Example: app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle for a shuttle deployment, go to that link.
 6. Follow the instructions on the webpage, if it has an error, "Unathorized," make sure to sign in with github on step 1.
 7. Press "Connect", and you will need to confirm it with github.
 8. Continue following the directions, it's pretty straightforward, and the deployed link will be at the bottom once you finish!
