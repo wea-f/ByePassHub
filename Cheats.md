@@ -1,4 +1,4 @@
-## ByepassHub > Cheats | updated Apr 6
+## ByepassHub > Cheats | updated May 7
 ## If you like this, make sure to star it!
 **Other Files**: <br>
 **Unblocker(Proxies) links**: Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br> 
@@ -61,7 +61,7 @@ function(){let l=document.createElement("script");l.src="https://undercovergoose
 ## Quizizz Cheats
 These are from this [repository](https://github.com/bob486/quizlet/blob/master/quizizz/README.md)
 1. Join quizizz and go through questions, when finished, press "Study Flashcards" and **run the script.**
-2. Then join the quizizz again, or start another attempt. **Run script** and you are done!
+2. Then join the quizizz again, or start another attempt. **Run script** and you are done! <br>
 Bookmarklet Script:
 ```js
 javascript:(function(){let l=document.createElement("script");l.src="https://undercovergoose.github.io/quizlet/quizizz/script.js";document.body.appendChild(l);}());void 0
