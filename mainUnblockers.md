@@ -37,6 +37,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - More Astroid
 - More Shadow Browser
 - More Proxy Discord Servers
+- More AIs
 <br>
 
 **April 29, 2024:** <br>
@@ -770,15 +771,15 @@ Directions: <br>
 https://deepai.org/chat <br>
 https://you.com <br>
 https://chat-gpt.org <br>
-https://talkai.info/chat <br>
 https://bard.google.com/ <br>
 https://simsimi.com/ <br>
 https://www.perplexity.ai/ <br>
-https://chatgpt.bestim.org <br>
 https://chatgpt1s.com/ <br>
-https://www.wolframalpha.com/ <br>
 https://qanda.ai/en/search/ <br>
-**NEW** https://writer.com/#ask-writer <br>
+https://writer.com/#ask-writer <br>
+##### ChatGPT clones
+https://chatgpt.bestim.org <br>
+https://talkai.info/chat <br>
 ##### These ones you need to sign up
 https://quizlet.com/qchat <br>
 https://www.hypotenuse.ai/ai-chat <br>
@@ -791,9 +792,10 @@ https://poe.com/login <br>
 Directions: Go into a document and press the GrammarlyGo button on the right side. <br>
 ##### BingAI
 Directions: Go to bing.com or Microsoft Edge and hit the chat icon on the sidebar.
-##### Ai Checker
+##### Ai & Plagiarism Checker/Dectector
 https://www.zerogpt.com/ <br>
-https://writer.com/ai-content-detector/ <br><br>
+https://writer.com/ai-content-detector/ <br>
+https://quillbot.com/ <br><br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 #### Homework Solvers/Calculators: <br>
 https://www.symbolab.com/solver <br>
@@ -802,7 +804,10 @@ https://www.geogebra.org/solver <br>
 https://cameramath.com/mathsolver <br>
 https://mathforyou.net/en/online/ <br>
 https://www.tiger-algebra.com/ <br>
-https://quickmath.com/solve/ <br> <br>
+https://quickmath.com/solve/ <br> 
+https://www.wolframalpha.com/ <br>
+https://mathsolver.microsoft.com/ <br>
+<br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
 ### Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK
