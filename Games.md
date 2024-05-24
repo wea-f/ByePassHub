@@ -120,7 +120,7 @@ https://astrology.space.g8z.net/ <br>
 
 ### ROBLOX | HOW IS THIS POSSIBLE???
 **These links may or may not work in a proxy if its blocked.** <br>
-https://mathstutor.life/  <-- works in a proxy btw<br>
+https://mathstutor.life/ <br>
 https://educationbluesky.com/ <br>
 https://maths.news/  <br>
 https://maths.media/  <br>
