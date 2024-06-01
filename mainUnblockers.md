@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated May 7
+# ByePassHub > Main Links | updated June 1
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -25,6 +25,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- 6/1 - Apologize for not updating recently, on vacation, expect updates in the next two weeks
 - 5/4 - NEW Light Unblocker Added (15+ links) along with 5+ Abyss! 
 - 4/23 - FULL DOC CLEAN UP, NO MORE NON-WORKING LINKS & UPDATED LINK COUNT
 - 4/15 - Check out the new Zatoga and Xen sites that got added!
