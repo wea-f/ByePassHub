@@ -1,4 +1,4 @@
-## ByePassHub | Main Hub - Apologize for not updating, on vacation, expect updates in the next two weeks
+## ByePassHub | Main Hub - I'm back! Cleaned everything up and added 100+ links!
 ## If you like this collection, make sure to star it!
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
