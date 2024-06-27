@@ -1,4 +1,4 @@
-# ByePassHub > Private Search Engines | updated May 2
+# ByePassHub > Private Search Engines | updated Jun 27
 ## If you like these lists, make sure to star this repository!
 This files includes links of **private search engines,** which you can **search ANYTHING** on the web untracked, unrestricted, and free, but you cannot go to websites unlike proxies. <br> 
 This file idea was from the [Space Network doc](https://docs.google.com/document/d/1p6v8hoaff4kja1eBqxfc6zBc22y6aU7fVcNgQxaob-8/edit), but there are more, unblocked links! <br> <br>
@@ -8,7 +8,7 @@ This file idea was from the [Space Network doc](https://docs.google.com/document
  ---
  
  ### Other files:
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder.  <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>

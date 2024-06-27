@@ -1,0 +1,16 @@
+### Cheats for Kahoot, Blooket, Quizizz, and Quiz.com (Edpuzzle cheats are in bookmarklets.md)
+Anything of these work in a proxy if they are blocked for you.
+##### **RECOMMENDED** Cheat Hubs
+https://schoolcheats.net/dashboard <br>
+https://cheatnetwork.eu/ <br>
+https://quizit.online/ <br>
+
+##### Kahoot Cheats
+https://kahoot.club/ <br>
+https://mem.rip/kahoot/ <br>
+
+##### Blooket Cheats (You can use an unblocker and it still works) | Go [here](https://github.com/wea-f/ByePassHub/blob/Exploits/Downgrading.md) if bookmarklets don't work
+https://05konz.github.io/Blooket-Cheats/ <br>
+https://github.com/05Konz/Blooket-Cheats <br>
+
+<br> **Back to [README file](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md)** (The starting file)

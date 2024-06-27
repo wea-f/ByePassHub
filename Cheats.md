@@ -1,7 +1,8 @@
-## ByepassHub > Cheats | updated May 7
+## ByepassHub > Cheats | updated Jun 27
 ## If you like this, make sure to star it!
 **Other Files**: <br>
 **Unblocker(Proxies) links**: Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br> 
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
