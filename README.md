@@ -15,9 +15,11 @@ Updates every week, if not daily
 #### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br> <br>
 
 Next update brainstorm:
-- Clean up games.md, add some more links.
-- Add a bunch of links to movies and anime.
-- Clean up exploits folder
+- Get more Abyss, Shadow, Interstellar and Doge Unblocker links
+- Work on WIP files (make own unblocker link and search engines)
+- Clean up games.md, ~~add some more links.~~
+- ~~Add a bunch of links to movies and anime.~~
+- ~~Clean up exploits folder~~
 
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this lol** <br>
