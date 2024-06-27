@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | last updated May 7
+# ByePassHub > Making your Own Links | updated Jun 27
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/FaHsGQxFTnZ6uSvn9). With this feedback I will make the instructions easier to understand! <br>
@@ -12,7 +12,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
  #### (COMING SOON) Deploying with providers like Vercel, Render, Cyclic, and Glitch
  
  ### Other files:
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits) or go to the Exploits folder.  <br>
+**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
