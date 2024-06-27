@@ -1,4 +1,4 @@
-## ByePassHub | Main Hub - I'm back! Cleaned everything up and added 100+ links!
+## ByePassHub | Main Hub - Added 100+ links & updated Exploits!
 ## If you like this collection, make sure to star it!
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
