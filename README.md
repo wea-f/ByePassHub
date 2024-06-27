@@ -10,7 +10,7 @@ Updates every week, if not daily
 **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
 **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
 **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
-**35+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
+**50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
 
 #### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br> <br>
 
