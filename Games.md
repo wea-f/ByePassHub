@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated June 27
+# ByePassHub > Games | updated Jul 9
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -17,9 +17,11 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
 #### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
 #### Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
 #### Minecraft: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+#### NEW Chess: [here](#chess)
 #### 1v1.LOL (10+): [here](#new-1v1lol)
 #### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
 #### Plexile Arcade (15+): [here](#plexile-arcade)
+#### Hydra: [here](#hydra)
 #### Game Hubs with less than 1-2 links:
 - *Lich:* [here](#lich)
 - Not Games: [here](#new-not-games)
@@ -115,6 +117,9 @@ https://404.1337.cx/ <br>
 https://all.products.shop.womenclothingtoday.com/ <br>
 https://astrology.space.g8z.net/ <br>
 **NEW** https://sigmagangrise.andyluse.com/ <br>
+**NEW** http://the.h.ceafrutillar.cl/ <br>
+**NEW** https://yay.besttoday.ru/ <br>
+**NEW** https://learn.esperanto.eu.org/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -379,6 +384,10 @@ https://loudsafari.com/ <br>
 https://flyinglambs.com/  <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
+### Chess
+https://www.pleasedontblockchess.com/ <br>
+https://www.schoolnetworkadminsarethebest.com/ <br>
+https://www.justdoinghomework.com/ <br>
 
 ### NEW 1v1.LOL
 https://1v1.lol/   <br>
@@ -415,6 +424,9 @@ https://schoolapplications.onrender.com/  <br>  <br>
 
 https://mytestscores.netlify.app/  <br>
 https://educationalinsights.netlify.app/ <br>  <br>
+## Hydra
+https://walk.artitech.com/ <br>
+https://local.garmanage.com/ <br>
 
 ---
 ### Lich
