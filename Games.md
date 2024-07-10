@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Jul 9
+# ByePassHub > Games | updated Jul 10
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br>
@@ -7,34 +7,34 @@ This is a collection of links of ONLY games, no unblockers just games.  <br>
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
 Links with a **NEW** tag means that the link was added recently (< 1 week ago) <br>
-#### *Selenite*: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
-#### *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
-#### NEW Unblocked Games Hub: [here](#unblocked-games-hub)
-#### A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
-#### *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
-#### 3kh0: [here](#3kh0--recommended)
-#### *Google Sites:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
-#### *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
-#### Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
-#### Minecraft: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
-#### NEW Chess: [here](#chess)
-#### 1v1.LOL (10+): [here](#new-1v1lol)
-#### Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-#### Plexile Arcade (15+): [here](#plexile-arcade)
-#### Hydra: [here](#hydra)
-#### Game Hubs with less than 1-2 links:
-- *Lich:* [here](#lich)
-- Not Games: [here](#new-not-games)
-- Monkeytype: [here](#new-monkeytype)
-- Playhydra: [here](#new-playhydra)
-- Abcya: [here](#abyca)
-- Hdun: [here](#hdun)
-- Liorxyst: [here](#liorxyst)
-- Celery XYZ: [here](#celery-xyz)
-- *Hahamini*: [here](#hahamini)
-- Gessx: [here](#gessx)
-- NEW Geometry Spot: [here](#geometry-spot)
-- NEW Aster: [here](#aster--and-hacks)
+  - *Selenite*: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
+  - *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
+  - NEW Unblocked Games Hub: [here](#unblocked-games-hub)
+  - A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
+  - *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
+  - 3kh0: [here](#3kh0--recommended)
+  - *Google Sites:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
+  - *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#new-jordans-math-work)
+  - Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
+  - Minecraft: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
+  - NEW Chess: [here](#chess)
+  - 1v1.LOL (10+): [here](#new-1v1lol)
+  - Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
+  - Plexile Arcade (15+): [here](#plexile-arcade)
+- Hydra: [here](#hydra)
+* **Game Hubs with less than 1-2 links:**
+  - *Lich:* [here](#lich)
+  - Not Games: [here](#new-not-games)
+  - Monkeytype: [here](#new-monkeytype)
+  - Playhydra: [here](#new-playhydra)
+  - Abcya: [here](#abyca)
+  - Hdun: [here](#hdun)
+  - Liorxyst: [here](#liorxyst)
+  - Celery XYZ: [here](#celery-xyz)
+  - *Hahamini*: [here](#hahamini)
+  - Gessx: [here](#gessx)
+  - NEW Geometry Spot: [here](#geometry-spot)
+  - NEW Aster: [here](#aster--and-hacks)
 #### Specific, Single Games like Idle Breakout (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#games) 
 
 ---
