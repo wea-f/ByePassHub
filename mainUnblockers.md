@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated June 27
+# ByePassHub > Main Links | updated July 10
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -25,12 +25,16 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- 7/10 - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!! (Contains more links)
 - 6/24 - FULL DOC CLEAN UP (all working links), added **75+ MORE LINKS!**
 - 6/1 - On vacation.. no updates
 - 5/4 - NEW Light Unblocker Added (15+ links) along with 5+ Abyss! 
 - 4/23 - Full doc clean up, no more non-working links and updated link count. 
 
 ## Updates/Changes:
+**July 10, 2024**
+ - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!! (Contains more links)
+   
 ### June 24, 2024 - 75+ New Links! 
 - Added 20+  [Snorlax's Cave](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
 - Added 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
