@@ -1,9 +1,9 @@
-# ByePassHub > Private Search Engines | updated Jun 27
+# ByePassHub > Private Search Engines | updated Jul 11
 ## If you like these lists, make sure to star this repository!
 This files includes links of **private search engines,** which you can **search ANYTHING** on the web untracked, unrestricted, and free, but you cannot go to websites unlike proxies. <br> 
 This file idea was from the [Space Network doc](https://docs.google.com/document/d/1p6v8hoaff4kja1eBqxfc6zBc22y6aU7fVcNgQxaob-8/edit), but there are more, unblocked links! <br> <br>
 
-**Suggestions? Link not working?** Click [here](https://forms.gle/FaHsGQxFTnZ6uSvn9)  to fill out a form. BTW I can't do anything if it's blocked :( <br>
+**Suggestions? Link not working?** Click [here](https://forms.gle/pGrirP5YAxmKa6kB6)  to fill out a form. BTW I can't do anything if it's blocked :( <br>
 
  ---
  
