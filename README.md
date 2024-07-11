@@ -12,7 +12,7 @@ Updates every week, if not daily
 **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
 **50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
 
-#### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br> <br>
+#### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/pGrirP5YAxmKa6kB6) <br> <br>
 
 Next update brainstorm:
 - Update exploits folder with more exploits (there are a lot more now!)
