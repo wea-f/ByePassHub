@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!!
-## If you like this collection, make sure to star it!
+## If you like this collection, make sure to star it! - Almost 80 stars..
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
@@ -15,9 +15,10 @@ Updates every week, if not daily
 #### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/FaHsGQxFTnZ6uSvn9) <br> <br>
 
 Next update brainstorm:
-- Get more Abyss, Shadow, Interstellar and Doge Unblocker links
+- Update exploits folder with more exploits (there are a lot more now!)
+- Get more Abyss, Shadow, ~~Interstellar~~ and Doge Unblocker links
 - Work on WIP files (make own unblocker link and search engines)
-- Clean up games.md, ~~add some more links.~~
+- ~~Clean up games.md,~~ ~~add some more links.~~
 - ~~Add a bunch of links to movies and anime.~~
 - ~~Clean up exploits folder~~
 
