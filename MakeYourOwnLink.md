@@ -1,7 +1,7 @@
-# ByePassHub > Making your Own Links | updated Jun 27
+# ByePassHub > Making your Own Links | updated Jul 11
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
-**Exploit not working? Need help?** Click to fill a [form](https://forms.gle/FaHsGQxFTnZ6uSvn9). With this feedback I will make the instructions easier to understand! <br>
+**Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
 
  ## Table of Contents:
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
