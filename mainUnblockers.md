@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated July 10
+# ByePassHub > Main Links | updated July 17
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -32,8 +32,9 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 4/23 - Full doc clean up, no more non-working links and updated link count. 
 
 ## Updates/Changes:
-**July 10, 2024**
+**July 10 - 17, 2024**
  - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!! (Contains more links)
+ - Added 30+ [Rammerhead]((#rammerhead--web-browser)) links!
    
 ### June 24, 2024 - 75+ New Links! 
 - Added 20+  [Snorlax's Cave](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
@@ -296,7 +297,38 @@ https://learning.math.scottjungwirth.com/ <br>
 https://surfingking2.1337.cx/ <br>
 https://intrumentstuning.guitarasia.com/ <br>
 https://iticklefatkids.guitarasia.com/ <br>
-**NEW** https://free-instructions-how.to.make.soapagent.com/ <br>
+https://free-instructions-how.to.make.soapagent.com/ <br>
+**NEW** https://cancoke.404.mn/  <br>
+**NEW** https://payday3.echa.xyz/  <br>
+**NEW** https://edgesucks.uk.to/  <br>
+**NEW** https://roguepoke.soon.it.soon.it/  <br>
+**NEW** https://port0of.norushcharge.com/  <br>
+**NEW** https://hrju65.46-whitwell.co.uk/  <br>
+**NEW** https://jtyru54.cmiranda.ar/  <br>
+**NEW** https://kujtk67.fromsoelberg.dk/  <br>
+**NEW** https://rancid.vslui.net/  <br>
+**NEW** https://seigetime.ix.tc/  <br>
+**NEW** https://tridecagram.ix.tc/  <br>
+**NEW** https://shellington.jumpingcrab.com/  <br>
+**NEW** https://i.love.the.us.to/  <br>
+**NEW** https://jyp.bomboclat.shop/ <br>
+**NEW** https://curlworldhunger.prayerforworldpeace.com/  <br>
+**NEW** https://imsogoopy.69.mu/   <br>
+**NEW** https://skibidliedrizzlered-ciscoumbre11a-c0ntrol1ed.fredvanryck.be/  <br>
+**NEW** https://10101111000101010110110100010101001.codeforce.ru/  <br>
+**NEW** https://moms.mine.bz/  <br>
+**NEW** https://englishhomework.unworthycause.com/  <br>
+**NEW** https://hairumscarum.adonis.pt/  <br>
+**NEW** https://weiener.org.jumpingcrab.com/  <br>
+**NEW** https://rammer.duckdns.org/  <br>
+**NEW** https://putmyheartandsoulontheglock.oborenstein.com/  <br>
+**NEW** https://garchomp.l5.ca/  <br>
+**NEW** https://theydontfwrhett.uhane.mx/  <br>
+**NEW** https://ramified.hs.vc/ <br>
+**NEW** https://ejmsunblockedisgoatedshoutoutoemberandrez2am.bogpet.ro/ <br>
+**NEW** https://ejmsunblockedisigmadontbeplayingandleaking.bogpet.ro/ <br>
+**NEW** https://emberisgoatedawesomeelijahisgrimaceskibidiohio.bogpet.ro/ <br>
+
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)** <br>
 https://y4hrb.saltbush.com/ <br>
