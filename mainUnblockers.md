@@ -754,6 +754,12 @@ https://www.perplexity.ai/ <br>
 https://chatgpt1s.com/ <br>
 https://qanda.ai/en/search/ <br>
 https://writer.com/#ask-writer <br>
+**(Oct 21)** https://claude.ai/ <br>
+**(Oct 21)** https://computer.com/ <br>
+**(Oct 21)** https://sdk.vercel.ai/ <br>
+**(Oct 21)** https://copilot.microsoft.com/?showconv=1 <br>
+**(Oct 21)** https://tutorly.ai/ <br>
+**(Oct 21)** https://qrcode-ai.com/ <br>
 ##### ChatGPT clones
 https://chatgpt.bestim.org <br>
 https://talkai.info/chat <br>
