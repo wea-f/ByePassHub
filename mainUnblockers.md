@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated July 17
+# ByePassHub > Main Links | updated Oct 21
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -825,29 +825,31 @@ https://github.com/Salty-Coder/Unblocked-Sites <br>
 https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
 <br>
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
-##### Proxy Discord Servers, these servers have many secret links that are probably unblocked
-### CAUTION!! MANY OF THESE SERVERS WILL BAN YOU FOR LEAKING LEAKS PUBLICLY, USE IT FOR PRIVATE USE ONLY
-Interstellar has a link dispenser: https://discord.gg/interstellar  <br>
-Mercury Workshop Public has a link dispenser: https://discord.gg/unblock <br>   
-Shuttle Network has a link dispenser: https://discord.gg/xi   <br>
+#### Proxy Discord Servers
+##### These servers have many secret links that are probably unblocked, and many more links provided by the devs and the community <br>
+
+Interstellar: https://discord.gg/interstellar  <br>
+Mercury Workshop Public: https://discord.gg/unblock <br>   
+Shuttle Network: https://discord.gg/xi   <br>
 Rammerhead: https://discord.gg/VNT4E7gN5Y  <br>
-Art Class has a link dispenser: https://discord.gg/desmos  <br>
-Kazwire has a link dispenser: https://discord.gg/kazwire  <br>
-Utopia has a link dispenser: https://discord.gg/hFZC5cgsmq  <br>
-Astroid {EV Developer Studios}: https://discord.gg/nowgg  <br>
-Doge Unblocker has a link dispenser: https://discord.gg/unblocking  <br>
-Tinf0il has a link dispenser: https://discord.gg/aluminum  <br>
-Nebula Services has a link dispenser: https://discord.gg/unblocker  <br> 
-Shadow has a link dispenser: https://discord.gg/goshadow   <br>
-Abyss Services has a link dispenser: https://discord.gg/54hdX74Dpq  <br>
-Snorlax's Cave has a link dispenser: https://discord.gg/snorlax-s-cave-1107344487958724681 <br>
-Selenite has a link dispenser: https://discord.gg/NGqUsuTd2M   <br>
+Art Class: https://discord.gg/desmos  <br>
+Kazwire: https://discord.gg/kazwire  <br>
+Utopia: https://discord.gg/hFZC5cgsmq  <br>
+Astroid: https://discord.gg/nowgg  <br>
+Doge Unblocker: https://discord.gg/unblocking  <br>
+Tinf0il: https://discord.gg/aluminum  <br>
+Nebula Services: https://discord.gg/unblocker  <br> 
+Shadow: https://discord.gg/goshadow   <br>
+Abyss Services (server is ghosted): https://discord.gg/54hdX74Dpq  <br>
+Snorlax's Cave: https://discord.gg/snorlax-s-cave-1107344487958724681 <br>
+Selenite: https://discord.gg/NGqUsuTd2M   <br>
 Surfskip: https://discord.gg/vgEbRmzsaF   <br>
 Night: https://discord.gg/7SCnPUM5S6  <br>
-Kitty Cat Club has a link dispenser: https://discord.gg/rqBgxP9Gnj  <br>
-Platformer has a link dispenser: https://discord.gg/sSWRxaHhvA  <br>
+Kitty Cat Club: https://discord.gg/rqBgxP9Gnj  <br>
+Platformer: https://discord.gg/sSWRxaHhvA  <br>
 Xenon: https://discord.gg/DyaVHTxng4  <br>
-Sunset Network has a link dispenser: https://discord.gg/GPFwfVNEhn <br>
+Sunset Network: https://discord.gg/GPFwfVNEhn <br>
+
 
 **^ Back to [top ^](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#shortcuts--table-of-contents)**
 
