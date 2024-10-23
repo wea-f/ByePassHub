@@ -106,7 +106,7 @@ Added NEW [MyAndriod](#myandriod--unblocked-chrome) OS, Added NEW [Breakium](bre
   * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
     + <5 **[Ai Checker](#ai--plagiarism-checkerdectector)**
 - 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work)
-  * 20+ [Proxy Discord Servers](#proxy-discord-servers-these-servers-have-many-secret-links-that-are-probably-unblocked) - these servers have many secret links that are probably unblocked
+  * 20+ [Proxy Discord Servers](#proxy-discord-servers) - these servers have many secret links that are probably unblocked
 ---
 
 ## website title | what it contains | any note if needed
