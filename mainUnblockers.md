@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 4
+# ByePassHub > Main Links | updated Nov 4 - I'm back
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -33,7 +33,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 ### Nov 5, 2024 - 350+ NEW LINKS! + Statuses!
 - Added statuses (flourishing, stable/unstable, and ghosted) on proxies
 - Removed 100+ non working links
-- Added 150+ [Rammerhead]((#rammerhead--web-browser)) links!
+- Added 150+ [Rammerhead](#rammerhead--web-browser) links!
 - Added 50 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
 - Added 50+ [Shadow Tabbed](#shadow-browser--web-browser)
 - Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps) 
@@ -48,7 +48,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 **July 10 - 17, 2024**
  - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!! (outdated)
- - Added 30+ [Rammerhead]((#rammerhead--web-browser)) links!
+ - Added 30+ [Rammerhead](#rammerhead--web-browser) links!
 <br>
 
 
