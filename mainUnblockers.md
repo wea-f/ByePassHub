@@ -55,7 +55,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (useful, flourishing)** <br>
 **Statuses:** <br>
-Flourishing :100: - site is active, has tons of links, and is constantly updated.  <br>
+Flourishing :100: - site is active & at its peak, has tons of links, and is constantly updated.  <br>
 Stable :white_check_mark:- has working links, site has activity and updates. <br>
 Unstable / Varying :grimacing: - most links work, some are down, site sometimes updates. <br>
 Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
