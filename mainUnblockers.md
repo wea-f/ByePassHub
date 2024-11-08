@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 4 - I'm back
+# ByePassHub > Main Links | updated Nov 8 - I'm back
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -36,7 +36,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - Added 150+ [Rammerhead](#rammerhead--web-browser) links!
 - Added 50 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
 - Added 50+ [Shadow Tabbed](#shadow-browser--web-browser)
-- Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps) 
+- Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps) - none are working currently
 - Added 25+ [Emerald](#emerald--proxy-games-apps)
 - Added 20+ [Utopia](#utopia--proxy-games-ai)
 - Added 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
