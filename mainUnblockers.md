@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 8 - I'm back
+# ByePassHub > Main Links | updated Nov 9
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -36,7 +36,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - Added 150+ [Rammerhead](#rammerhead--web-browser) links!
 - Added 50 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
 - Added 50+ [Shadow Tabbed](#shadow-browser--web-browser)
-- Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps) - none are working currently
+- Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps)
 - Added 25+ [Emerald](#emerald--proxy-games-apps)
 - Added 20+ [Utopia](#utopia--proxy-games-ai)
 - Added 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
@@ -172,8 +172,9 @@ Interstellar Discord (has more links w/dispenser): https://discord.gg/interstell
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Doge Unblocker | Proxy, Games, Apps
-#### Status: Flourishing :100: - ALL newly added links! (Nov 5)
+#### Status: Flourishing :100: 
 Disclaimer: Has ads <br>
+<!--
 http://burngraingasesixlschoology.lovethosetrains.com/ <br>
 http://ixlschoologyschool.lovethosetrains.com/ <br>
 http://ixlschoology2828.lovethosetrains.com/  <br>
@@ -203,7 +204,15 @@ https://edu.zaidlab.com/  <br>
 https://colmathg.robinhud.com/ <br> 
 https://edu.yourdigitaldoc.com/  <br>
 https://geography.geobattery.com/   <br>
- <br>
+-->
+Most links stopped working, but here are the functional links as of Nov 9: <br>
+http://burngraingasesixlschoology.lovethosetrains.com/   <br>
+http://ixlschoologyschool.lovethosetrains.com/   <br>
+http://ixlschoology2828.lovethosetrains.com/   <br>
+http://iloveschoolmath.lovethosetrains.com/   <br>
+http://burngraingasesixlschoology.lovethosetrains.com/   <br>
+https://funny-number.69.mu/   <br>
+<br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small:  
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
