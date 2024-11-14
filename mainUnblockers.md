@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 9
+# ByePassHub > Main Links | updated Nov 13
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -30,16 +30,16 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 6/1 - On vacation.. no updates
 
 ## Updates/Changes:
-### Nov 5, 2024 - 350+ NEW LINKS! + Statuses!
+### Nov 5, 2024 - 355+ NEW LINKS! + Statuses!
 - Added statuses (flourishing, stable/unstable, and ghosted) on proxies
 - Removed 100+ non working links
 - Added 150+ [Rammerhead](#rammerhead--web-browser) links!
-- Added 50 [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
+- Added 55+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
 - Added 50+ [Shadow Tabbed](#shadow-browser--web-browser)
 - Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps)
 - Added 25+ [Emerald](#emerald--proxy-games-apps)
 - Added 20+ [Utopia](#utopia--proxy-games-ai)
-- Added 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
+- Added 20+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
 - Added 10+ [Kazwire](#kazwire--proxy-games-apps)
 - Added 5+ [Tinfoil](#tinf0il--games-proxy-apps)
 - NEW 5+ [Arsenic](#arsenic--proxy-games) and [Lucid](#lucid--proxy)
@@ -168,6 +168,9 @@ https://oapahs.ipv64.net/<br>
 https://vpvvvokegwwvvegexvsgrgrjgeigerigrig.roundrockisd.online/<br>
 https://demo.theoceancleanup.info/<br>
 https://featheryfalcons.fr.to/<br>
+**NEW (Nov 13):** <br> 
+https://kisei.laviewddns.com/ <br>
+https://dartn-zako.laviewddns.com/ <br>
 Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -212,6 +215,7 @@ http://ixlschoology2828.lovethosetrains.com/   <br>
 http://iloveschoolmath.lovethosetrains.com/   <br>
 http://burngraingasesixlschoology.lovethosetrains.com/   <br>
 https://funny-number.69.mu/   <br>
+**NEW** (Nov 13): https://renrendane.laviewddns.com/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small:  
 
@@ -250,6 +254,11 @@ https://adbox-v8.srv64.de/     <br>
 https://adbox-v9.dynipv6.de/     <br>
 https://adbox-v10.any64.de/     <br>
 https://aroeuyo.dns64.de/     <br>
+**NEW** (Nov 13): <br>
+https://taihenomatasesimasita.laviewddns.com/ <br>
+https://inboxdayo.laviewddns.com/ <br>
+https://korededouda.laviewddns.com/ <br>
+https://inboxproxy.laviewddns.com/ <br>
  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -313,6 +322,7 @@ https://betteredu.gurdit.com/                  <br>
 https://4kaomdf1.ints.f5.si     <br>
 https://baby.as.shadowshark.ipv64.net     <br>
 https://5nwraiqfgz7z7uiv.mathmathmath.ipv64.net     <br>
+**NEW** (Nov 13): https://evony.laviewddns.com/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
