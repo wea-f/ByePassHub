@@ -20,7 +20,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   Games: includes games like Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
   -->
   
-  #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/pGrirP5YAxmKa6kB6) <br>
+  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/wea-f/ByePassHub/issues), I'll try to respond back ASAP. <br>
   **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
