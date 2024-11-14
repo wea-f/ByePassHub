@@ -14,10 +14,9 @@ Updates every week, if not daily
 
 #### Suggestions, report broken links, or donate a link: [ByePassHub Form](https://forms.gle/pGrirP5YAxmKa6kB6)
 ####  [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing)! <br><br>
-Next update brainstorm:
+Next updates:
 - Update exploits folder with more exploits (there are a lot more now!)
-- Update Games file
-- Get more Abyss, ~~Shadow, ~~Interstellar~~ and Doge Unblocker~~ links
+- Update Games file - Update links, add more games. 
 - Work on WIP files (make own unblocker link and search engines)
 - ~~Add a bunch of links to movies and anime.~~
 - ~~Clean up exploits folder~~
