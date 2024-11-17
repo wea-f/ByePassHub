@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Jul 11
+# ByePassHub > Games | updated Nov 17
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 #### Link not working? Any Suggestions? Want to donate a link? Click here -> [FORM](https://forms.gle/pGrirP5YAxmKa6kB6) <br>
@@ -61,22 +61,14 @@ https://projects.blueshadows.cl/ <br>
 https://telescopes.blueshadows.cl/ <br>
 https://fideos.projects.blueshadows.cl <br>
 ##### garamanage.com links
-https://thevoicesaregettinglouder.garmanage.com/ <br>
 https://sizing.tool.garmanage.com/ <br>
 ##### potomacriversafetycommittee.org links
-https://safety.guidelines.potomacriversafetycommittee.org/ <br>
 https://information.potomacriversafetycommittee.org/ <br>
-https://about.cause.potomacriversafetycommittee.org/ <br>
-https://members.board.potomacriversafetycommittee.org/  <br>
 https://checkout.donate.potomacriversafetycommittee.org/ <br>
-http://archive.calendar.potomacriversafetycommittee.org/ <br>
 ##### tafca.co.uk links
 https://calendar.matches.tafca.co.uk/ <br>
 https://clubs.tafca.co.uk/ <br>
-https://pawn.pieces.tafca.co.uk/ <br>
 **NEW!** https://winter.league.tafca.co.uk/ <br>
-**NEW!** https://form.contact.tafca.co.uk/ <br>
-**NEW!** https://chess.moves.tafca.co.uk/ <br>
 **NEW!** https://calendar.matches.tafca.co.uk/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
@@ -89,37 +81,15 @@ https://about.blog.steveharrop.co.uk/ <br>
 ##### dansted.org links
 https://results.search.dansted.org/ <br>
 https://rss.feed.link.dansted.org/ <br>
-##### rugelegychessclub.co.uk links
-https://archive.puzzles.rugeleychessclub.co.uk/ <br>
-https://rug.rugeleychessclub.co.uk/ <br>
-https://rugby.rugeleychessclub.co.uk/ <br>
-https://practice.chess.rugeleychessclub.co.uk/ <br>
 ##### Misc.
-https://contact.zverovich.net/ <br>
-https://deals.youramys.com/ <br>
 https://buy.deleesportsmedicine.com/ <br>
-https://buy.garagesport.ch/ <br>
-http://static.69.118.161.5.clients.your-server.de/ <br>
-https://edu.kick.sh/ <br>
 https://fediverse.faefox.org/ <br>
 https://pricing.tourism.mza.com.ar/ <br>
 https://selenite.pages.dev/ <br>
 https://selenite.skysthelimit.dev/ <br>
-https://weston-makes-links.mooo.com/ <br>
-https://weston-is-honest.fr.to/ <br>
 https://visit.the.us.to/ <br>
-**NEW** https://selen-instructions.soapagent.com <br>
-https://supportukraine.sanluix.org/ <br>
-https://toodles.spanishlearning.com.ar/ <br>
-https://old.man.joe.mindhackers.org/ <br>
 https://security.from.annaffiare.org/ <br>
 https://404.1337.cx/ <br>
-https://all.products.shop.womenclothingtoday.com/ <br>
-https://astrology.space.g8z.net/ <br>
-**NEW** https://sigmagangrise.andyluse.com/ <br>
-**NEW** http://the.h.ceafrutillar.cl/ <br>
-**NEW** https://yay.besttoday.ru/ <br>
-**NEW** https://learn.esperanto.eu.org/ <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 
@@ -163,7 +133,6 @@ https://beiswenger.net/unblocked/ <br>
 
 
 ### A1R
-https://iamasweaty.fortnitebuilder.pro/ <br>
 **NEW** https://student-portal.hustlersuniversity.pro/  <br>
 
 ### Phantom Games | RECOMMENDED
@@ -203,7 +172,6 @@ https://9.lusz.one.pl/  <br>
 ### 3kh0 | RECOMMENDED
 https://gray-sand-0ae3d2d10.2.azurestaticapps.net/ <br>
 https://3kh0-reborn.outred.dev/ <br>
-https://3kh0-gfiles.doge-math-pages.byethost33.com/ <br>
 
 ### Google Sites | RECOMMENDED
 https://sites.google.com/view/retro-bowl-play <br>
@@ -379,9 +347,7 @@ https://eaglercraft.me/ <br>
 https://eaglercraft.org/ <br>
 https://eaglercraft.com/ <br>
 ##### Actual, real Minecraft
-https://bash.gg/ <br>
-https://loudsafari.com/ <br>
-https://flyinglambs.com/  <br>
+None <br>
 <br>
 **^ Back to [top ^](#table-of-contents)**
 ### Chess
@@ -405,25 +371,8 @@ https://nowcollege.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/
 https://vortexmath.my.canva.site/_password <br>
 
 ### Plexile Arcade
-**All of these links are NEW** - Apr 5 <br>
-https://book-opensocial.ranzdompr0jzxymaths.xml.googleusercontent.cause.vc/  <br>
-https://education.disciplinary.design/   <br>
-https://crazy.thunder.com.ve/  <br>
-https://math-homework.funny.cl/  <br>
-https://ball.usercontent.toogoofy.com/  <br> 
-https://new-software-for-tutors.usercontent.toogoofy.com/  <br>
-https://great.clu.bz/  <br>
-https://pa.maze.lol/  <br>  <br>
+None <br>
 
-https://plexilearcade.glitch.me/  <br>
-https://funschoolprojects.glitch.me/ <br>
-https://nweatestingsite.glitch.me/  <br>  <br>
-
-https://algebratutors.onrender.com/  <br>
-https://schoolapplications.onrender.com/  <br>  <br>
-
-https://mytestscores.netlify.app/  <br>
-https://educationalinsights.netlify.app/ <br>  <br>
 ## Hydra
 https://walk.artitech.com/ <br>
 https://local.garmanage.com/ <br>
