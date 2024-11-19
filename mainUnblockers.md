@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 13
+# ByePassHub > Main Links | updated Nov 18
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -30,6 +30,14 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 6/1 - On vacation.. no updates
 
 ## Updates/Changes:
+### Nov 18, 2024 - 40+ Links!
+**To find the new links, look for the label, NEW Nov 18. It tells you that the links were added on this update!**
+- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
+- 10+ [Shadow](#shadow-browser--web-browser)
+- 5+ [Rammerhead](#rammerhead--web-browser)
+- More [Doge](#doge-unblocker--proxy-games-apps), [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Kazwire](#kazwire--proxy-games-apps), and [Tinf0il](#tinf0il--games-proxy-apps)
+
+
 ### Nov 5, 2024 - 355+ NEW LINKS! + Statuses!
 - Added statuses (flourishing, stable/unstable, and ghosted) on proxies
 - Removed 100+ non working links
@@ -63,11 +71,11 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable :white_check_mark:
 - 10+ [Surfskip](#surfskip--web-browser) - Web browser |  Stable :white_check_mark:
-- **50+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
+- **60+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
 - 30+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - 30+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Flourishing :100:
 - <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:
-- **50+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
+- **55+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
 - **150+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
 - 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Varying :grimacing: 
@@ -171,7 +179,18 @@ https://featheryfalcons.fr.to/<br>
 **NEW (Nov 13):** <br> 
 https://kisei.laviewddns.com/ <br>
 https://dartn-zako.laviewddns.com/ <br>
-Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  <br>
+**NEW (Nov 18):** <br>
+https://kiohjbh.ipv64.net/ <br>
+https://www.oapahs.ipv64.net/ <br>
+https://www.gvuiyhitcu.ipv64.net/ <br>
+https://ridwansinterstellarskrrtpow.cissp.or.id/ <br>
+https://blocked.enia.net/ <br>
+https://housepools.power-media.ro/ <br>
+https://mhmmm.minecraft.pe/ <br>
+https://church.macgregoremc.com/ <br>
+Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  
+
+<br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Doge Unblocker | Proxy, Games, Apps
@@ -216,6 +235,7 @@ http://iloveschoolmath.lovethosetrains.com/   <br>
 http://burngraingasesixlschoology.lovethosetrains.com/   <br>
 https://funny-number.69.mu/   <br>
 **NEW** (Nov 13): https://renrendane.laviewddns.com/ <br>
+**Nov 18 Link**: https://kittykittykittykittykittyaaaaaaaaa.flightgear.ru/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small:  
 
@@ -259,6 +279,9 @@ https://taihenomatasesimasita.laviewddns.com/ <br>
 https://inboxdayo.laviewddns.com/ <br>
 https://korededouda.laviewddns.com/ <br>
 https://inboxproxy.laviewddns.com/ <br>
+**NEW Nov 18:** https://callllllllllcu.galaxybbs.net/ <br>
+**NEW Nov 18:** https://freeflow.math3.vhutambo.co.za/ <br>
+**NEW Nov 18:** https://bannana.web-doge.42web.io/ <br>
  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -323,6 +346,14 @@ https://4kaomdf1.ints.f5.si     <br>
 https://baby.as.shadowshark.ipv64.net     <br>
 https://5nwraiqfgz7z7uiv.mathmathmath.ipv64.net     <br>
 **NEW** (Nov 13): https://evony.laviewddns.com/ <br>
+**Nov 18 NEW links**: <br>
+https://learn.stofcheck-ballinger.com/ <br>
+https://jokes.saer-emploi.com/ <br>
+https://jny7gjz5kqft4ed0taizldewa1g3lfskm9gauwpfzyosch3ydezt6tftwyptdgw.cederfeldt.se/ <br>
+https://portal.kage5.any.ipv64.net/ <br>
+https://rojeri666br99.opticalize.com/ <br>
+https://education.jodymaroni.com/ <br>
+https://base.diveyez.com/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -435,6 +466,11 @@ https://guava.iiiii.info/<br>
  https://zebrasareprettycool.nex.sh/     <br> 
  https://rizzler.hbmc.net/<br>
  https://yourmean.1337.cx/     <br>
+ **Nov 18 NEW links**: 
+ https://konnnitiga84237.galaxybbs.net/  <br>
+https://rammer84238.sookemarinecentre.com/  <br>
+https://historygamesplay.eithermouse.com/  <br>
+https://rammershark-aa.poptour.com.ar/  <br>
  
  <br>
  
@@ -584,6 +620,8 @@ https://portaldash.fr.to <br>
 https://history.networkteam.com.ar <br>
 https://vanilla-vanities.coquettas.cl <br>
 https://void-network.radiodelsur.cl <br>
+**NEW Nov 18** https://english.hitremixes.com/ <br>
+**NEW Nov 18** https://brawlpeople.wikilegia.com/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -737,6 +775,7 @@ https://florida.hilleberg.tw/ <br>
 https://no.no.nard.ca/ <br>
 https://sakosako.serverpit.com/ <br>
 https://shallow.velolife.co.za/ <br>
+**Nov 18** https://guysomarisntdeppressed.eithermouse.com/ <br>
  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -805,6 +844,10 @@ https://tinfoil.6b8t.xyz/ <br>
 https://point-blank-should-have-won-proxathon.point-blank.us.kg/  <br>
 https://delete-the-subdomain-and-you-will-have-the-best-proxy.i-have-a-prox.cyou/  <br>
 https://ctrik.is-a-nazi.us.kg/ <br>
+**Nov 18 links** <br>
+https://assignment.jmwubg.com.au/ <br>
+https://play.lexia-power-up.us/ <br>
+https://view.lithiumis.us/ <br>
  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -906,6 +949,7 @@ https://writer.com/#ask-writer <br>
 **(Oct 21)** https://copilot.microsoft.com/?showconv=1 <br>
 **(Oct 21)** https://tutorly.ai/ <br>
 **(Oct 21)** https://qrcode-ai.com/ <br>
+**Nov 18** https://app.codegpt.co/ <br>
 ##### ChatGPT clones
 https://chatgpt.bestim.org <br>
 https://talkai.info/chat <br>
