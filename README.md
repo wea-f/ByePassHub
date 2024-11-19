@@ -17,7 +17,7 @@ Updates every week, if not daily
 
 Next updates:
 - Update exploits folder with more exploits (there are a lot more now!)
-- Update Games file - Update links, add more games. 
+- Update Games file - Update links, add more games - i think there are more links, gonna find some soon.
 - Work on WIP files (make own unblocker link and search engines)
 - ~~Add a bunch of links to movies and anime.~~
 - ~~Clean up exploits folder~~
