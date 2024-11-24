@@ -142,6 +142,36 @@ https://hello.nite.cbass92.org <br>
 http://bradlywiddlesisgrippy.teition.com/ <br>
 http://goegraphyandotherstuff.savenewport.com/ <br>
 http://mathandsciencestuff.macgregoremc.com/ <br>
+**ALL below links are NEW - Nov 24** <br>
+https://selenite.lamplifesteal.xyz/ <br>
+http://notread.silksky.com/ <br>
+http://gaysdasfdf.yoyodyne.nl/  <br>
+http://niceguy.ftp.sh/  <br>
+http://gay.yoyodyne.nl/  <br>
+http://rizzler.sos.al/  <br>
+http://bog.sos.al/  <br>
+http://skyiscool.laptopy.nl/  <br>
+http://selenite.laptopy.nl/  <br>
+https://homework.aszx.ru/ <br>
+http://powerschool.charbel.cl/ <br> 
+http://cool.hlebets.space/ <br>
+http://schoology.hlebets.space/ <br> 
+http://apples.komanda.cl/  <br>
+http://sigmasarise.konpan.ch/  <br>
+http://123456789.laptopy.nl/  <br>
+http://astraxskyrealll.mapadeloscomedores.com/  <br>
+http://fornight.mercelo.cl/  <br>
+http://byod.mynode.biz/  <br>
+http://banana.n6reb.com/  <br>
+http://truffled.krolovip.ru/ <br>
+http://btwdontmasshare-ifgetsblocked-iwillremovethelink.yuanda223.xyz/ <br>
+https://deezbananas.cc/ <br>
+https://thestoreselection.com/ <br>
+http://icanmakemoresitesstupid.puffballofevil.com/ <br>
+http://yeepsisthebestgameintheworldandyoucantchangemymindgorillatagsuk.nite.cbass92.org/ <br>
+http://justlettinuguysknowiloveyeepsandmyvrusernameisfreakyfunoculusvr.nite.cbass92.org/ <br>
+http://thestarsinthedesert.hotunix.com/ <br>
+
 
 <br>
 
