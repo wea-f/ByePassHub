@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | updated Jul 11
+# ByePassHub > Making your Own Links | updated Nov 24
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
@@ -46,7 +46,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | ----------- | ----------- | ------- |
 | Abyss     | Web browser|`5.161.43.35`     |
 | Astroid   | Games, Unblocker, Emulators, Apps|`5.161.68.227`        |
-| Artclass | Unblocker, Games, Apps |`193.26.115.218`|
+| Artclass | Unblocker, Games, Apps |`198.251.90.4`|
 | Shadow | Web Browser | `104.243.38.18`|
 | Kitty Cat | Proxy, games, apps | `66.94.122.218` |
 | Kazwire |  Proxy, games, apps | `209.222.97.244` |
@@ -55,6 +55,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | Interstellar | Proxy, games, apps | `5.161.66.1`|
 | Rammerhead | Web Browser | `108.181.32.77`|
 | Phantom Games | tons of games |`109.122.46.55`|
+| arsenic | Proxy, Games | `66.179.254.164` |
 | *May or may not work:* Selenite | tons of games | `5.161.118.69`|
 | *May or may not work:* Tinf0il | Proxy, games, apsp | `129.213.65.72`|
 | Other unblockers have specific tutorials in their discord servers. To find their discord server, go to the [Proxy Discord Servers section](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#caution-many-of-these-servers-will-ban-you-for-leaking-leaks-publicly-use-it-for-private-use-only) in the main Unblockers file.  
