@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Nov 18
+# ByePassHub > Main Links | updated Nov 24
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -30,6 +30,15 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 6/1 - On vacation.. no updates
 
 ## Updates/Changes:
+### Nov 24, 2024 - 55+ links! 1 NEW site!
+**To find the new links, look for the label, Nov 24 links. It tells you that the links were added on this update!**
+- 25+ [Emerald](#emerald--proxy-games-apps)
+- 15+ [Arsenic](#arsenic--proxy-games)
+- **New** 10+ [Core](#core--proxy)
+- 5+ [Shadow](#shadow-browser--web-browser)
+- More [Utopia](#utopia--proxy-games-ai), [Tinf0il](#tinf0il--games-proxy-apps)
+
+
 ### Nov 18, 2024 - 40+ Links!
 **To find the new links, look for the label, NEW Nov 18. It tells you that the links were added on this update!**
 - 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
@@ -54,9 +63,6 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - More [Lunarsync](#lunarsync--proxy-games)
 - Updated Link count and overall doc
 
-**July 10 - 17, 2024**
- - [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing) released!! (outdated)
- - Added 30+ [Rammerhead](#rammerhead--web-browser) links!
 <br>
 
 
@@ -75,7 +81,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 30+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - 30+ [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Flourishing :100:
 - <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:
-- **55+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
+- **60+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
 - **150+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
 - 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Varying :grimacing: 
@@ -84,7 +90,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable :white_check_mark:
 - <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | Ghosted :no_entry_sign:
 - 25+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
-- 5+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: **Fresh** :sunglasses:
+- 20+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: **Fresh** :sunglasses:
 - 15+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
 - 25+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: *Ghosted* :no_entry_sign:
 - 20+ [Light](#light--proxy-games-apps) - Proxy, Games, Apps | Status: Unstable :neutral_face:
@@ -92,7 +98,8 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable :neutral_face:
 - <5 [Lucid](#lucid--proxy) - Proxy | **Fresh** :sunglasses:
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional :neutral_face:
-- 10+ [**Tinf0il**](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark: 
+- 10+ [**Tinf0il**](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark:
+- 10+ [Core](#core--proxy) - Proxy | Status: Fresh 😎
 - <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
 - [1-2 link sites](#sites-with-1-2-links) - 12+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
 - 25+ **[AI](#ai-and-homework-solvers)** | Stable ✅
@@ -353,6 +360,11 @@ https://jny7gjz5kqft4ed0taizldewa1g3lfskm9gauwpfzyosch3ydezt6tftwyptdgw.cederfel
 https://portal.kage5.any.ipv64.net/ <br>
 https://rojeri666br99.opticalize.com/ <br>
 https://education.jodymaroni.com/ <br>
+**Nov 24 links**:
+https://funmathedu.masplenedigitalworld.com/ <br>
+https://books.bsfa.info/ <br>
+https://justdoinghomework.thebrittainlawfirm.com/  <br>
+https://classroom.bsfa.info/  <br>
 https://base.diveyez.com/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
@@ -605,6 +617,10 @@ https://tech.idea.jsnerd.com/ <br>
 https://topic.notes.homebrewer.org/ <br> 
 https://prep.arts.jamison.org/ <br>
 https://gov.train.tuquy.com/ <br>
+**Nov 24 links** <br>
+https://goal.write.dd0c.com/ <br>
+https://skills.ela.briandelano.com/ <br>
+
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -651,7 +667,7 @@ None
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Emerald | Proxy, Games, Apps
-#### Status: Stable :white_check_mark:  - All newly added links! (Nov 5)
+#### Status: Stable :white_check_mark:
 https://emerald.joaopedroreis.com/   <br> 
  https://schoolstuff.unitgrapigs.com/    <br> 
  https://tuurkeye.privatedns.org/    <br> 
@@ -677,11 +693,38 @@ https://emerald.joaopedroreis.com/   <br>
  https://totallynotnettleweb.embeddedonline.org/   <br> 
 https://prosper.cant.stop.me.rugeleychessclub.co.uk/   <br> 
 https://prosper.cant.stop.me.judysart.com/   <br> 
+**Nov 24 Links**: 
+https://emerald.emeraldgreen.emeraldblue.emeraldred.emeraldbeige.emeraldtan.com/   <br>
+https://messiistherealgoat.cloudbarfbag.com/   <br>
+https://iamsosigmarizz.cloudbarfbag.com/   <br>
+https://andrewresendizisgay.cissp.or.id/   <br>
+https://shiniesongreen.69.mu/   <br>
+https://johnsastirdry.unitgrapigs.com/   <br>
+https://chrislikesfriedchicken.unitgrapigs.com/  <br>
+https://themultiplex.ade.dj/   <br>
+https://ixledu.soon.it/   <br>
+https://emerald.soon.it/   <br>
+https://huhkopasdko.404.mn/   <br>
+https://hotgotokosd.owowow.uwu.chickenkiller.com/   <br>
+https://freednsontoprealls.crabdance.com/   <br>
+https://arcisworsethanfirefox.dob.jp/   <br>
+https://youeverhave.mo.lofe.pakasak.com/   <br>
+ https://ballballballball.chickenkiller.com/   <br>
+ https://elahelp1.joaopedroreis.com/    <br>
+https://elahelp2.joaopedroreis.com/   <br>
+ https://elahelp3.joaopedroreis.com/   <br>
+ https://elahelp4.joaopedroreis.com/   <br>
+ https://elahelp5.joaopedroreis.com/   <br>
+ https://elahelp6.joaopedroreis.com/   <br>
+ https://elahelp7.joaopedroreis.com/   <br>
+ https://elahelp8.joaopedroreis.com/   <br>
+ https://elahelp9.joaopedroreis.com/   <br>
+ https://elahelp10.joaopedroreis.com/   <br>
    <br> 
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Arsenic | Proxy, Games
-#### Status: Fresh :sunglasses: - New proxy site! + ALL Newly added links (Nov 5)
+#### Status: Fresh :sunglasses: - New proxy site! 
 https://support.alakaforestm.com/ <br>
 https://lunareclipse.criptorg.net/<br>
 https://elsigma.menumarbella.cl/ <br>
@@ -689,6 +732,25 @@ https://elsigma2.menumarbella.cl/ <br>
 https://elsigma3.menumarbella.cl/<br>
  https://elsigma4.menumarbella.cl/ <br>
 https://elsigma5.menumarbella.cl/<br>
+**Nov 24 links:** <br>
+https://athletics.streetathletic.ru/  <br>
+https://shibbyiscool.dob.jp/   <br>
+https://slpelkaka.cupalica.com.ar/   <br>
+https://symphonyskibi.pervers.ch/   <br>
+https://gsdfghhihini.quilmes.gob.ar/   <br>
+https://asdasdasdhdfgdfgbdfvdfv.twilightparadox.com/   <br>
+https://gdggrgesplsus.cbu.net/   <br>
+https://absoulesoka.cervezamolay.com/   <br>
+https://asdasdfewe.nard.ca/   <br>
+https://qdqwdvwcsdvszxc.yimelo.com/   <br>
+https://asdasdasdeeferf.zambeezee.com/  <br>
+https://lincoln.nya.pub/  <br>
+https://byalanetmembershippremium.byalanet.bg/  <br>
+ https://eichilearningservice.eichi.net/  <br>
+https://donatefortheworthy.guillemjafer.es/  <br>
+https://edshellaipoweredbyraidshadowlegends.redshell-ai.com/   <br>
+https://riceforchange.riceonmars.space/  <br>
+https://infinite.lightspeed.inulled.xyz/  <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -848,6 +910,24 @@ https://ctrik.is-a-nazi.us.kg/ <br>
 https://assignment.jmwubg.com.au/ <br>
 https://play.lexia-power-up.us/ <br>
 https://view.lithiumis.us/ <br>
+**Nov 24** link <br>
+http://schoology-math.ekharipati.com.np/ <br>
+ <br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+### Core | proxy
+#### Status: Fresh 😎
+https://gocore.pro/ <br>
+https://immortaltwo-is-very.gay <br>
+https://pull.out-the.brt.ar/ <br>
+https://industry.colonizers.ukintech.com/ <br>
+https://erm.where-is.dlvan.ar/ <br>
+https://tesla.vesala.xyz/ <br>
+https://money.ekharipati.com.np/ <br>
+https://billnye.thescienceguy.mikedavislab.com/ <br>
+https://pbs.kids.pbxrus.com/ <br>
+https://b.l.lysterfam.net/ <br>
+https://costco.heil.adybondowoso.co.id/ <br>
  <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
@@ -930,6 +1010,12 @@ Directions: <br>
 3. After waiting, press "START EMULATOR"
 4. After waiting, press "ENTER" and you are done! <br>
 **NEW** https://www.myandroid.org/ <br>
+<!--
+### Typesit
+**NEW Nov 24** https://gearcalculator.lat/ <br>-->
+<!--
+### Polaris
+**NEW Nov 24** https://polarislearning.org/ <br> -->
 
 ---
 
