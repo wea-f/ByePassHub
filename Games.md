@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Nov 24
+# ByePassHub > Games | updated Dec 25
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 
@@ -56,9 +56,21 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ## website title | any note if needed
 
 ### Selenite | RECOMMENDED
-
+**Dec 25 Links:** <br>
+https://skys.booty.hair/   <br>
+https://safe-selection.assenov.net/<br>
+https://goofy-nonstop.strangled.net/<br>
+https://home.sibmed.org.ru/<br>
+https://defnotselenite.pakasak.com/ <br>
+https://learn-2-cook.2gfkitchen.com/ <br>
+https://land.refillmaker.com/ <br>
+https://brays.atomybomb.com/ <br>
+https://hop.refillmaker.com/ <br>
+https://netflixa.blacknapkins.org/ <br>
+https://sewafw.bistaumanga.com.np/ <br>
+https://cooking.wit.kya.webconstructions.co.uk/ <br>
+https://selenite.global.ssl.fastly.net/ <br>
 ##### blueshadows.cl links
-
 https://projects.blueshadows.cl/ <br>
 
 https://telescopes.blueshadows.cl/ <br>
@@ -264,6 +276,17 @@ https://student-portal.hustlersuniversity.pro/ <br>
 
 ### Phantom Games | RECOMMENDED
 ##### Misc. links 
+**Dec 25 Links:** <br>
+https://somewhere.only.we.know.cissp.or.id/ <br>
+https://im.bored.df.cissp.or.id/ <br>
+https://phgms.blacknapkins.org/ <br>
+https://if-you-look-very-closely-at-you-will-see-nerd.ubernerden.com/ <br>
+https://mason-is-not-rizzful.ghostnation.org/ <br>
+https://i-ate-olivers-feet-when-mason-was-watching.ghostnation.org/ <br>
+https://sigma-boyz.ghostnation.org/ <br>
+https://software.help.info.asmasoft.com/ <br>
+https://0000001qwerty.mydev.co.za/ <br>
+https://phantomtest.delusionz.xyz/ <br>
 **All NEW  Links - Nov 18** <br>
 https://masteryconnectscience11thgrade.pickens.k12.sc.us.wiki.gd/ <br>
 https://schoology.pickens.k12.sc.us.byteloc.com/ <br>
