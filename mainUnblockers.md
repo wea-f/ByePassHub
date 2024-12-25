@@ -1518,6 +1518,7 @@ https://iogames.forum/t/list-of-all-the-working-unbl0cked-pr0xies-for-school-dec
 https://haleyschool.com/new-links <br>
 https://github.com/Salty-Coder/Unblocked-Sites <br>
 https://github.com/pri3sts/unblockedbrowsers/blob/main/main <br>
+https://benrogo.net/linkies <br>
 <br>
 
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
@@ -1545,6 +1546,7 @@ Kitty Cat Club: https://discord.gg/rqBgxP9Gnj  <br>
 Platformer: https://discord.gg/sSWRxaHhvA  <br>
 Xenon: https://discord.gg/DyaVHTxng4  <br>
 Sunset Network: https://discord.gg/GPFwfVNEhn <br>
+Night Network: https://discord.com/invite/2xtRtawncs <br>
 
 <br>
 
