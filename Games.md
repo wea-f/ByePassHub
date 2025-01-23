@@ -53,7 +53,10 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
   Examples of games is Moto X3M, Cookie Clicker, 1v1.LOL, Bitlife, etc. <br>
 
 
-## website title | any note if needed
+### Campus arcade | Game hub with proxys
+https://sites.google.com/view/thecampusarcade/
+www.campus-arcade.com
+
 
 ### Selenite | RECOMMENDED
 **Dec 25 Links:** <br>
