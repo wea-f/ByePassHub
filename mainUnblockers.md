@@ -1,5 +1,5 @@
 
-# ByePassHub > Main Links | updated Dec 25
+# ByePassHub > Main Links | updated Jan 23
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -579,6 +579,8 @@ http://sites.google.com/view/jays-hangout/home <br>
 https://sites.google.com/view/bruny <br>
 https://sites.google.com/view/schoolmessage/home <br>
 https://sites.google.com/view/classhack/home <br>
+**NEW Jan 23** https://sites.google.com/view/thecampusarcade/
+www.campus-arcade.com/ <br>
 ##### Proxies Only
 https://sites.google.com/view/alpha-networksite/%E2%84%99 <br>
 ##### Games Only
