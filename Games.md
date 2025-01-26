@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Dec 25
+# ByePassHub > Games | updated Jan 25
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 
@@ -6,11 +6,11 @@ This is a collection of links of ONLY games, no unblockers just games.  <br>
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
 Links with a **NEW** tag means that the link was added recently (< 1 week ago) <br>
-  - *Selenite*: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
+  - ***Selenite***: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
   - *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
   - Unblocked Games Hub: [here](#unblocked-games-hub)
   - A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
-  - *Phantom Games:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
+  - ***Phantom Games:*** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
   - 3kh0: [here](#3kh0--recommended)
   - *Google Sites:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
   - *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#jordans-math-work)
@@ -56,6 +56,40 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ## website title | any note if needed
 
 ### Selenite | RECOMMENDED
+**Jan 25 Links (30+):** <br>
+https://learn.follobusiness.com/   <br>
+https://land.refillmaker.com/   <br>
+https://hop.refillmaker.com/   <br>
+https://home.sibmed.org.ru/   <br>
+https://cooking.wit.kya.webconstructions.co.uk/   <br>
+https://brays.atomybomb.com/   <br>
+https://asster.df.cissp.or.id/   <br>
+http://wasdwasdwasdwasdwasdwasd.df.cissp.or.id/   <br>
+http://tutorialig.agguiopz.ip-dynamic.org/   <br>
+http://they.are.controlling.you.df.cissp.or.id/   <br>
+http://the.line.df.cissp.or.id/   <br>
+http://r.i.p.dumpsterfire.and.lucid.df.cissp.or.id/   <br>
+http://prison.df.cissp.or.id/   <br>
+http://olncavior.agguiopz.ip-dynamic.org/   <br>
+http://oldaccguiop.agguiopz.ip-dynamic.org/   <br>
+http://notion.df.cissp.or.id/   <br>
+http://lsco.df.cissp.or.id/   <br>
+http://loser.co.is.goated.df.cissp.or.id/   <br>
+http://lean.with.it.rock.with.it.df.cissp.or.id/   <br>
+http://kom.is.sigma.df.cissp.or.id/   <br>
+http://kennysgames.on.fleek.co   <br>
+http://keep.it.freaky.df.cissp.or.id/   <br>
+http://ineedmoreips.agguiopz.ip-dynamic.org/   <br>
+http://home.sibmed.org.ru/   <br>
+http://happy.holidays.df.cissp.or.id/   <br>
+http://greetings.huzz.df.cissp.or.id/   <br>
+http://fleshpanopticon.agguiopz.ip-dynamic.org/   <br>
+http://feel.good.inc.df.cissp.or.id/   <br>
+http://everlong.df.cissp.or.id/   <br>
+http://entertain.my.faithh.df.cissp.or.id/   <br>
+http://asster.man.is.sigma.df.cissp.or.id/   <br>
+https://learn.follobusiness.com/   <br>
+
 **Dec 25 Links:** <br>
 https://skys.booty.hair/   <br>
 https://safe-selection.assenov.net/<br>
@@ -275,7 +309,24 @@ https://student-portal.hustlersuniversity.pro/ <br>
  
 
 ### Phantom Games | RECOMMENDED
-##### Misc. links 
+**Jan 25 Links:** <br>
+www.thisemeraldisfree.jokertv.eu/   <br>
+www.phantom-children.kameli.org/   <br>
+https://moneybling.okzk.com/   <br>
+https://not-in-order.okay.com.tr/   <br>
+https://doing-green-now.nokedli.org/   <br>
+https://greenbird.brokenfuture.com/   <br>
+https://smallbluebird.alyaf.com/   <br>
+https://bluebirdgoesblue.hackquest.com/   <br>
+https://birdofblue.chickenkiller.com/   <br>
+https://i-guess-we.okoloko.one.pl/   <br>
+https://phantom-gg-pdfz-sike.duckdns.org/   <br>
+https://phantomtest.delusionz.xyz/   <br>
+https://phantom-children.kameli.org/   <br>
+https://babies-are-ghost.epicgamer.org/   <br>
+https://phantom-babies.spacetechnology.net/   <br>
+https://lifeiswarthunder.hbmc.net/   <br>
+https://fantomutoemerarudotteiptigaunka.easterndns.com/   <br>
 **Dec 25 Links:** <br>
 https://somewhere.only.we.know.cissp.or.id/ <br>
 https://im.bored.df.cissp.or.id/ <br>
