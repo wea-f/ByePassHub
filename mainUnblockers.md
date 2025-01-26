@@ -1002,6 +1002,7 @@ https://fantomjpurokicittedokoittanya.easterndns.com/ <br>
 #### Status: Fresh :sunglasses: - New proxy site! 
 **Dec 25 Links:** <br>
 https://science4kids.port0.org/ <br>
+https://freetutoringforteens.physiosagart.de/ <br>
 https://mathclass4children-k12.ftp.sh/ <br>
 https://0lightspeedworks0.saugatnepal.com.np/ <br>
 https://arsenic.everydaymath.saugatnepal.com.np/ <br>
@@ -1217,7 +1218,6 @@ https://j2q385-8080.csb.app/ <br>
 #### Status: Stable :white_check_mark: 
 https://math.jeesbox.com/ <br>
 https://realestate.casarosalba.com/ <br>
-https://freetutoringforteens.physiosagart.de/ <br>
 
 
 ### Shuttle | Games, Apps, and Proxy 
