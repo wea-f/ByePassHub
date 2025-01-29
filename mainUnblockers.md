@@ -1,5 +1,5 @@
 
-# ByePassHub > Main Links | updated Jan 25
+# ByePassHub > Main Links | updated Jan 28
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -39,6 +39,7 @@ To find the newly added links in the update, **look for the heading that contain
 - **170+** [Shadow](#shadow-browser--web-browser)
 - **70+** [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
 - **55+** [Doge Unblocker](#doge-unblocker--proxy-games-apps)
+- 10+ [Emerald](#emerald--proxy-games-apps)
 - New Site [Camouflage](#camouflage--proxy-games-apps)
 
   
@@ -114,7 +115,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 50+ [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: **Fresh** :sunglasses:
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable :white_check_mark:
 - <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | Ghosted :no_entry_sign:
-- 40+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
+- 30+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
 - 35+ [**Arsenic**](#arsenic--proxy-games) - Proxy, Games | Status: **Fresh** :sunglasses:
 - 15+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
 - 25+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: *Ghosted* :no_entry_sign:
@@ -1272,11 +1273,22 @@ None
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Emerald | Proxy, Games, Apps
-#### Status: Stable :white_check_mark: - All working, last checked Jan 23
+#### Status: Stable :white_check_mark: - All working, last checked Jan 28
+**Jan 28 Links:** <br>
+https://nox.hervy.se/   <br>
+https://zeusssss.it4mortals.org/   <br>
+https://zeussss.it4mortals.org/   <br>
+https://zeusss.it4mortals.org/   <br>
+https://zeuss.it4mortals.org/   <br>
+https://zeus.it4mortals.org/   <br>
+https://plswork.scarboroughgymelites.ca/   <br>
+https://learning4.medscience.cl/   <br>
+https://raringancs2kyokumefato.easterndns.com/   <br>
+https://test.vonar.ch/   <br>
+https://xn--fdbaad1jbbbwcc7a4eya2ae9a1iqa.jodymaroni.com/   <br>
+https://illusions-is-cool.spacetechnology.net/   <br>
 **Jan 23 Links:** <br>
 https://mangosaremadeoutofemeraldslol.duckdns.org/ <br>
-https://sus.manolovici.ro/ <br>
-https://fantomjpurokicittedokoittanya.easterndns.com/ <br>
 **Dec 25 Links:** <br>
  https://elahelp3.joaopedroreis.com/   <br>
  https://elahelp5.joaopedroreis.com/   <br>
