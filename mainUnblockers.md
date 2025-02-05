@@ -1668,6 +1668,8 @@ Has a trial <br>
 ### Nebula | Proxy and games
 **NEW** https://spotifyshuffle.com/ <br>
 
+## Saturn | Proxy and games
+**NEW** https://saturn.sibmed.org.ru/ <br>
 
 ### 12ft | proxy
 https://12ft.io/ <br>
