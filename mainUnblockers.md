@@ -1187,7 +1187,15 @@ https://void-network.radiodelsur.cl <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 ### Space | Proxy, Games, Apps
 #### Status: Fresh :sunglasses: - ALL newly added links (Dec 25)
-https://genesis-is-the-goat.edgeindustries.co.uk/        <br>
+https://genesis-is-the-goat.edgeindustries.co.uk/
+https://orbitmc.lol/
+https://n.orbitmc.lol/
+https://o.orbitmc.lol/
+https://app.orbitmc.lol/
+https://orbitmc.lol.orbitmc.lol/
+https://join.puddlehunters.net/
+https://read.anjumanallana.in/
+https://edu.ostrovsky.sk/<br>
 https://discoveryexplore.puffballofevil.com        <br>
 https://chromebooks.laptopy.nl        <br>
 https://crocodile.acumor.co        <br>
