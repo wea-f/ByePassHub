@@ -1658,7 +1658,8 @@ https://anura.mercurywork.shop/ <br>
 
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
-
+### Velocity
+https://velocity.nebula.christmas/ <br>
 ### NEW! miniProxy
 https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php <br> 
 **NEW** https://www.4digitalsignage.com/content/showtimes/beltway/miniProxy.php <br>
