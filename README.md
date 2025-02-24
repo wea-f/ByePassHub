@@ -25,4 +25,5 @@ These links and bypasses are **not made by me**, they are found through many oth
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this lol** <br>
 **Credits are in the individual files** <br> <br>
 **I am not responsbile for any problems that arise associated with this repository. It's your device and you control your own decisions. Links/exploits are not guranteed to be fully safe and not malicious** <br>
-**This repository is also licensed under the MIT license, check the LICENSE file for more information.** 
+**This repository is also licensed under the MIT license, check the LICENSE file for more information.**  <br> <br>
+**Also note to proxy developers: if you believe that I leaked your links, make an issue and I'll take them down asap, I have no intention in leaking private links.**
