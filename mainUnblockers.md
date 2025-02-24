@@ -38,7 +38,7 @@ To find the newly added links in the update, **look for the heading that contain
 ### Feb 23, 2025 - 300+ Links, New sites Szvy Central, Sunset Network
 **To find the newly added WORKING links, look for the label, "Feb 23 links."**
 - 100+ [Space](#space--proxy-games-apps) links
-- New site [Szvy Central](szvy-central--proxy-games-apps) with 100+ links
+- New site [Szvy Central](#szvy-central--proxy-games-apps) with 100+ links
 - 35+ [Shadow](#shadow-browser--web-browser)
 - New site [Sunset Network](#sunset-network--web-browser) with 30+ links
 - 10+ [Emerald](#emerald--proxy-games-apps)
@@ -121,7 +121,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **140+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **135+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Flourishing :100:
 - <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:
-- **100+** [Szvy Central](szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Fresh 😎
+- **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Fresh 😎
 - **275+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
 - **205+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
