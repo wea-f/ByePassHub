@@ -48,6 +48,7 @@ To find the newly added links in the update, **look for the heading that contain
 - More [Arsenic](#arsenic--proxy-games), [Utopia](#utopia--proxy-games-ai), and one more [Light](#light--proxy-games-apps)
 - (Feb 24) New site [Radius](#radius) with one link.
 - (Feb 24) Added one more [Nebula](#nebula--proxy-games-apps) link.
+- (Feb 25) New site [DayDream X](#daydream-x--web-browser)
 
 #### Jan 25, 2025 - 300+ Links & New Camouflage Site
 **To find the newly added WORKING links, look for the label, "Jan 25 links."**
@@ -2013,6 +2014,12 @@ Has a trial <br>
 ### Nebula | Proxy and games
 https://spotifyshuffle.com/ <br>
 **Feb 24 Link:** https://librarymath.homes/en_US/ <br>
+
+### Daydream X
+#### Web browser, with new stuff coming soon.
+#### (Credits to rando_sando for the links), Feb 25
+https://wwww.studstudio.dev/ <br>
+https://eggiecar.xyz/ <br>
 
 ## Saturn | Proxy and games
 https://saturn.sibmed.org.ru/ <br>
