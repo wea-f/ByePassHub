@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! - 200 stars!
+## If you like this collection, make sure to star it! - 205 stars!
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
 
@@ -10,6 +10,7 @@ Updates every week, if not daily
 **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
 **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
 **50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
+**Explore Other ways to get proxies:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) or go to the Other ways to get proxies.md file <br>
 
 #### Suggestions, report broken links, or donate a link: Make an issue on the "Issues" tab!
 <!--####  [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing)! <br><br>-->
