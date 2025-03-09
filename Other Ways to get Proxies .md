@@ -1,17 +1,18 @@
-# ByePassHub > Other ways to get Proxies | created Feb 28
+# ByePassHub > Other ways to get Proxies | updated March 8
 ## If you like this list, make sure to star this repository!
 Other Files:<br>
 **Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 ---
 
-Hi, I've noticed that this collection is getting quite popular, this means links are getting blocked faster and faster. Having an archive of links is dangerous and admins can easily copy and paste this list and block them. <br>
-  > Basically, this collection is public to everyone, and it is very easy to access and could be very bad in the wrong hands. <br>
+Hi, I've noticed that this collection is getting quite popular, this means links are getting blocked faster and faster. Having an archive of links is dangerous and admins can easily copy and paste this list and block them (or just block this site). <br>
+  > Basically, this collection is public to everyone, and it is very easy to access, especially to admins. <br>
   
 On this page, I'm going to give you some other resources to find proxies that are hidden to the public eye (the same resources I use to get my links), so <br>
 1. You can get the freshest links that are more likely to be unblocked.
 2. Those links are more likely to stay being unblocked
-3. and I can do less work :)
+3. You can get more links,
+4. and I can do less work :)
 
 ## Resource #1: Proxy Discord Servers
 After joining these servers (make sure you have a discord account first), you can verify and access plenty of links. <br>
