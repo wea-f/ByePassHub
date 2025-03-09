@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Mar 3
+# ByePassHub > Main Links | updated Mar 8
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -24,6 +24,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
+- New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
 - **2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates/changes/log).**
 - 1/25 - Yo, I added 300+ Links - Including Doge, Shadow, Interstellar, and a new site. 
 - 12/25 - **Merry Christmas!** Happy Holidays! Added 400+ links!!  Check the Updates/Changes log.
@@ -36,6 +37,7 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** e.g. Dec 25 Links: <br>
 
 ### March 3, 2025 - Over 200 Links, New sites CanLite and DayDreamX
+- Created [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) page, check it out for more links.
 - 55+ [Rammerhead](#rammerhead--web-browser)
 - New site [CanLite](#canlite--proxy-games) with 45+ links
 - 25+ [Shadow](#shadow-browser--web-browser)
