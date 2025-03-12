@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Mar 8
+# ByePassHub > Main Links | updated Mar 12
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -142,7 +142,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **140+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
 - **140+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **135+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-- <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:
+  <!--- <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:-->
 - **105+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Fresh 😎
 - **300+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
@@ -632,7 +632,7 @@ https://mathstudy.fivepals.com/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Abyss | web browser + games
-#### Status: Ghosted :no_entry_sign:
+#### Status: Ghosted :no_entry_sign: - None of the links work
 https://intoabyss.org/ <br>
 https://vps.intoabyss.org/ <br>
  <br>
@@ -2157,6 +2157,15 @@ http://schoology-math.ekharipati.com.np/ <br>
 
 ### Daydream X | Web browser
 #### Status: Fresh 😎
+**Mar 12 Links (by rando sando):** <br>
+https://blog.devmon.ru/   <br>
+https://prices.rchamberlinwoodworking.com/   <br>
+https://read.robjonesbooks.com/   <br>
+https://call.virtualline.com.ar/   <br>
+https://portal.dgcontexpert.ro/   <br>
+https://support.eroeasy.com/   <br>
+https://pickle-my-pig.pickledpig.ca/ <br> 
+https://buy.viajesflores.com/ <br> <br>
 **Mar 3 Links:** <br>
 https://watch-dexter.now.alsarica.cl/
 https://you-will-watch-dexter.you-will-watch-dexter.poemar.es/
@@ -2279,6 +2288,7 @@ Has a trial <br>
 ### Nebula | Proxy and games
 https://spotifyshuffle.com/ <br>
 **Feb 24 Link:** https://librarymath.homes/en_US/ <br>
+**Mar 12 Link:** https://writingessayepicguide.lol/en_US/ <br>
 
 ## Saturn | Proxy and games
 https://saturn.sibmed.org.ru/ <br>
