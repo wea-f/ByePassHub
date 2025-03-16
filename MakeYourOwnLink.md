@@ -50,7 +50,6 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | Astroid   | Games, Unblocker, Emulators, Apps|`5.161.68.227`        |
 | Artclass | Unblocker, Games, Apps |`198.251.90.4`|
 | Shadow | Web Browser | `104.243.38.18`|
-| Kitty Cat | Proxy, games, apps | `66.94.122.218` |
 | Kazwire |  Proxy, games, apps | `209.222.97.244` |
 | Plexile Arcade | Proxy, games, apps | `216.24.57.1` |
 | Doge Unblocker | Proxy, games, apps | `38.175.196.242`|
