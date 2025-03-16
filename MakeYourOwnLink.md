@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | updated Feb 26
+# ByePassHub > Making your Own Links | updated March 16
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
@@ -29,7 +29,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 	
 	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) so you can create more links in the future.
+	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future.
 	
 4. Press sign-up after filling the boxes, and complete the email activation.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
@@ -56,6 +56,8 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | Rammerhead | Web Browser | `108.181.32.77`|
 | Phantom Games | tons of games |`109.122.46.55`|
 | arsenic | Proxy, Games | `66.179.254.164` |
+| Sunset Network | proxy, games, apps | `5.199.139.218`|
+| Snorlax's Cave | proxy, games, apps | `85.114.138.30`|
 | DayDreamX | Web Browser | `104.243.45.193` |
 | Selenite | tons of games | `65.109.112.222`|
 | *May or may not work:* Tinf0il | Proxy, games, apsp | `129.213.65.72`|
