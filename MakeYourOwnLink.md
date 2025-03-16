@@ -25,13 +25,13 @@ This files includes a guide on how to make your own unblockers! You can do this 
 1. Go to https://freedns.afraid.org/, if it's blocked, try this on another device (you can't put the site through an unblocker, it won't work.)
 2. This is probably your first time, so click "Sign Up for Free." If you already have an account, go to step 5.
 3. Fill out all of the information in the boxes.
-	> For your first and last name, you don't have to put your real name.
+	> For your first and last name, use anything.
 	
 	> For the user ID,  you can put anything, make sure it's unique.
 	
-	> For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future.
+	> **For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future, and its much safer.**
 	
-4. Press sign-up after filling the boxes, and complete the email activation.
+4. Press sign-up after filling the boxes, and complete the email activation. 
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
 	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence.
 
