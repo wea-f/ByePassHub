@@ -32,8 +32,10 @@ This files includes a guide on how to make your own unblockers! You can do this 
 	> **For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future, and its much safer.**
 	
 4. Press sign-up after filling the boxes, and complete the email activation. 
+	> It might get bugged out and have an error. If so, just continue to the next step and sign in there.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
 	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence.
+ > If you haven't already, sign in with your account.	
 
 6. Click a domain link that you would like to use. (e.g. chickenkiller.com)
 	> Make sure to select a domain that is unblocked for you. Domains that have a low popularity are probably unblocked. <br>
