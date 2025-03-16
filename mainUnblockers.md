@@ -1984,7 +1984,7 @@ https://birdyiscute.xyz/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Light | Proxy, Games, Apps
-#### Status: Stable :white_check_mark:
+#### Status: Rebranded to DayDreamX or Space (i don't know which)- check that instead
 **Feb 23 Link** https://light.simpanan.web.id/ <br>
 **Dec 25 Links:** <br>
 https://mathoonvos.fr.co/    <br>
