@@ -31,7 +31,7 @@ Links added in the update are **guranteed** to be working as of that day. <br>
 However, links added in previous updates sometimes **stops working** after a while. <br>
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** e.g. Dec 25 Links: <br>
 
-### March 24, 2025 - 175+ Links! New site Gimkit
+### March 24, 2025 - 175+ Links! New site Gimkit, Meximath
 - NEW [Gimkit](#gimkit--proxy) site with 30+ links
 - 65+ [Space](#space--proxy-games-apps)
 - 25+ [DayDreamX](#daydream-x--web-browser)
@@ -41,6 +41,7 @@ To find the newly added links in the update, **look for the heading that contain
 - 5+ [Doge Unblocker](#doge-unblocker--proxy-games-apps)
 - 5+ [Sunset Network](#sunset-network--web-browser)
 - 5+ [Utopia](#utopia--proxy-games-ai)
+- <5 [Meximath](#meximath--proxy-games-apps)
 - 15+ [Shuttle](#shuttle--games-apps-and-proxy), [Artclass](#artclass--games-apps-proxy-and-emulators), [Tinf0il](#tinf0il--games-proxy-apps)
 
   
@@ -177,6 +178,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 40+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
 - 10+ [Core](#core--proxy) - Proxy | Status: Unstable 😐
 - 5+ [Acceleration](#acceleration--proxy-games-apps) - Proxy, Games, Apps | Status: Fresh 😎
+- <5 [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Status: Fresh 😎
 - <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
 - <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
 - [1-2 link sites](#sites-with-1-2-links) - 12+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
@@ -2451,6 +2453,13 @@ Click "Rhodium" to search. <br>
 **NEW** https://rj7wzq-8080.csb.app/<br>
 **NEW** https://rfvfrc-2000.csb.app/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+### Meximath | Proxy, games, apps
+It also has useful tools. <br>
+https://mexi.lol/ <br>
+https://gtag.club/ <br>
+https://mexi.rest/ <br>
+https://utauloid.space/ <br> <br>
 
 ### Incognito | Proxy, Games, Apps 
 #### Status: Stable :white_check_mark:
