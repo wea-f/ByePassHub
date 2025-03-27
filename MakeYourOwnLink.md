@@ -7,9 +7,8 @@ This files includes a guide on how to make your own unblockers! You can do this 
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
 + **Make sure to have a Github account for the deployment options below!!**
 + [Deploying via Vercel](#make-links-with-vercel)
-+ [Deploying via Cyclic](#make-links-with-cyclic)
 + [Deploying via Render](#make-links-with-render)
- #### (COMING SOON) Deploying with providers like Vercel, Render, Cyclic, and Glitch
+ #### (COMING SOON) Deploying with providers like Glitch and Netlify
  
  ### Other files:
 **Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
@@ -85,26 +84,6 @@ Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
 3. In the "Create Git Repository," enter the repository name that will be linked to your unblocker, it can be anything.
 4. Click "Create"
 5. After a few moments, go to the link that you just created, which should be (repositoryName).vercel.app
-
-### Make links with Cyclic
-1. Go to `app.cyclic.sh/`
-2. Login with Github, sign up with github if you don't have an account.
-3. Link: app.cyclic.sh/api/app/deploy/`repositorynamefiller`
-4. The repository name filler should be replaced with one of the following of your choice (you can find your own too):
-	> Interstellar: `InterstellarNetwork/Interstellar` <br>
- 	> Snorlax's Cave: `Snorlaxs-Cave/Snorlaxs-Cave-v2` <br>
- 	> Artclass: `art-class/v4` <br>
- 	> Utopia: `UtopiaUnblocker/Utopia` <br>
-    	> Abyss Web: `AbyssServices/Abyss-Web` <br>
- 	> Astroid: `VyperGroup/astroidv3` <br>
- 	> Shuttle: `shuttlenetwork/shuttle` <br>
- 	> Tinf0il: `Aluminum-Depot/Tinf0il-new` <br>
-  	> Doge Unblocker: `dogenetwork/v4` <br>
-      	> Shadow Tabbed: `https://github.com/xnightless/Shadownetwork` <br>
-5. Example: app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle for a shuttle deployment, go to that link.
-6. Follow the instructions on the webpage, if it has an error, "Unathorized," make sure to sign in with github on step 1.
-7. Press "Connect", and you will need to confirm it with github.
-8. Continue following the directions, it's pretty straightforward, and the deployed link will be at the bottom once you finish!
 
 ### Make links with Render
 (coming soon!)
