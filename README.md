@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! - 220 stars!
+## If you like this collection, make sure to star it! - 230 stars! ⭐
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 
