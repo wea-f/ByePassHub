@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Mar 24
+# ByePassHub > Games | updated Mar 27
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 
@@ -14,6 +14,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
   - 3kh0: [here](#3kh0--recommended)
   - *Google Sites:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#google-sites--recommended)
   - *Jordan's Math Work:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#jordans-math-work)
+  - Vafor IT: [here](#vafor-it) - It has ads, be careful!
   - Shell Shockers (30+): [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#shell-shockers-alternatives-credit)
   - **Minecraft:** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#minecraft)
   - Chess: [here](#chess)
@@ -534,7 +535,13 @@ https://ohnoasweaty.fortnitebuilder.pro/ <br>
 <br>
 
 **^ Back to [top ^](#table-of-contents)**
- 
+
+### Vafor IT
+**Has intrusive ads, hopefully you have an ad blocker**
+https://maxwellstevenson.com <br>
+https://ph4xus.github.io <br>
+https://phexus.bitbucket.io <br>
+https://phexus.netlify.app <br>
 
 ### Schoology
 
