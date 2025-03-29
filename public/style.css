@@ -1,0 +1,40 @@
+.navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: inline-block;
+}
+
+.navlink {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navlink:hover,
+.logo:hover {
+    background-color: #111;
+}
+
+nav {
+    display: block;
+    background-color: #333;
+    margin: auto;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+.logo {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
