@@ -20,7 +20,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
   - Chess: [here](#chess)
   - 1v1.LOL (10+): [here](#1v1lol)
   - Vortex Math: [here](#vortex-math--main-password-126711-games-password-649290-there-is-also-a-soundboard)
-  - Plexile Arcade (15+): [here](#plexile-arcade)
+  - Plexile Arcade (20+): [here](#plexile-arcade)
 - Hydra: [here](#hydra)
 * **Game Hubs with less than 1-2 links:**
   - *Lich:* [here](#lich)
@@ -814,6 +814,13 @@ https://vortexmath.my.canva.site/_password <br>
  
 
 ### Plexile Arcade
+**4/5 Links** <br>
+rizz.digitalhemi.com <br>
+ohiorizzler.thisiscoolt.com <br>
+cgrrccgrvffgcfgcgcrg.mooo.com <br>
+datnon.charbel.cl <br>
+lightspeediscool.com <br>
+datnon.charbel.cldatnon.charbel.cl <br> <br>
 **Mar 24 Links** <br>
 https://schoology.plazik.pl/ <br>
 https://helloguys.plazik.pl/ <br>
