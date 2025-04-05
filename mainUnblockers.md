@@ -88,14 +88,6 @@ To find the newly added links in the update, **look for the heading that contain
 - 5+ [Rammerhead](#rammerhead--web-browser)
 - More [Arsenic](#arsenic--proxy-games), [Utopia](#utopia--proxy-games-ai), and one more [Light](#light--proxy-games-apps)
 
-#### Jan 25, 2025 - 300+ Links & New Camouflage Site
-**To find the newly added WORKING links, look for the label, "Jan 25 links."**
-- **170+** [Shadow](#shadow-browser--web-browser)
-- **70+** [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- **55+** [Doge Unblocker](#doge-unblocker--proxy-games-apps)
-- 10+ [Emerald](#emerald--proxy-games-apps)
-- New Site [Camouflage](#camouflage--proxy-games-apps)
-
 <!--
 #### Dec 25, 2024 - 400+ Links & New **Space** site 
 **To find the newly added links, look for the label, "Dec 25 links."**
