@@ -43,6 +43,8 @@ This files includes a guide on how to make your own unblockers! You can do this 
 8. Enter the name of the subdomain, it can be anything. (subdomainName.chosenDomain.com)
 9. For the destination, it depends on what unblocker you want to use. You can try to googling it or joining discord servers, here is a helpful table I created:
 
+   	> Some may not work. Try another if it doesn't work.
+
 | Unblocker   |  Type | IP Destination |
 | ----------- | ----------- | ------- |
 | Abyss     | Web browser|`5.161.43.35`     |
