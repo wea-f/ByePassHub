@@ -31,13 +31,16 @@ Links added in the update are **guranteed** to be working as of that day. <br>
 However, links added in previous updates sometimes **stops working** after a while. <br>
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** e.g. Dec 25 Links: <br>
 
-### April 5, 2025 - 500+ Links! (300+ Shadow)
-- **300+** [Shadow]()
-- **100+** [Interstellar]()
-- 60+ [Rammerhead]()
-- 35+ [Utopia]()
-- 15+ [Meximath]()
-- 10+ [Space]() and [Daydreamx]
+### April 5, 2025 - 550+ Links! (300+ Shadow)
+- **330+** [Shadow](#shadow-browser--web-browser)
+- **100+** [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
+- 60+ [Rammerhead](#rammerhead--web-browser)
+- 35+ [Utopia](#utopia--proxy-games-ai)
+- 15+ [Meximath](#meximath--proxy-games-apps)
+- 10+ [Space](#space--proxy-games-apps) and [Daydreamx](#daydream-x--web-browser)
+- New site [Purified](#purified--proxy-games-apps) with 1 link
+- 15+ [Sunset Network](#sunset-network--web-browser), [Emerald](#emerald--proxy-games-apps)
+
 ### March 24, 2025 - 175+ Links! New site Gimkit, Meximath
 - NEW [Gimkit](#gimkit--proxy) site with 30+ links
 - 65+ [Space](#space--proxy-games-apps)
@@ -194,6 +197,97 @@ https://web.surfskip.com/en/room <br>
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 #### Status: Flourishing :100:
 https://gointerstellar.app <br> 
+**4/5 Links (100+)** <br>
+https://www.lunchly20.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://lunchly218.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://www.lunchly989898989898989898989.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://lunchly225.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://kyrsutesrkydyrfkt.laviewddns.com <br>
+https://kleep.webs.vc <br>
+https://ukyebgwlcvj.easterndns.com <br>
+https://tryinterstellar.today.nard.ca <br>
+https://lunchly160.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de <br>
+https://phosphorus.beekers.eu <br>
+https://www.des.androgen.eth64.de <br>
+https://lunchly191.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://pvhschool.jumpingcrab.com <br>
+https://idontlikemychessedrippylilbrooh.ytyt.kozow.com <br>
+https://wo-lf-unblox-cker.math1.4cloud.click <br>
+https://bvqazxgpao.jasems.com <br>
+https://www.lunchly697.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://iuewkgfbvakludg.swanndvr.net <br>
+https://lunchly100.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de <br>
+https://what-is-interstellar-all-i-know-is-linewize.easterndns.com <br>
+https://www.kuasyfliab.udp64.de <br>
+https://lunchly116.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://matsusakaed.easterndns.com <br>
+https://lunchly48-i-like-my-cheese-bruh.wolunbox.math1.4cloud.click <br>
+https://studiolearngeo.estudioferrer.com <br>
+https://schooglgyly.jumpingcrab.com <br>
+https://lunchly27.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://hiyu37.easterndns.com <br>
+https://athletics.hitremixes.com <br>
+https://late-heart-d70f.ft64yyup.wor.ytyt.kozow.com <br>
+https://toike.easterndns.com <br>
+https://wo-if-unblo-ck.math1.4cloud.click <br>
+https://hiyu17.easterndns.com <br>
+https://i-like-my-cheese-drippy-bruh.bruh.ytyt.kozow.com <br>
+https://matcha-a1.ddo.jp <br>
+https://lunchly87.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://i-like-my-chesse-drippy-bruh.donburistellar.dyndns64.de <br>
+https://lunchly59.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://www.lunchly106.i.like-like-my-cheese-drppy-bruh.donburistellar.dyndns64.de <br>
+https://kokoa-6.easterndns.com <br>
+https://lunchly62.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://80.theartieschaffer.com <br>
+https://lunchly-1.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de <br>
+https://lunchly200.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de <br>
+https://wo-if-unb-ock.math1.4cloud.click <br>
+https://it.would.be.nice.dreaming.agslofdalgezina.co.za <br>
+https://lunchly187.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://lunchy91.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://stopwith.thewaterbro.pakasak.com <br>
+https://i-like-my-heese-drippy-druh.ytyt.kozow.com <br>
+https://orientation.nex.sh <br>
+https://ethan-is-handsome.donburistellar.dyndns64.de <br>
+https://lunchly10.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://www.3.theartieschaffer.com <br>
+https://nikkori.laviewddns.com <br>
+https://subscribe-to-the-yt.wo-lf-unbl-ock.math1.4cloud.click <br>
+https://www.89.theartieschaffer.com <br>
+https://yvymfwolunblox.math1.4cloud.click <br>
+https://www.lunchly109-i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://okman.jeesbox.com <br>
+https://www.loganpual.lunchly22.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://use.pastnote.org <br>
+https://47.theartieschaffer.com <br>
+https://ohilikejeanman.donburistellar.dyndns64.de <br>
+https://lunchly96.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://hiyu28.easterndns.com <br>
+https://www.94.theartieschaffer.com <br>
+https://tk-freenom1.websepeti.tk <br>
+https://www.vsigma.s.9thballs.camdvr.org <br>
+https://rvaypjbmka.ciprianman.net <br>
+https://lunchly82.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://www.lunchly12i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://www.p.theartieschaffer.com <br>
+https://www.i-like-cheese-drippy-bruh.wolunblox.math1.4cloud.click <br>
+https://forhaydenalgebra.decharacter.com <br>
+https://lowtaperfade.meme.interselar.ytyt.kozow.com <br>
+https://6.theartieschaffer.com <br>
+https://lunchly118.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de <br>
+https://i-lilke-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://lunchy22.i-like-my-cheesee-drippy-bruh.ytyt.kozow.com <br>
+https://shadow0125.easterndns.com <br>
+https://lunchly4.i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://go.and.jo.photo-frame.com <br>
+https://suuuuusuooo.easterndns.com <br>
+https://lunchly1000.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de <br>
+https://www.14-i-like-my-cheese-drippy-bruh.ytyt.kozow.com <br>
+https://stellar.rc-1140.infinityfreeapp.com <br>
+https://luchly209.i-like-my-cheese-dripy-bruh.ytyt.kozow.com <br>
+https://keito.swanndvr.net <br>
+https://vp.k.vu <br> <br>
 **Mar 24 Links:** <br>
 https://prestonhitgrandmasterinyorkmate.tice-industries.com/ <br>
 https://helpmeget.root.sx/ <br>
@@ -750,6 +844,338 @@ https://www.education.tennis.fennis.tk/   <br>
 
 ### Shadow Browser | web browser
 #### Status: Flourishing :100: 
+**4/5 Links (330+)** <br>
+https://the.justlearning.net/ <br>
+https://wethegay.patelmortgage.com/ <br>
+https://menarehotforme.taiwansemicon.org/ <br>
+https://wewantcookies.misexamenes.cl/ <br>
+https://topdown.robtop.xyz/ <br>
+https://topyea.robtop.xyz/ <br>
+https://chaotic-guest-chance.gayler.uk/ <br>
+https://ok.giftofappetite.com/ <br>
+https://weneedlove.keshavbashyal.com.np/ <br>
+https://peakisbestathelppeople.vandergriftpolice.com/ <br>
+https://hardalgebraproblems.thebrittainlawfirm.com/ <br>
+https://zxyp.02.garmanage.com/ <br>
+http://4.socchanpxy.f5.si <br>
+https://www.ybsnc5nwrayqfgz7z7ulv.mathmathmath.ipv64.net <br>
+https://nc.is-now-gay.online <br>
+https://aphqojn3m3735fl5f52nv83.hreeer.lan64.de <br>
+https://portal.app.shadiw.lan64.de <br>
+https://www2010-1f6bw4j.edu.ooguy.com <br>
+https://wwwapp.dash.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://apzvolyortal.inbux.home64.de <br>
+https://niggerman6000.ssssssssssssshadow.home64.de <br>
+https://ap.ass.shadowshark.ipv64.net <br>
+https://app.pp.shadowshark.ipv64.net <br>
+https://au.kalani.shadowshark.ipv64.net <br>
+https://cb-gclb-test-prob.ohxocwwwlogin.shadowshark.ipv64.net <br>
+https://djkxtapp.app.united-arrowmoney.nas64.de <br>
+https://ugwcscanc0fe252b4f120ca3c18978339cc8b23c.wwwportal.karin.nas64.de <br>
+https://gomibako.easterndns.com <br>
+https://sapp.ssssssssssssshadow.home64.de <br>
+https://school-is-fun-ipv64.info.gf <br>
+https://aubreythegoat.shadowshark.ipv64.net <br>
+https://christopherratliff.shadowshark.ipv64.net <br>
+https://goats.linco.cl <br>
+https://portal.www.ssssssssssssshadow.home64.de <br>
+https://wwwportral.shadowwwwwww.home64.de <br>
+https://port8.kage5.any.ipv64.net <br>
+https://unudersea.shadowshark.ipv64.net <br>
+https://ugwcscand3d32134bb2cc94bd34bde9578960b86.www.karin.nas64.de <br>
+https://b0oqp4lcca12psyk18labup2rztiltdh.frii.site <br>
+https://www.5nwriq7z7uiv.mathmathmath.ipv64.net <br>
+https://jdjkjdsfhkjhfversufrhywga.ssssssssssssshadow.home64.de <br>
+https://wnwraiqfgz7z7uiv.mathmathmath.ipv64.net <br>
+https://apbi-preview.edu.ooguy.com <br>
+https://ulvstportal.shadowbrowser.duckdns.org <br>
+https://www.portal.dont-let-securly-block-this.duckdns.org <br>
+https://apjr.ssssssssssssshadow.home64.de <br>
+https://portal.app.shadow-tabbed-tabbed.home64.de <br>
+https://andrei-iz-cooler.i-wapala.iot64.de <br>
+https://zhfeijoa.kage4.any.ipv64.net <br>
+https://apbi-preview.edu.ooguy.com <br>
+https://app.ap2012-2275207.edu.ooguy.com <br>
+https://portal.otexistseduard.edu.ooguy.com <br>
+https://scienceandmath.us.to <br>
+https://testin-lol.edgeindustries.co.uk <br>
+https://dev.nb.shadowshark.ipv64.net <br>
+https://portal.whgokportal.hreeer.lan64.de <br>
+https://www.hjtbkapnotexistseduard.edu.ooguy.com <br>
+https://www.p2012-s7c110539h.edu.ooguy.com <br>
+https://www.vsproj15.edu.ooguy.com <br>
+https://nvjxqapp.wwwportal.obierutarouuu.vpn64.de <br>
+https://www.apsosoyak.socchanpxy.f5.si <br>
+https://app.app.ssssssssssssshadow.home64.de <br>
+https://panel.app.shadowbrowser.ipv64.net <br>
+https://www.5nwralqfgz7z7uiv.mathmathmath.ipv64.net <br>
+https://www.iansigma101.shadowshark.ipv64.net <br>
+https://protal.app.hreeer.lan64.de <br>
+https://tylerlicksmyballseveryday.hhh.nas64.de <br>
+https://app.emo.edu.ooguy.com <br>
+https://pbigdata.edu.ooguy.com <br>
+https://www.wwwwwwanalyze.edu.ooguy.com <br>
+https://aabbccdd.thebrittainlawfirm.com <br>
+https://niceonmate.chickenkiller.com <br>
+https://1.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://portal.au.shadowbrowser.duckdns.org <br>
+https://b.socchanpxy.f5.si <br>
+https://app.au.shaaaaaaaaaaadow.home64.de <br>
+https://app.wwwapp.shadow-tabbed-tabbed.home64.de <br>
+https://au.z.shadowshark.ipv64.net <br>
+https://canmerin.shadowshark.ipv64.net <br>
+https://panel.green.shadowbrowser.ipv64.net <br>
+https://sandwich.kage4.any.ipv64.net <br>
+https://app.013-10052556-d.edu.ooguy.com <br>
+https://e.as.shadowshark.ipv64.net <br>
+https://www.camerin.shadowshark.ipv64.net <br>
+https://www.vjfsgadmn.edu.ooguy.com <br>
+https://www.we.neptune-z3.home64.de <br>
+https://portil.kage4.any.ipv64.net <br>
+https://www.mhtsmortal.edu.ooguy.com <br>
+https://anythinghere.hehege.vpn64.de <br>
+https://eduu.anjumanallana.in <br>
+https://wwwaprandom.proxy-creator-shadow-browser-2.duckdns.org <br>
+https://www.ga5.ssssssssssssshadow.home64.de <br>
+https://www.wwwportral.shadowwwwwww.home64.de <br>
+https://alcap2.edu.ooguy.com <br>
+https://daddydylanontop.vivandex.com <br>
+https://gem.cychengda.com <br>
+https://dibbuportal.vs-amx-6.edu.ooguy.com <br>
+https://www.notexistseduinfo.edu.ooguy.com <br>
+https://run.admain.cl <br>
+https://www.bhjhgghgfc.shadowshark.ipv64.net <br>
+https://nationalpledgetoamerica.infinite.k.vu <br>
+https://www.shadowshark.discovered-procy.lan64.de <br>
+https://monkeystuff2.monkeyconveyancing.net.au <br>
+https://www.apea.shafow.wan64.de <br>
+https://app.wwwwwwgitlab.zaydstillhasbraindamage.duckdns.org <br>
+https://wsertyhuj.skrt.f5.si <br>
+https://mw.ark.shadowshark.ipv64.net <br>
+https://portal.apai.shadowshark.ipv64.net <br>
+https://www.login.shadowshark.ipv64.net <br>
+https://ww.notexistsblogpbl.edu.ooguy.com <br>
+https://scaredofthedark.radarvision.co.za <br>
+https://help.billigerhost.com <br>
+https://ww.proxy-creator-shadow-browser-3.duckdns.org <br>
+https://wwwportal.dontdrinkthekoolaid.duckdns.org <br>
+https://aaoqvwww.srgtrhtrhrt.shadowshark.ipv64.net <br>
+https://partal.kage2.any.ipv64.net <br>
+https://portol.kage2.any.ipv64.net <br>
+https://zufbeawio.kage4.any.ipv64.net <br>
+https://mw.notexistseduinfo.edu.ooguy.com <br>
+https://wwwapp.alcap1.edu.ooguy.com <br>
+https://mathhelperre-mathew-ipv64.root.sx <br>
+https://swing.swinco.cl <br>
+https://www.apea.shadowshadowshadow.root64.de <br>
+https://wwwapp.tcp.edu.ooguy.com <br>
+https://www.apotexistschat.edu.ooguy.com <br>
+https://www.kmqn00.socchanpxy.f5.si <br>
+https://www.kg-173aval3e0guh.socchanpxy.f5.si <br>
+https://www.apau.shaaaaaaaaaaadow.home64.de <br>
+https://notmyproblem.shadowshark.ipv64.net <br>
+https://apfree.shadowshark.ipv64.net <br>
+https://portal.app.maebashil-gatenet.ipv64.net <br>
+https://app.ijcuf013-2329362.edu.ooguy.com <br>
+https://fviywwww2012-s7c115439h.edu.ooguy.com <br>
+https://wwwwww.alcap1.edu.ooguy.com <br>
+https://app.notexistswwwwww.proxy-creator-shadow-browser-2.duckdns.org <br>
+https://app.wwwwwwau.shadowbrowser.duckdns.org <br>
+https://apqlmlcapotexistsavs-amx-6.edu.ooguy.com <br>
+https://apwwapsuperset.edu.ooguy.com <br>
+https://portal.ybpeosimmsons.edu.ooguy.com <br>
+https://www.wwdevelopment-agent.edu.ooguy.com <br>
+https://shadowisthegoat.veronicabazan.cl <br>
+https://hikkxntelligence.edu.ooguy.com <br>
+https://www.wwdevelopment-agent.edu.ooguy.com <br>
+https://portal.app.shafow.wan64.de <br>
+https://apportal.inbux.home64.de <br>
+https://www.apau.shaaaaaaaaaaadow.home64.de <br>
+https://ant.shadowshark.ipv64.net <br>
+https://we.ap30.shadowshark.ipv64.net <br>
+https://we.test.mumei.ipv64.net <br>
+https://www.84238.shadowsharker-by84238.ipv64.net <br>
+https://wwwwww.alcap1.edu.ooguy.com <br>
+https://app.notexistswwwwww.proxy-creator-shadow-browser-2.duckdns.org <br>
+https://www.kg-173aval3e0guh.socchanpxy.f5.si <br>
+https://cacoon.ikoona.com <br>
+https://notmyproblem.shadowshark.ipv64.net <br>
+https://portal.app.maebashil-gatenet.ipv64.net <br>
+https://www.test.mumei.ipv64.net <br>
+https://ywddpunderthesa.shadowshark.ipv64.net <br>
+https://wwwportal.app.shafow.wan64.de <br>
+https://apfree.shadowshark.ipv64.net <br>
+https://apvjfsgodmn.edu.ooguy.com <br>
+https://app.ramme23u.route64.de <br>
+https://shadowisthegoat.veronicabazan.cl <br>
+https://wwwwww.bulletin.edu.ooguy.com <br>
+https://wwwpreprod.ai.edu.ooguy.com <br>
+https://niger.app.hhh.nas64.de <br>
+https://appbi-preprod.edu.ooguy.com <br>
+https://wcugwwww.app.shadowwwwwww.home64.de <br>
+https://app.dumltwww2012-2254934.edu.ooguy.com <br>
+https://train.kage4.any.ipv64.net <br>
+https://app.superset.edu.ooguy.com <br>
+https://makingmatheticsfun.ostrovsky.sk <br>
+https://apeu.shafow.wan64.de <br>
+https://app.ai.edu.ooguy.com <br>
+https://testaaa.drgd.accesscam.org <br>
+https://www.yuxelapau.shafow.wan64.de <br>
+https://app.test.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://flowise-uat.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://as.z.shadowshark.ipv64.net <br>
+https://jp.app.shadowbrowser.ipv64.net <br>
+https://portal.naniwositennnou.ipv64.net <br>
+https://www.asq.shadowshark.ipv64.net <br>
+https://www.eli.shadowshark.ipv64.net <br>
+https://www.osof.mumei.ipv64.net <br>
+https://zyhefuji.kage4.any.ipv64.net <br>
+https://www.apwwwapeduinfo.edu.ooguy.com <br>
+https://portal.mw.shadowbrowser.duckdns.org <br>
+https://fghjhgfvbnbgfvbhgfvbgvb.shadowshark.ipv64.net <br>
+https://wwuwuhdiauhw.kage1.any.ipv64.net <br>
+https://www.portal.karin.nas64.de <br>
+https://app.notexistskumc.edu.ooguy.com <br>
+https://www.vhwxuotexistedu-0-4802p-4.edu.ooguy.com <br>
+https://wwwjenkins.zaydstillhasbraindamage.duckdns.org <br>
+https://h.ssssssssssssshadow.home64.de <br>
+https://www.securley-is-getting-more-powerful.i-wapala.iot64.de <br>
+https://app.a.shadowshark.ipv64.net <br>
+https://www.hashiyu916-shadow.ipv64.net <br>
+https://www.ibi.edu.ooguy.com <br>
+https://www.wwargo.edu.ooguy.com <br>
+https://app.bbbb.shadowshark.ipv64.net <br>
+https://www.mtfgyvjdsgadmin.edu.ooguy.com <br>
+https://as.portal.proxy-creator-shadow-browser-2.duckdns.org <br>
+https://au.we.neptune-z3.home64.de <br>
+https://2deep.kage4.any.ipv64.net <br>
+https://ace.shadowshark.ipv64.net <br>
+https://apas.shafow.wan64.de <br>
+https://portal.app.dontdrinkthekoolaid.duckdns.org <br>
+https://eu.united-arrowmoney.nas64.de <br>
+https://012-2254942.edu.ooguy.com <br>
+https://portal.p2012-254939.edu.ooguy.com <br>
+https://undermorgan.shadowshark.ipv64.net <br>
+https://wwwkumc.edu.ooguy.com <br>
+https://app.jenkins.bebanndakorou-scandj.accesscam.org <br>
+https://app.qa-jenkins.bebanndakorou-scandj.accesscam.org <br>
+https://portal.apportal.neptune.dns64.de <br>
+https://wqfyxundersea.shadowshark.ipv64.net <br>
+https://au.p2012-s7c115439h.edu.ooguy.com <br>
+https://xlymqc3a8a525b220.a.ggsd.f5.si <br>
+https://u-tann4.i-wapala.iot64.de <br>
+https://app.kagakurepoto.darui.ipv64.net <br>
+https://eua.shadowshark.ipv64.net <br>
+https://we.portal.qaxwfshe.ipv64.net <br>
+https://app.hhbfzavsproj1s.edu.ooguy.com <br>
+https://eight.ssssssssssssshadow.home64.de <br>
+https://lowkypr0x.info.gf <br>
+https://pertel.kage4.any.ipv64.net <br>
+https://gwwnqportal.wwwwww.shadow.nas64.de <br>
+https://wwwportal.notexistsedu-0-4802p-4.edu.ooguy.com <br>
+https://app.app.obierutarouuu.vpn64.de <br>
+https://portal.obierutarouuu.vpn64.de <br>
+https://www.but-over-time-securley-got-more-powerful.i-wapala.iot64.de <br>
+https://www.opnotexistsalcapl.edu.ooguy.com <br>
+https://diddyparty.ssssssssssssshadow.home64.de <br>
+https://portal.wwwdashboard.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://www.www.ssssssssssssshadow.home64.de <br>
+https://amisdookiebutt.app.hhh.nas64.de <br>
+https://apeta-flowise.edu.ooguy.com <br>
+https://portal.est-bi.edu.ooguy.com <br>
+https://4.tenderproai.com <br>
+https://www.apwwwm.edu.ooguy.com <br>
+https://www.otexistedu-0-480-4.edu.ooguy.com <br>
+https://rctproxy-shadow.laviewddns.com <br>
+https://app.dsscnniv25.edu.ooguy.com <br>
+https://notexistsavs-amx-6.edu.ooguy.com <br>
+https://cartel.kage4.any.ipv64.net <br>
+https://bi.edu.ooguy.com <br>
+https://wwwportal.notexistsmath.edu.ooguy.com <br>
+https://crec.abatek.com <br>
+https://portal.apportal.inbux.home64.de <br>
+https://kiondzdsscwwwanniv25.edu.ooguy.com <br>
+https://www.opp.edu.ooguy.com <br>
+https://5nwraiqfgzzuiv.mathmathmath.ipv64.net <br>
+https://eron2.ipv64.net <br>
+https://jshaff.app.shadowbrowser.ipv64.net <br>
+https://www.evelopment-ai.edu.ooguy.com <br>
+https://www.wwwbiostats-apkumc.edu.ooguy.com <br>
+https://as.apportal.majimekun.dynipv6.de <br>
+https://as.portal.qaxwfshe.ipv64.net <br>
+https://bigback.kage4.any.ipv64.net <br>
+https://avans.lakeballs.fi <br>
+https://www.iz8vpz2p8slqlnfu.edu.ooguy.com <br>
+https://xn02bg-553c8a7rubga8d4fza5ixe.socchanpxy.f5.si <br>
+https://5nwrniqfgz7z7ulv.mathmathmath.ipv64.net <br>
+https://portal.eron2.ipv64.net <br>
+https://yoop.jellyfl1x.es <br>
+https://ea.notexistseduinfo.edu.ooguy.com <br>
+https://portal.flowise.edu.ooguy.com <br>
+https://vend.ventapel.com <br>
+https://au.portal.hehege.vpn64.de <br>
+https://thisisschoologytrust983744.metropolitanstaffingsolutions.com <br>
+https://ej.kage4.any.ipv64.net <br>
+https://wduhwigdhisfd.as.shadowshark.ipv64.net <br>
+https://www.ryoikitenkai.shadowshark.ipv64.net <br>
+https://abcdefghijklmnopqrstuvwxyz.myok.eu <br>
+https://2012-2254949.edu.ooguy.com <br>
+https://wwwwww.chat.edu.ooguy.com <br>
+https://we.proxy-creator-shadow-browser-2.duckdns.org <br>
+https://13as.shadowshark.ipv64.net <br>
+https://app.dwayddstewart.shadowshark.ipv64.net <br>
+https://app.gomen.hyakuenagerukarayurusite.ipv64.net <br>
+https://tayloradams.shadowshark.ipv64.net <br>
+https://www.wwwwwwen.shadowshark.ipv64.net <br>
+https://nwtnndumltwww2012-2254934.edu.ooguy.com <br>
+https://app.wwwportal.dont-let-securly-block-this.duckdns.org <br>
+https://www.apdashs.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://5nrwaiqz7z7uiv.mathmathmath.ipv64.net <br>
+https://baby.as.shadowshark.ipv64.net <br>
+https://jk.shadowshark.ipv64.net <br>
+https://app.www2013-2329362.edu.ooguy.com <br>
+https://ygwtkwwuat.bi.edu.ooguy.com <br>
+https://portal.mw.shadowshadowshadow.root64.de <br>
+https://js.app.shadowbrowser.ipv64.net <br>
+https://www.du-0-4802p-4.edu.ooguy.com <br>
+https://www2012-6c014156h.edu.ooguy.com <br>
+https://ale.shadowshark.ipv64.net <br>
+https://eu.sadowdayo11.ipv64.net <br>
+https://frwcgwwwapp.zhkljffgh.nas64.de <br>
+https://app.wwwbigdata.edu.ooguy.com <br>
+https://portal.otexists2012-s7c115439h.edu.ooguy.com <br>
+https://portal.login.hhhhj.route64.de <br>
+https://www.243234234234.shafow.wan64.de <br>
+https://portal.nissi-gomi.skrt.f5.si <br>
+https://dwayystewart.shadowshark.ipv64.net <br>
+https://www.ugwcscan66c1a50a548215b05f8f94f8b00726e3.zhkljffgh.nas64.de <br>
+https://apwe.mercury.any64.de <br>
+https://www2012-2254934.edu.ooguy.com <br>
+https://portal.eu.neptune-z3.home64.de <br>
+https://app.aop.shadowshark.ipv64.net <br>
+https://www.apu.shadowshark.ipv64.net <br>
+https://www2012-2254947.edu.ooguy.com <br>
+https://dont-use-shadow-in-ms-clem.i-wapala.iot64.de <br>
+https://i.uat.edu.ooguy.com <br>
+https://portal.jfcshz10btfm5h14t6beq.hghbb.lan64.de <br>
+https://portal.notexiststcp.edu.ooguy.com <br>
+https://pg7.port0.org <br>
+https://app.lakgke.tcp64.de <br>
+https://ncisthehostof.thediddy.party <br>
+https://dxkcmorqoowwwportal.obierutarouuu.vpn64.de <br>
+https://puropuro.easterndns.com <br>
+https://portal.mathmathmath.ipv64.net <br>
+https://www.wwbl.edu.ooguy.com <br>
+https://4kaomdf1.ints.f5.si <br>
+https://vogomwww.ata.edu.ooguy.com <br>
+https://www.hwcqpwwnotexistsblogpbl.edu.ooguy.com <br>
+https://app.dayodayo-only.udp64.de <br>
+https://trucks.autoluc.cl <br>
+https://mw.wwwapp.proxy-creator-shadow-browser-1.duckdns.org <br>
+https://wcugwwww.shadowwwwwww.home64.de <br>
+https://eu.5nwraiqfgz7z7uv.mathmathmath.ipv64.net <br>
+https://portal.spedslavebuse.shadowshark.ipv64.net <br>
+https://pg17.macrofox.org <br> <br>
 **March 24 Links** <br>
 https://trylearning.bsfa.info/ <br>
 https://il-whe-psv.autoluc.cl/ <br>
@@ -1126,6 +1552,48 @@ https://searchplayground.google/ <br> <br>
 
 ### Rammerhead | Web Browser
 #### Status: Flourishing :100: 
+**4/5 Links** <br>
+https://bandogsfrom.peeinthesnow.com/ <br>
+https://pirate.wildsurf.net/ <br>
+https://packetyo.nanbang.com.tr/ <br>
+https://holaernesto.triplewipe.ru/ <br>
+https://jdsiojjifjis.oovb.com <br>
+https://mathsfun.undergames.cl/ <br>
+https://schoolnotes.h0rst.us/ <br>
+https://schoolnotes.followork.net <br>
+https://bsd48.tecwagen.cl/ <br>
+https://21312sdrammer23w.hoffer.cx/ <br>
+https://rammerdabest82367.hoffer.cx/ <br>
+https://rammerhead-8.swanndvr.net/ <br>
+https://ezezboi.sgitribuna.com/ <br>
+https://kinemala.webs.vc/ <br>
+https://anthonylikes.hardsoft.nu/ <br>
+https://leandrito.dream.org.il/ <br>
+https://johnpork.fchosting.cl/ <br>
+https://evenbetterjohnpork.fchosting.cl/ <br>
+https://betterjohnpork.fchosting.cl/ <br>
+https://proxy.gjhacked.l5.ca/ <br>
+https://aidansunblocker.r-o-o-t.net/ <br>
+https://officialqmlinkat.gg.azvq4hdt.conifera.cl/ <br>
+https://linkis.gg.backslash.azvq4hdt.conifera.cl/ <br>
+https://flint.and.steeel.conifera.cl/ <br>
+https://andrewyinsucks.conifera.cl <br>
+https://please.work.joe.dj/ <br>
+https://let.me.play.enemyterritory.org/ <br>
+https://vakka.mooo.info/ <br>
+https://chickenbutt.epicgamer.org/ <br>
+https://winnergreenpizza.ospa.fi/ <br>
+https://199199199199.cbu.net/ <br>
+https://ixlstudy.keystoneuniformcap.com/ <br>
+https://jdishim.wolnoscwkieszeni.pl/ <br>
+https://signup.skope.net.au/ <br>
+https://untitledsportsnews.mnlan.net/ <br>
+https://crimsona.soon.it/ <br>
+https://fettywap.star.is/ <br>
+https://run-away.run.place/ <br>
+https://skibidl.toilets.tk/ <br>
+https://urinateontheanusanddefecate.toilets.tk/ <br>
+https://unkomankochinkoanalpooppee.toilets.tk/ <br> <br>
 **Mar 24 Links** <br>
 https://linewizesucks.myclarevision.com/ <br>
 https://gogardiansucks.myclarevision.com/ <br>
@@ -1451,6 +1919,30 @@ https://parkermadethiswebsite.bestsolution.com.np/ <br>
 ### Utopia | Proxy, Games, AI
 #### Status: Stable  :white_check_mark: 
 ##### MORE LINKS IN THEIR DISCORD SERVER (#community-links), https://discord.com/invite/hFZC5cgsmq, CHECK IT OUT.
+**4/5 Links** <br>
+https://empirehsgames.eroeasy.com/ <br>
+https://mathstuff.chickenkiller.com/ <br>
+https://hellohappyworldmcworld123.mooo.com/ <br>
+https://mathsciencelanguagestudieshistoryclasses.masgas.cl/ <br>
+https://iwillfindtheonepiecebeeforyouloseyourvirginity.masgas.cl/ <br>
+https://crimson-moon.twilightparadox.com/ <br>
+https://riceuniversity.texasmath.net/ <br>
+https://pranavdamodara.pixelfucker.com/ <br>
+https://ipadkid.pisz.ro/ <br>
+https://foryou.werder.li/ <br>
+https://science.class.lessons.learning.biology.l5.ca/ <br>
+https://hugohernandez.smelly.cc/ <br>
+https://blog.charbel.cl/ <br>
+https://abcd.tutak.at/ <br>
+https://cameron-is-baka.tutak.at/ <br>
+https://math-learners.feezor.net/ <br>
+https://elijahtheking.ignorelist.com/ <br>
+https://physics.justlearning.net/ <br>
+https://ihaterockwall.amq.li/ <br>
+https://bootlakes.webs.vc/ <br>
+https://popteeeeeeeeeeeeee-utopia-pohaouwehffu.swanndvr.net/ <br>
+https://utopiaproxy.laviewddns.com/ <br>
+https://retardblog.charbel.cl/ <br> <br>
 **Mar 24 links:** <br>
 https://tech.vocab.nucktech.com/ <br>
 https://empirehsgames.eroeasy.com/ <br>
@@ -1545,7 +2037,15 @@ https://void-network.radiodelsur.cl <br>
 
 ### Space | Proxy, Games, Apps
 #### Status: Flourishing 💯 
-##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (It has weeklhy links) 
+##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (It has weekly links) 
+**4/5 Links** <br>
+https://visit.artmuseum.org/ <br>
+https://sso.jaaax.net/ <br>
+https://buy.saas.com.au/ <br>
+https://home.x-narod.ru/ <br>
+https://use.bsfa.info/ <br>
+https://use.gurdit.com/ <br>
+https://use.bsfa.info/ <br> <br>
 **March 24** <br>
 https://sign-in.urmanet.ch/ <br>
 https://blog.hyvernion.com/ <br>
@@ -1808,6 +2308,12 @@ None
 
 ### Sunset Network | Web browser
 #### Status: Stable ✅
+**4/5 Links** <br>
+https://blue.ldtp.com/ <br>
+https://green.ldtp.com/ <br>
+https://purple.ldtp.com/ <br>
+https://red.ldtp.com/ <br>
+https://yellow.ldtp.com/ <br> <br>
 **March 24 Links:** <br>
 https://green.2fine.de/ <br>
 https://blue.8bit.ca/ <br>
@@ -1876,6 +2382,10 @@ https://blue.malam.or.id/   <br>
 
 ### Emerald | Proxy, Games, Apps
 #### Status: Stable :white_check_mark: 
+**4/5 Links** <br>
+https://pig-makes-links.virtualline.com.ar/ <br>
+https://baconator.oovb.com/ <br>
+https://user.leasingindia.com/ <br>
 **Mar 3 Links** <br>
 https://saturnacademy.altgothic.com/<br>
 https://midashasgold.skibiditoi.lat/<br>
@@ -2245,6 +2755,11 @@ https://realestate.casarosalba.com/ <br>
 
 ### Shuttle | Games, Apps, and Proxy 
 #### Status: Unstable :neutral_face:
+**4/5 Links (Bonus)** <br>
+https://warm-lake-753.3kh0.org/ <br>
+https://bright-rain-434.k12biography.com/ <br>
+https://calm-fox-512.diggingtheweb.com/ <br>
+https://calm-fox-701.sz.games/ <br> <br>
 **March 24 Links:** <br>
 https://3kh0.org/ <br>
 https://diggingtheweb.com/ <br>
@@ -2340,6 +2855,16 @@ https://imagineifninjagotalowtaperfade.ramirocroce.com.ar/ <br>
 ### Daydream X | Web browser
 #### Status: Fresh 😎
 ##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (it has weekly links) <br>
+**4/5 Links** <br>
+https://info.hhoiltools.com/ <br>
+https://home.ribolov.lv/ <br>
+https://donate.marathonmatters.ca/ <br>
+https://shop.japhar.com/ <br>
+https://study.ajhurst.org/ <br>
+https://edu.bsfa.info/ <br>
+https://edu.gurdit.com/ <br>
+https://edu.bsfa.info/ <br>
+https://ddxck.rocketpride.com/ <br> <br>
 **Mar 24 Links** <br>
 https://sign-in.urmanet.ch/ <br>
 https://blog.hyvernion.com/ <br>
@@ -2435,11 +2960,26 @@ Click "Rhodium" to search. <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Meximath | Proxy, games, apps
-It also has useful tools. <br>
+#### Status: Fresh 😎
+**4/5 Links** <br>
+https://mexi.jobi.one/ <br>
+https://mexi.my/ <br>
+https://frigginpacketyo.global.ssl.fastly.net/ <br>
+https://frigginpaketyo.global.ssl.fastly.net/ <br>
+https://mexi.register.im/ <br>
+https://mexi.browell.ar/ <br>
+https://mexisigma.ajh.boats/ <br>
+https://mexi.brunys.site/ <br>
+https://mexi.benrogo.net/ <br>
+https://lessons.invisi.vip/ <br>
+https://man.what-in.tf/ <br>
+https://matematyka.politechnika-nova.edu.pl/ <br>
+https://nodiddy.dog/ <br>
 https://mexi.lol/ <br>
 https://gtag.club/ <br>
 https://mexi.rest/ <br>
 https://utauloid.space/ <br> <br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Incognito | Proxy, Games, Apps 
 #### Status: Stable :white_check_mark:
@@ -2512,9 +3052,13 @@ https://saturn.sibmed.org.ru/ <br>
 
 ### 12ft | proxy
 https://12ft.io/ <br>
-
+<!--
 ### Astro | Proxy, Games, Apps
 https://cool.zaz.vhutambo.co.za/static/ <br>
+-->
+
+### Purified | Proxy, Games, Apps
+https://mathproxy.cool.aid.edu.surfnet.ca/ <br>
 
 ### MyAndriod | Unblocked Chrome
 Directions: <br>
