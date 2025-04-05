@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | updated March 17
+# ByePassHub > Making your Own Links | updated April 5
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
@@ -8,7 +8,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 + **Make sure to have a Github account for the deployment options below!!**
 + [Deploying via Vercel](#make-links-with-vercel)
 + [Deploying via Render](#make-links-with-render)
- #### (COMING SOON) Deploying with providers like Glitch and Netlify
+ #### (COMING SOON) Deploying with billigerhost and more!?!?!
  
  ### Other files:
 **Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
@@ -43,6 +43,8 @@ This files includes a guide on how to make your own unblockers! You can do this 
 8. Enter the name of the subdomain, it can be anything. (subdomainName.chosenDomain.com)
 9. For the destination, it depends on what unblocker you want to use. You can try to googling it or joining discord servers, here is a helpful table I created:
 
+   	> Some may not work. Try another if it doesn't work.
+
 | Unblocker   |  Type | IP Destination |
 | ----------- | ----------- | ------- |
 | Abyss     | Web browser|`5.161.43.35`     |
@@ -61,7 +63,8 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | DayDreamX | Web Browser | `104.243.45.193` |
 | Svzy Central | Proxy games apps | `152.53.38.100`|
 | Space | Proxy games apps | `104.243.38.145`|
-| Selenite | tons of games | `65.109.112.222`|
+| Selenite (THIS DOESN'T WORK FOR ME) | tons of games | `65.109.112.222`|
+| Meximath | Proxy games apps tools | `152.53.80.107`|
 | *May or may not work:* Tinf0il | Proxy, games, apsp | `129.213.65.72`|
 | Other unblockers have specific tutorials in their discord servers. To find their discord server, go to the [Proxy Discord Servers section](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md#caution-many-of-these-servers-will-ban-you-for-leaking-leaks-publicly-use-it-for-private-use-only) in the main Unblockers file.  
 
