@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated Mar 24
+# ByePassHub > Main Links | updated April 5
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -19,18 +19,25 @@ This is a collection of links of proxies, games, AI, and apps. <br>
   **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
+- 4/5: 500+ Links, check them out in updates/changes
 - New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
 - **2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates/changes/log).**
 - 1/25 - Yo, I added 300+ Links - Including Doge, Shadow, Interstellar, and a new site. 
 - 12/25 - **Merry Christmas!** Happy Holidays! Added 400+ links!!  Check the Updates/Changes log.
 - 11/5 - **HUGE UPDATE** - Removed ALL non-working links, added **350+** MORE PROXIES, and added *statuses* to each proxy!
-- 6/24 - FULL DOC CLEAN UP (all working links), added **75+ MORE LINKS!**
 
 ## Updates/Changes:
 Links added in the update are **guranteed** to be working as of that day. <br>
 However, links added in previous updates sometimes **stops working** after a while. <br>
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** e.g. Dec 25 Links: <br>
 
+### April 5, 2025 - 500+ Links! (300+ Shadow)
+- **300+** [Shadow]()
+- **100+** [Interstellar]()
+- 60+ [Rammerhead]()
+- 35+ [Utopia]()
+- 15+ [Meximath]()
+- 10+ [Space]() and [Daydreamx]
 ### March 24, 2025 - 175+ Links! New site Gimkit, Meximath
 - NEW [Gimkit](#gimkit--proxy) site with 30+ links
 - 65+ [Space](#space--proxy-games-apps)
@@ -107,31 +114,6 @@ To find the newly added links in the update, **look for the heading that contain
 - **New** 10+ [Core](#core--proxy)
 - 5+ [Shadow](#shadow-browser--web-browser)
 - More [Utopia](#utopia--proxy-games-ai), [Tinf0il](#tinf0il--games-proxy-apps)
-
-
-### Nov 18, 2024 - 40+ Links!
-**To find the new links, look for the label, NEW Nov 18. It tells you that the links were added on this update!**
-- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 10+ [Shadow](#shadow-browser--web-browser)
-- 5+ [Rammerhead](#rammerhead--web-browser)
-- More [Doge](#doge-unblocker--proxy-games-apps), [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Kazwire](#kazwire--proxy-games-apps), and [Tinf0il](#tinf0il--games-proxy-apps)
-
-
-### Nov 5, 2024 - 355+ NEW LINKS! + Statuses!
-- Added statuses (flourishing, stable/unstable, and ghosted) on proxies
-- Removed 100+ non working links
-- Added 150+ [Rammerhead](#rammerhead--web-browser) links!
-- Added 55+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) links
-- Added 50+ [Shadow Tabbed](#shadow-browser--web-browser)
-- Added 30+ [Doge Unblocker](#doge-unblocker--proxy-games-apps)
-- Added 25+ [Emerald](#emerald--proxy-games-apps)
-- Added 20+ [Utopia](#utopia--proxy-games-ai)
-- Added 20+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
-- Added 10+ [Kazwire](#kazwire--proxy-games-apps)
-- Added 5+ [Tinfoil](#tinf0il--games-proxy-apps)
-- NEW 5+ [Arsenic](#arsenic--proxy-games) and [Lucid](#lucid--proxy)
-- More [Lunarsync](#lunarsync--proxy-games)
-- Updated Link count and overall doc
 -->
 
 <br>
@@ -151,12 +133,11 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **150+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
 - **150+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **135+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-  <!--- <5 [Abyss](#abyss--web-browser--games) - Web browser, Games | Status: Ghosted :no_entry_sign:-->
 - **105+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Stable ✅
 - **315+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
 - **295+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
-- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Varying :grimacing: 
+- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 
 - 55+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  :white_check_mark: 
 - 10+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
 - **220+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Status: Flourishing 💯
@@ -164,12 +145,11 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* :no_entry_sign:
 - 55+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
 - 60+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
-- 40+ [**Arsenic**](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
+- 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
 - 15+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
 - 45+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
 - 45+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😐
-- 85+ [Light](#light--proxy-games-apps) - Proxy, Games, Apps | Status: Unstable :neutral_face:
-- <5 [Lunarsync](#lunarsync--proxy-games) - Proxy, Games | Stable :white_check_mark: 
+- <5 [Lunarsync](#lunarsync--proxy-games) - Proxy, Games | Ghosted? 🚫 
 - 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
 - <5 [Lucid](#lucid--proxy) - Proxy | Unstable 😐
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional :neutral_face:
@@ -186,7 +166,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
   * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
     + <5 **[Ai Checker](#ai--plagiarism-checkerdectector)**
 - 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Varying 😐
-  * 20+ [Proxy Discord Servers](#proxy-discord-servers) - these servers have many secret links that are probably unblocked 
+  * 25+ [**Proxy Discord Servers**](#proxy-discord-servers) - these servers have many secret links that are probably unblocked, HIGHLY RECOMMEND
 ---
 
 ## website title | what it contains | any note if needed
