@@ -1,10 +1,11 @@
-# ByePassHub > Making your Own Links | updated April 5
+# ByePassHub > Making your Own Links | updated April 20
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
 
  ## Table of Contents:
 + [Deploying via free DNS subdomain](#making-links-via-freedns)
++ [Deploying via Fastly](#make-links-with-fastly)
 + **Make sure to have a Github account for the deployment options below!!**
 + [Deploying via Vercel](#make-links-with-vercel)
 + [Deploying via Render](#make-links-with-render)
@@ -70,6 +71,30 @@ This files includes a guide on how to make your own unblockers! You can do this 
 
 10. After putting the IP destination to your subdomain, press "save." Complete the captcha. 
 11. Wait a couple minutes for your site to register and go to the link you created (and make more if you want)!
+
+    
+### Make links with Fastly
+1. Go to [https://fastly.com](https://fastly.com)
+2. Go to sign up for free
+3. Create an account
+    > For First name, Last name, company/roles, you can put anything, it shouldn’t matter
+    > **For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future, and its much safer.**
+4. Verify your account
+    > If you are using temp mail, go to the site and an email should be there.
+5. Now log in to your account
+6. Go to [https://manage.fastly.com/home](https://manage.fastly.com/home)
+7. On the left hand side bar, click on CDN
+8. On the right top corner, click “Create service”
+9. For the service name, it doesn’t matter put anything.
+10. For the domain, put some text followed by .global.ssl.fastly.net (unless you own another domain)
+    > For example, proxysite.global.ssl.fastly.net (be creative, some domains might be taken already)
+11. For the origin (host), put a link to an unblocker site. It doesn’t have to be unblocked, but it has to be functional and reliable.
+    > For example, for Svzy Central I used `byod.szvy.website/`
+    > If you want an astroid link, use `https://astroid.gg/`
+12. Then press Activate.
+13. After a minute, test your link. It should work.
+14. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
+
 
 ### Make links with Vercel
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
