@@ -1,4 +1,4 @@
-# ByePassHub > Games | updated Mar 27
+# ByePassHub > Games | updated April 20
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 
@@ -57,6 +57,41 @@ I've got these links from multiple sources. Like [chromebook-utilities](https://
 ## website title | any note if needed
 
 ### Selenite | RECOMMENDED
+**April 20 Links** <br>
+http://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+http://fnmfiwxitf.disisleri.com/ <br>
+http://bmsdkgiify.boalimp.com.br/ <br>
+http://ocsscsydjl.inoa.cl/ <br>
+http://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+http://celkupfivp.adis.web.id/ <br>
+http://smqzwsgpmb.gaoexpresstowing.sg/ <br>
+http://neaoxbhwlt.radial-pistonmotors.com/ <br>
+http://uipxjajtqc.bamapos.com/ <br>
+http://zavtslecsb.francomedia.net/ <br>
+http://ncsxzrdmvg.eubonia.com/ <br>
+http://ktgeczhtdt.sagark.com.np/ <br>
+http://jqfbdoouzl.covalpo.cl/ <br>
+http://viloyzukzl.sangeetc.com.np/ <br>
+http://zticjpomub.eithermouse.com/ <br>
+http://agmsisuxwn.yaksi.name.tr/ <br>
+http://svjtrkwfza.pii.at/ <br>
+http://algebra.koellreutter.com/ <br>
+http://english.clandestina.org/ <br>
+http://science.hiperclaves.xyz/ <br>
+http://science.mycolli.com/ <br>
+http://math.robot-agachado.org/ <br>
+http://geometry.maum.in/ <br>
+http://math.seegers.us/ <br>
+http://english.thesoultheque.com/ <br>
+http://english.macadmincc.co.za/ <br>
+http://geometry.browbar.ar/ <br>
+http://geometry.candcinsurancebrokers.com/ <br>
+https://bmsdkgiify.boalimp.com.br/ <br>
+https://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+https://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+https://selenite.edublue.org/ <br>
+https://kombuchawhrizz.webs.vc/ <br>
+https://ohiowasmadebyrizz.blinklab.com/ <br> <br>
 **Mar 24 Links** <br>
 http://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
 http://ocsscsydjl.inoa.cl/ <br>
@@ -814,6 +849,16 @@ https://vortexmath.my.canva.site/_password <br>
  
 
 ### Plexile Arcade
+**4/20 Links** <br>
+rizz.digitalhemi.com <br>
+ohiorizzler.thisiscoolt.com <br>
+cgrrccgrvffgcfgcgcrg.mooo.com <br>
+datnon.charbel.cl <br>
+lightspeediscool.com <br>
+insanealgebraproblems.com <br>
+mathy.axsetubal.pt <br>
+dawg.awoofcity.com <br>
+wizard.agroconsultingclub.ro <br> <br>
 **4/5 Links** <br>
 rizz.digitalhemi.com <br>
 ohiorizzler.thisiscoolt.com <br>
