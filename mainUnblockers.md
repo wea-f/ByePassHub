@@ -113,7 +113,6 @@ Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop w
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable :white_check_mark:
-- 10+ [Surfskip](#surfskip--web-browser) - Web browser |  Stable :white_check_mark:
 - **150+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
 - **150+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **135+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
@@ -160,20 +159,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 https://norepted.playcode.io/ Note: click "Skip Intro" <br>
 https://gzhhqm.csb.app/ <br>
 https://sites.google.com/view/n0repted/home <br>
-https://codepen.io/weaF_z/full/RwJVywE <br>
-
-### Surfskip | web browser 
-#### Status:  Stable :white_check_mark:
-https://splashtoyshop.com/ <br>
-https://1win-creator.com/  <br>
-https://lovedrink69.com/ <br>
-https://easyword.shop/  <br>
-https://surfskipp.shop/  <br>
-https://surfskip.shop/  <br>
-https://excelwizard.space/  <br>
-https://excelhub.space/ <br>
-https://surfskip.com/ <br>
-https://web.surfskip.com/en/room <br>
+https://codepen.io/weaF_z/full/RwJVywE <br>2
  
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 #### Status: Flourishing :100:
@@ -312,9 +298,6 @@ https://tststststststststststststststststststststs.zavoj.ch/ <br> <br>
 **Mar 3 Link:** https://nomorefemboyfriday.unibutton.com/ <br> <br>
 **Feb 23 Links (10+)** <br>
 https://matheiuslikesmen.bouncers4rent.com/                                        <br>
-https://dipakarmani.blinklab.com/                                        <br>
-https://nirmad23.blinklab.com/                                        <br>
-https://reshamvip.blinklab.com/                                        <br>
 https://alumulakakro.unibutton.com/                                        <br>
 https://arraypush.unibutton.com/                                        <br>
 https://hamburgerxtreme.unibutton.com/                                        <br>
@@ -322,26 +305,13 @@ https://mayalu.unibutton.com/                                        <br>
 https://sitarabhajangi.unibutton.com/                                        <br>
 https://learningmath.pages.dev/                                        <br> <br>
 **Jan 25 Added Interstellar Links (70+)** <br>
-https://bamboostripes.fr.to/                                        <br>
-https://outdoorfurniture.fr.to/                                        <br>
 https://lamhasautism.freedns.rocks/                                        <br>
-https://lunchly116.i-like-my-cheese-drippy-bruh.kaiyou3.nas64.de/                                        <br>
-https://lunchly106.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de/                                        <br>
-https://lunchly3.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de/                                        <br>
 https://speedylight.masplenedigitalworld.com/                                        <br>
-https://app.app.19194545tomatomato.ipv64.net/                                        <br>
-https://eqt9lwdszm-j3zknp2e6p7thbvawkjufu5mxxcv.zelva.com.ar/                                        <br>
-https://www.wo-lf-unbl-ock.math1.4cloud.click/                                        <br>
 https://broncossuck.rit.cl/                                        <br>
 https://network-info.n-e-t.name/                                        <br>
-https://lunchly48.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
-https://lunchly148.i-like-my-cheese-drippy-bruh.jibunyou.lan64.de/                                        <br>
 https://50.fr.to/                                        <br>
 https://ifyoudontblockthisyouarethe.chillcrew.net/                                        <br>
 https://lunchly160.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
-https://lunchly61.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
-https://lunchly82.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
-https://lunchly89.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
 https://little-paradise.happyforever.com/                                        <br>
 https://a.lineofwork.eu/                                        <br>
 https://learning-math-ipv64.ix.tc/                                        <br>
@@ -355,8 +325,6 @@ https://lunchly76.i-like-my-cheese-drippy-bruh.ytyt.kozow.com/                  
 https://lunchly72.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
 https://lunchly111.i-like-my-cheese-drippy-bruh.wolunblox.math1.4cloud.click/                                        <br>
 https://hiyu59.easterndns.com/                                        <br>
-https://rizz.ytyt.kozow.com/                                        <br>
-https://lunchly109.i-like-my-cheese-drippy-bruh.ytyt.kozow.com/                                        <br>
 https://adamcantreeit.jtizyl.net/                                        <br>
 https://hiyu21.easterndns.com/                                        <br>
 https://lunchly138.i-like-my-cheese-drippy-bruh.donburistellar.dyndns64.de/                                        <br>
