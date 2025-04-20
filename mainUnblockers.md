@@ -113,38 +113,34 @@ Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop w
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable :white_check_mark:
-- **150+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
-- **150+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
-- **135+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-- **105+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Stable ✅
-- **515+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
-- 35+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
-- **295+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
-- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 
-- 105+ [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  :white_check_mark: 
-- 10+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
-- **220+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Status: Flourishing 💯
+- **250+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
+- 50+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
+- **140+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
+- **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Stable ✅
+- **800+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
+- 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
+- **300+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
+<!--- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 -->
+- **150+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  :white_check_mark: 
+- 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
+- **180+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Status: Flourishing 💯
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable :white_check_mark:
-- <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* :no_entry_sign:
-- 55+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
-- 60+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
+ <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* :no_entry_sign:-->
+- 80+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
+- 45+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
 - 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
-- 15+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
-- 45+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
-- 45+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😐
-- <5 [Lunarsync](#lunarsync--proxy-games) - Proxy, Games | Ghosted? 🚫 
-- 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
-- <5 [Lucid](#lucid--proxy) - Proxy | Unstable 😐
+- 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
+- 60+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
+- 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😐
+- 5+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional :neutral_face:
-- 15+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark:
-- 30+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
-- 40+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
-- 10+ [Core](#core--proxy) - Proxy | Status: Unstable 😐
-- 5+ [Acceleration](#acceleration--proxy-games-apps) - Proxy, Games, Apps | Status: Fresh 😎
-- <5 [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Status: Fresh 😎
+- 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark:
+- 20+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
+- 60+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
+- 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Status: Fresh 😎
 - <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
-- <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
-- [1-2 link sites](#sites-with-1-2-links) - 12+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
+<!--- <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐-->
+- [1-2 link sites](#sites-with-1-2-links) - 16+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
 - 25+ **[AI](#ai-and-homework-solvers)** | Stable ✅
   * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
     + <5 **[Ai Checker](#ai--plagiarism-checkerdectector)**
@@ -3085,6 +3081,7 @@ Platformer: https://discord.gg/sSWRxaHhvA  <br>
 Xenon: https://discord.gg/DyaVHTxng4  <br>
 Sunset Network: https://discord.gg/GPFwfVNEhn <br>
 Night Network: https://discord.com/invite/2xtRtawncs <br>
+
 
 <br>
 
