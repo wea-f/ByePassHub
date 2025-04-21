@@ -91,9 +91,14 @@ This files includes a guide on how to make your own unblockers! You can do this 
 11. For the origin (host), put a link to an unblocker site. It doesn’t have to be unblocked, but it has to be functional and reliable.
     > For example, for Svzy Central I used `byod.szvy.website/`
     > If you want an astroid link, use `https://astroid.gg/`
+    > For Rammerhead, use `https://rammerhead.eu.org/`
 12. Then press Activate.
-13. After a minute, test your link. It should work.
-14. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
+13. Ok, now press "Edit Configuration" and click "Clone Version 1 to edit"
+14. On the left side, go to "Settings" and scroll down to "Fallback TTL"
+15. Set the Fallback TTL to 0 seconds.
+16. Now scroll to the top and press Activate.
+17. Test your link now. After half a minute, it should work.
+18. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
 
 
 ### Make links with Vercel
