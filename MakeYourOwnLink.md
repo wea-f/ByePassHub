@@ -35,7 +35,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 	> It might get bugged out and have an error. If so, just continue to the next step and sign in there.
 5. After making an account, now we are going to register the link. Go to this page in freeDNS: https://freedns.afraid.org/domain/registry
 	> Alternatively, press "Subdomains" on the left side of the page, then "Add subdomain", then on the "Domain" box click on the dropdown, then click "many, many more." After that click "Shared Domain Registry" on the first sentence.
- > If you haven't already, sign in with your account.	
+ 	> If you haven't already, sign in with your account.	
 
 6. Click a domain link that you would like to use. (e.g. chickenkiller.com)
 	> Make sure to select a domain that is unblocked for you. Domains that have a low popularity are probably unblocked. <br>
@@ -77,29 +77,37 @@ This files includes a guide on how to make your own unblockers! You can do this 
 1. Go to [https://fastly.com](https://fastly.com)
 2. Go to sign up for free
 3. Create an account
-    > For First name, Last name, company/roles, you can put anything, it shouldn’t matter
-    > **For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future, and its much safer.**
+   >	For First name, Last name, company/roles, you can put anything, it shouldn’t matter <br>
+   > 	**For your email, you could use a temporary email provider like [TempMail](https://temp-mail.org/) or [SmailPro](https://smailpro.com/) so you can create more links in the future, and its much safer.**
 4. Verify your account
-    > If you are using temp mail, go to the site and an email should be there.
-5. Now log in to your account
-6. Go to [https://manage.fastly.com/home](https://manage.fastly.com/home)
-7. On the left hand side bar, click on CDN
-8. On the right top corner, click “Create service”
-9. For the service name, it doesn’t matter put anything.
-10. For the domain, put some text followed by .global.ssl.fastly.net (unless you own another domain)
+   >	If you are using temp mail, go to the site and an email should be there.
+6. Now log in to your account
+7. Go to [https://manage.fastly.com/home](https://manage.fastly.com/home)
+8. On the left hand side bar, click on CDN
+9. On the right top corner, click “Create service”
+10. For the service name, it doesn’t matter put anything.
+11. For the domain, put some text followed by .global.ssl.fastly.net (unless you own another domain)
     > For example, proxysite.global.ssl.fastly.net (be creative, some domains might be taken already)
-11. For the origin (host), put a link to an unblocker site. It doesn’t have to be unblocked, but it has to be functional and reliable.
-    > For example, for Svzy Central I used `byod.szvy.website/`
-    > If you want an astroid link, use `https://astroid.gg/`
-    > For Rammerhead, use `https://rammerhead.eu.org/`
-12. Then press Activate.
-13. Ok, now press "Edit Configuration" and click "Clone Version 1 to edit"
-14. On the left side, go to "Settings" and scroll down to "Fallback TTL"
-15. Set the Fallback TTL to 0 seconds.
-16. Now scroll to the top and press Activate.
-17. Test your link now. After half a minute, it should work.
-18. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
+12. For the origin (host), put a link to an unblocker site. It doesn’t have to be unblocked, but it has to be functional and reliable. **Don't put a link with a path, like example.com/page.**
 
+    > For example, for Svzy Central I used `byod.szvy.website/` <br>
+    > If you want an astroid link, use `https://astroid.gg/`<br>
+    > For Rammerhead, use `https://rammerhead.eu.org/`
+    
+14. Then press Activate.
+15. Ok, now press "Edit Configuration" and click "Clone Version 1 to edit"
+16. On the left side, go to "Settings" and scroll down to "Fallback TTL"
+17. Set the Fallback TTL to 0 seconds.
+18. Now scroll to the top and press Activate.
+19. Test your link now. After half a minute, it should work.
+20. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
+
+**Troubleshooting with Fastly:** <br>
+If your link doesn't work, try these steps.
+- Go to edit configuration > clone version, going to settings and setting the fallback ttl to 0. (you should already have done this)
+- If that also doesn't work, try making a cache setting and setting the ttl to 0. (name doesn't matter) <br>
+- After making the changes, press activate. <br>
+- If that doesn't work, go to service summary and purge > purge all.
 
 ### Make links with Vercel
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
