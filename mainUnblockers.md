@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 20
+# ByePassHub > Main Links | updated April 22
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -12,12 +12,13 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 
 ---
 
-### Be sure to scroll all the way down for ALL links. 
   This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com links. <br>
   
   #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/wea-f/ByePassHub/issues), I'll try to respond back ASAP. <br>
-  **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
+  **PRO TIP:** Use multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, to find unblocked links faster! <br>
+  **FYI:** Links under a header like "Jan 20 links," means that those links were added on that day, and they are guranteed functional as of that day! 
 <br> <br>
+
 **Announcements:**
 - 4/5: 500+ Links, check them out in updates/changes
 - New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
@@ -26,7 +27,8 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 ## Updates/Changes:
 Links added in an update are **guranteed** to be working as of that day. <br>
 However, links added in previous updates sometimes **stops working** after a while. <br>
-To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** e.g. Dec 25 Links: <br>
+To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
+  > For example: Dec 25 Links: <br>
 
 ### April 20, 2025 - 500+ Links! + Doc Clean up
 **To find the newly added WORKING links, look for the label, "April 20 links."**
@@ -105,18 +107,20 @@ To find the newly added links in the update, **look for the heading that contain
 
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (useful, flourishing)** <br>
-**Statuses:** <br>
-Flourishing :100: - site is active & at its peak, has tons of links, and is constantly updated.  <br>
-Stable :white_check_mark:- has working links, site has activity and updates. <br>
-Unstable / Varying :grimacing: - most links work, some are down, site sometimes updates. <br>
-Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
-Fresh :sunglasses: - The site was recently made and newly added! <br>
+
+| Statuses      | Description |
+| ----------- | ----------- |
+| Flourishing :100:      |  site is active & at its peak, has tons of links, and is constantly updated.       |
+| Stable :white_check_mark:   | has working links, site has activity and updates.        |
+| Unstable / Varying :grimacing: or 😐 | most links work, some are down, site sometimes updates. |
+| Ghosted :no_entry_sign: | site is inactive, most links work but likely to stop working. |
+| Fresh :sunglasses: | The site was recently made and newly introduced! | <br>
 
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable :white_check_mark:
 - **250+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
 - 50+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **140+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-- **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps| Status: Stable ✅
+- **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps | Status: Stable ✅
 - **800+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
 - 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
 - **300+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
@@ -131,7 +135,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
 - 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
 - 60+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
-- 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😐
+- 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😬
 - 5+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional :neutral_face:
 - 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark:
@@ -143,8 +147,8 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - [1-2 link sites](#sites-with-1-2-links) - 16+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
 - 25+ **[AI](#ai-and-homework-solvers)** | Stable ✅
   * 5+ [Homework Solvers/Calculators](#homework-solverscalculators-)
-    + <5 **[Ai Checker](#ai--plagiarism-checkerdectector)**
-- 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Varying 😐
+    + <5 [Ai Checker](#ai--plagiarism-checkerdectector)
+- 35+ [Other Lists like this one](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Varying 😬
   * 25+ [**Proxy Discord Servers**](#proxy-discord-servers) - these servers have many secret links that are probably unblocked, HIGHLY RECOMMEND
 ---
 
