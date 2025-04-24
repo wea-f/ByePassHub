@@ -318,7 +318,6 @@ https://maths.media/ <br>
 
 https://websitesball.com/ <br>
 
-https://ngg.798sc.com/ <br>
 
 https://hotkitchenbag.com/ <br>
 
@@ -342,9 +341,6 @@ https://xn--31byd1i.net/ <br>
 
 https://nowgg.usercontent.motorcycles/ <br>
 
-https://next-level.is-very.fun/ <br>
-
-https://mathwork-for-science-class.tutorz0.usercontent.motorcycles/ <br>
 
 https://shuttle.lol/apps/roblox-corporation/5349/roblox.html <br>
 
@@ -352,21 +348,6 @@ https://hotkitchenbag.com/ <br>
 
 https://v3.now.gg/ <br>
 
-  
-
-https://beta1.apktbg.com/demo <br>
-
-https://beta2.apktbg.com/demo <br>
-
-https://beta3.apktbg.com/demo <br>
-
-https://beta4.apktbg.com/demo <br>
-
-https://beta5.apktbg.com/demo <br>
-
-https://beta6.apktbg.com/demo <br>
-
-https://beta7.apktbg.com/demo <br>
 
 <br>
 
@@ -448,7 +429,6 @@ https://canvaslearning.studentvue.learningsocstudies.matlib.org/ <br>
 
 ### 3kh0 | RECOMMENDED
 
-https://gray-sand-0ae3d2d10.2.azurestaticapps.net/ <br>
 
 https://3kh0-reborn.outred.dev/ <br>
  
@@ -459,15 +439,11 @@ https://sites.google.com/view/retro-bowl-play <br>
 
 https://sites.google.com/view/slope-play/retro-bowl <br>
 
-https://sites.google.com/view/tyronegamesez/home <br>
-
-https://sites.google.com/view/alpha-networksite/page <br>
 
 https://sites.google.com/view/bushhub/home <br>
 
-https://sites.google.com/view/noah-hub/ <br>
 
-https://sites.google.com/view/bingforschools/Google?authuser=0 <br>
+https://sites.google.com/view/bingforschools/Google<br>
 
 https://sites.google.com/site/classroom6x <br>
 
@@ -475,11 +451,9 @@ https://sites.google.com/view/iogames <br>
 
 https://sites.google.com/view/lotsogames/ <br>
 
-https://sites.google.com/view/bruny <br>
 
 https://sites.google.com/view/meximath/home <br>
 
-https://sites.google.com/view/craziest-games/home <br>
 
 https://sites.google.com/site/mostfungames69/home <br>
 
@@ -490,14 +464,6 @@ https://sites.google.com/view/cybercityunblocked/gxmes <br>
 https://sites.google.com/view/game-hub-unbl0cked/ <br>
 
 https://sites.google.com/view/universal-arcade/home <br>
-
-https://sites.google.com/view/bd-games/home <br>
-
-https://sites.google.com/view/hexxedgames/home <br>
-
-https://sites.google.com/view/jimmygamingsite-jg/home <br>
-
-https://sites.google.com/view/bingforschools/Google <br>
 
 https://sites.google.com/view/thats-nuclear/home <br>
 
