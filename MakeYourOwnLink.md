@@ -92,7 +92,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 
     > For example, for Svzy Central I used `byod.szvy.website/` <br>
     > If you want an astroid link, use `https://astroid.gg/`<br>
-    > For Rammerhead, use `https://rammerhead.eu.org/`
+    > For Rammerhead, use `https://browser.rammerhead.org/`
     
 14. Then press Activate.
 15. Ok, now press "Edit Configuration" and click "Clone Version 1 to edit"
