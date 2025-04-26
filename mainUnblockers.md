@@ -2960,6 +2960,12 @@ https://cool.zaz.vhutambo.co.za/static/ <br>
 ### Purified | Proxy, Games, Apps
 https://mathproxy.cool.aid.edu.surfnet.ca/ <br>
 
+### Holy Unblocker 
+Credits to rando sandow for the links. <br>
+https://fireinspector.xyz/ <br>
+https://cameraproposal.xyz/ <br>
+
+
 ### MyAndriod | Unblocked Chrome
 Directions: <br>
 1. Click "Andriod emulator"
