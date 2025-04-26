@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 22
+# ByePassHub > Main Links | updated April 26
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -2777,6 +2777,9 @@ https://imagineifninjagotalowtaperfade.ramirocroce.com.ar/ <br>
 ### Daydream X | Web browser
 #### Status: Fresh 😎
 ##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (it has weekly links) <br>
+**4/26 Links (credit to randosandow)** <br>
+https://travel.kigurun.ru/ <br>
+https://view.xiayu7.cn/ <br> <br>
 **4/5 Links** <br>
 https://info.hhoiltools.com/ <br>
 https://home.ribolov.lv/ <br>
