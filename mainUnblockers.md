@@ -110,39 +110,39 @@ To find the newly added links in the update, **look for the heading that contain
 
 | Statuses      | Description |
 | ----------- | ----------- |
-| Flourishing :100:      |  site is active & at its peak, has tons of links, and is constantly updated.       |
-| Stable :white_check_mark:   | has working links, site has activity and updates.        |
-| Unstable / Varying :grimacing: or 😐 | most links work, some are down, site sometimes updates. |
-| Ghosted :no_entry_sign: | site is inactive, most links work but likely to stop working. |
-| Fresh :sunglasses: | The site was recently made and newly introduced! | <br>
+| Flourishing 💯      |  site is active & at its peak, has tons of links, and is constantly updated.       |
+| Stable ✅   | has working links, site has activity and updates.        |
+| Unstable / Varying 😬 or 😐 | most links work, some are down, site sometimes updates. |
+| Ghosted 🚫 | site is inactive, most links work but likely to stop working. |
+| Fresh 😎 | The site was recently made and newly introduced! | <br>
 
-- <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable :white_check_mark:
-- **250+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
-- 50+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
+- <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable ✅
+- **250+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing 💯
+- 50+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing 💯
 - **140+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
 - **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps | Status: Stable ✅
-- **800+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing :100: 
-- 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying :grimacing: 
-- **300+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing :100: 
+- **800+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing 💯 
+- 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying 😬 
+- **300+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing 💯 
 <!--- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 -->
-- **150+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  :white_check_mark: 
+- **150+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
 - 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
 - **180+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Status: Flourishing 💯
-- 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable :white_check_mark:
- <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* :no_entry_sign:-->
+- 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable ✅
+ <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* 🚫-->
 - 80+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
-- 45+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
+- 45+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
 - 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
-- 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted :no_entry_sign:
+- 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted 🚫
 - 60+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
 - 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😬
 - 5+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
-- <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional :neutral_face:
-- 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  :white_check_mark:
+- <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional 😐
+- 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  ✅
 - 20+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
 - 60+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
 - 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Status: Fresh 😎
-- <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable :white_check_mark:
+- <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
 <!--- <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐-->
 - [1-2 link sites](#sites-with-1-2-links) - 16+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
 - 25+ **[AI](#ai-and-homework-solvers)** | Stable ✅
@@ -155,14 +155,14 @@ To find the newly added links in the update, **look for the heading that contain
 ## website title | what it contains | any note if needed
 
 ### Norepted | YT video watcher with history hiding 
-#### Status:  Stable :white_check_mark:
+#### Status:  Stable ✅
 https://norepted.playcode.io/ Note: click "Skip Intro" <br>
 https://gzhhqm.csb.app/ <br>
 https://sites.google.com/view/n0repted/home <br>
 https://codepen.io/weaF_z/full/RwJVywE <br>
  
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-#### Status: Flourishing :100:
+#### Status: Flourishing 💯
 https://gointerstellar.app <br> 
 Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  
 **4/20 Links (25+)** <br>
@@ -420,7 +420,7 @@ https://church.macgregoremc.com/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Doge Unblocker | Proxy, Games, Apps
-#### Status: Flourishing :100: 
+#### Status: Flourishing 💯 
 Disclaimer: Has ads <br>
 **4/20 Links (40+)** <br>
 https://learn.whitespaceairwaves.org/ <br>
@@ -476,7 +476,7 @@ https://math.7s.com.tr/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small:  
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
-#### Status: Flourishing :100:
+#### Status: Flourishing 💯
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
 **200 more Astroid Links** (use unblocker if restricted): https://pastes.io/wkgmzaxgsk <br>
 ##### ipv64.net links: (Nov 5)
@@ -630,7 +630,7 @@ https://mathstudy.fivepals.com/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Abyss | web browser + games
-#### Status: Ghosted :no_entry_sign: - I think its rebranded to Helium??
+#### Status: Ghosted 🚫 - I think its rebranded to Helium??
 https://intoabyss.org/ <br>
 https://vps.intoabyss.org/ <br>
  <br>
@@ -748,7 +748,7 @@ https://login.mathcentral.work/   <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Shadow Browser | web browser
-#### Status: Flourishing :100: 
+#### Status: Flourishing 💯 
 **4/20 Links (275+)** <br>
 https://ace.shadowshark.ipv64.net <br>
 https://apapu.shadowshark.ipv64.net <br>
@@ -1554,7 +1554,7 @@ https://base.diveyez.com/ <br><br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Google Sites | A mixture of: Games, exploits, proxies, and emulators | Some proxy or games may be blocked 
-#### Status: Varying :grimacing: 
+#### Status: Varying 😬 
 https://sites.google.com/view/retro-bowl-play <br>
 https://sites.google.com/view/ubg66/home <br>
 https://sites.google.com/view/un35/home <br>
@@ -1597,7 +1597,7 @@ https://searchplayground.google/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Rammerhead | Web Browser
-#### Status: Flourishing :100: 
+#### Status: Flourishing 💯 
 **4/20 Links (10+)** <br>
 https://rammerhead-10.swanndvr.net/ <br>
 https://aiden-major.minecraftnoob.com/ <br>
@@ -1970,7 +1970,7 @@ Found no working links..... :(
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Utopia | Proxy, Games, AI
-#### Status: Stable  :white_check_mark: 
+#### Status: Stable  ✅ 
 ##### MORE LINKS IN THEIR DISCORD SERVER (#community-links), https://discord.com/invite/hFZC5cgsmq, CHECK IT OUT.
 **4/20 Links (50+)** <br>
 https://read.atom.stickyricecakes.com/ <br>
@@ -2139,7 +2139,7 @@ https://skills.ela.briandelano.com/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Kazwire | Proxy, Games, Apps
-#### Status: Stable :white_check_mark:  - Working as of 4/20
+#### Status: Stable ✅  - Working as of 4/20
 https://english.hitremixes.com/ <br>
 https://history.lodgegomantak.org <br>
 https://vanilla-vanities.coquettas.cl <br>
@@ -2338,7 +2338,7 @@ https://skyzone.radarvision.co.za/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 ### Hypertabs | Web Browser
-#### Status: Stable :white_check_mark: 
+#### Status: Stable ✅ 
 https://quack-start.surge.sh/ <br>
 https://spotty-hope.surge.sh/ <br>
 https://wary-fan.surge.sh/ <br>
@@ -2351,7 +2351,7 @@ https://best-dock.surge.sh/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 <!--
 ### Night | Proxy, Games, Apps
-#### Status: Ghosted :no_entry_sign:
+#### Status: Ghosted 🚫
 Visit their [discord server](https://discord.gg/7SCnPUM5S6) for links! <br>
 
 ### Kitty Cat Club | proxy, games, apps
@@ -2456,7 +2456,7 @@ https://sunsetv3-z.global.ssl.fastly.net/   <br>
 
 
 ### Emerald | Proxy, Games, Apps
-#### Status: Stable :white_check_mark: 
+#### Status: Stable ✅ 
 **4/20 Links** <br>
 https://didddypreston.ajhurst.org/ <br>
 https://flintandsteelchickenjocky.nodnor.com/ <br>
@@ -2631,7 +2631,7 @@ https://zyh82z65heuq.fairway.cl<br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Xen | Proxy, Apps
-#### Status: Ghosted :no_entry_sign:
+#### Status: Ghosted 🚫
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
 #### Status: Unstable 😐:
@@ -2697,7 +2697,7 @@ https://dashboard.smellies.duckdns.org/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Celestial Network | Proxy Games Apps
-#### Status: Ghosted :no_entry_sign:
+#### Status: Ghosted 🚫
 https://287kx5.csb.app/ <br>
 ##### Celestial Proxy
 https://j2q385-8080.csb.app/ <br>
@@ -2705,7 +2705,7 @@ https://j2q385-8080.csb.app/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Shuttle | Games, Apps, and Proxy 
-#### Status: Unstable :neutral_face:
+#### Status: Unstable 😐
 **4/5 Links (Bonus)** <br>
 https://warm-lake-753.3kh0.org/ <br>
 https://bright-rain-434.k12biography.com/ <br>
@@ -2732,7 +2732,7 @@ https://io.sqeven.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
 
 ### Tinf0il | games, proxy, apps
-#### Status: Stable :white_check_mark: 
+#### Status: Stable ✅ 
 **March 24 Links** <br>
  http://citrik-is-a-smelly-indian.xyz/ <br> <br>
 **Dec 25 Links:** <br>
@@ -2891,7 +2891,7 @@ https://utauloid.space/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Incognito | Proxy, Games, Apps 
-#### Status: Stable :white_check_mark:
+#### Status: Stable ✅
 https://km8y68.csb.app/ <br>
 https://y9ze2o.csb.app/# <br>
 <br>
