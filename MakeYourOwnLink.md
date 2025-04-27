@@ -92,22 +92,23 @@ This files includes a guide on how to make your own unblockers! You can do this 
 
     > For example, for Svzy Central I used `byod.szvy.website/` <br>
     > If you want an astroid link, use `https://astroid.gg/`<br>
-    > For Rammerhead, use `https://browser.rammerhead.org/`
+    > For Rammerhead, use `https://browser.rammerhead.org/` <br>
+    > For Canlite, use `https://canlite.org/`
     
 14. Then press Activate.
 15. Ok, now press "Edit Configuration" and click "Clone Version 1 to edit"
 16. On the left side, go to "Settings" and scroll down to "Fallback TTL"
 17. Set the Fallback TTL to 0 seconds.
 18. Now scroll to the top and press Activate.
-19. Test your link now. After half a minute, it should work.
-20. If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
+19. Test your link now. After half a minute, it should work. IF NOT, follow the troubleshooting instructions.
+20. HOWEVER, If you site says, `Error 503 Backend unavailable, connection timeout` that means the link you put it for the host does not work, so you should try another that is functional.
 
 **Troubleshooting with Fastly:** <br>
 If your link doesn't work, try these steps.
 - Go to edit configuration > clone version, going to settings and setting the fallback ttl to 0. (you should already have done this)
-- If that also doesn't work, try making a cache setting and setting the ttl to 0. (name doesn't matter) <br>
+- Next, scroll down and make a cache setting and setting the ttl to 0 and stale ttl to 0. (name doesn't matter) <br>
 - After making the changes, press activate. <br>
-- If that doesn't work, go to service summary and purge > purge all.
+- Then, go to service summary and purge > purge all.
 
 ### Make links with Vercel
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
