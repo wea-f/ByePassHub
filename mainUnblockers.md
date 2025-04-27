@@ -2576,7 +2576,7 @@ https://zatoga-guffy.achpnl.cl/ <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 ### CanLite | Proxy, Games
 #### Status: Fresh 😎 - Mar 3 Links, all working!
-https://canlite.org/<br>
+**MAIN LINK:** https://canlite.org/<br>
 https://everyonegetsnews.org/<br>
 https://9sqn9f4ue2oq.abc92.ru/<br>
 https://boakqyagbgc9.ultrav.us/<br>
