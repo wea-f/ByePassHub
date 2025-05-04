@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! - 250 stars! ⭐
+## If you like this collection, make sure to star it! - [BYEPASSHUB GOOGLE DOC!!!](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 
