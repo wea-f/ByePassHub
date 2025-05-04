@@ -2,6 +2,7 @@
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
 
+Google doc: https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing
 ---
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
