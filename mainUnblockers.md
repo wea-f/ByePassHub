@@ -20,6 +20,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 - 4/5: 500+ Links, check them out in updates/changes
 - New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
 - **2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates/changes/log).**
@@ -30,7 +31,7 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
 
-### April 20, 2025 - 500+ Links! + Doc Clean up
+### April 20, 2025 - 500+ Links! + Doc Clean up - [Google Doc Launched!](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 **To find the newly added WORKING links, look for the label, "April 20 links."**
 - 275+ [Shadow](#shadow-browser--web-browser)
 - 50+ [Utopia](#utopia--proxy-games-ai)
