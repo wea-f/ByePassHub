@@ -13,7 +13,6 @@ FYI: **"Proxies" = "Unblockers"**
 **Explore other ways to get proxies (3 ways):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) or go to the Other ways to get proxies.md file <br>
 
 #### Suggestions, report broken links, or donate a link: Make an issue on the "Issues" tab!
-<!--####  [ByePassHub: Proxies Google Doc](https://docs.google.com/document/d/1e_vXjV9bQGJIi9_q1bNgHPEVU0FxnJwTNq_6Q3jdSLw/edit?usp=sharing)! <br><br>-->
 
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this.** <br>
