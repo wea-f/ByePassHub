@@ -17,7 +17,7 @@ Also, I did not make these cheats, I found them through searching the web and re
 Try putting these links in a proxy if they are blocked. It probably won't work, but it's worth a try.
 ## **RECOMMENDED**: Cheat Hubs
 The ultimate hub for every learning game platform, used for Kahoot, Gimkit, Blooket, Brainly (bypass exercise limit), and more! <br>
-https://schoolcheats.net/dashboard <br>
+https://schoolcheats.net/cheats <br>
 https://cheatnetwork.eu/ <br>
 https://quizit.online/ <br>
 
