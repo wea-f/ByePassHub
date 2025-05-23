@@ -20,6 +20,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- 5/23 - I know, its been almost a month, but please do this [poll](https://github.com/wea-f/ByePassHub/discussions/88) to know what links I should make!!
 - 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 - 4/5: 500+ Links, check them out in updates/changes
 - New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
