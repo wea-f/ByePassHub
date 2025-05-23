@@ -3,6 +3,8 @@
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 
+Please do this poll to know which unblockers I should make: https://github.com/wea-f/ByePassHub/discussions/88 (thanks!)<br> 
+
 **2500+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
 **450+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
 **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br><br>
