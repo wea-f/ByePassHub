@@ -33,7 +33,7 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
 
-### Jun 3, 2025 - 700+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
+### June 3, 2025 - 700+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
 - 190+ [Selenite](#selenite--games-apps) (**NEW**)
 - 150+ [Rammerhead](#rammerhead--web-browser)
 - 65+ [Utopia](#utopia--proxy-games-ai)
