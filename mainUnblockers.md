@@ -45,7 +45,7 @@ To find the newly added links in the update, **look for the heading that contain
 - 25+ [Waves](#waves--proxy-games-apps-movies-ai) (**NEW**)
 - 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
 - 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 5+ [FalconLink](#falcon--proxy-games-apps) (**NEW**)
+- 5+ [FalconLink](#falconlink--proxy-games-apps) (**NEW**)
 - 5+ [Truffled](#truffled--proxy-games-apps-movies)
 - 5+ [Sunset](#sunset-network--web-browser)
 - 5+ [Shuttle](#shuttle--games-apps-and-proxy)
