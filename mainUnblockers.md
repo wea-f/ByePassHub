@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 26
+# ByePassHub > Main Links | updated June 3
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -20,11 +20,12 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- June 3 - This might be the last update. Summer Break is here, and I am losing intereset and motivation. 
 - 5/23 - I know, its been almost a month, but please do this [poll](https://github.com/wea-f/ByePassHub/discussions/88) to know what links I should make!!
 - 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
-- 4/5: 500+ Links, check them out in updates/changes
+- 4/5: 500+ Links, check them out in updates / changes
 - New page: [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), highly recommend if you want better links (or if none of these work).
-- **2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates/changes/log).**
+- **2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates /changes/log).**
 
 ## Updates/Changes:
 Links added in an update are **guranteed** to be working as of that day. <br>
@@ -32,6 +33,26 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
 
+### Jun 3, 2025 - 550+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
+- 190+ [Selenite](#selenite--games-apps) (**NEW**)
+- 150+ [Rammerhead](#rammerhead--web-browser)
+- 65+ [Utopia](#utopia--proxy-games-ai)
+- 60+ [Doge](#doge-unblocker--proxy-games-apps)
+- 45+ [Shadow](#shadow-browser--web-browser)
+- 40+ [Space](#space--proxy-games-apps)
+- 30+ [Bolt](#bolt--web-browser-games-apps) (**NEW HIGHLY RECOMMEND**)
+- 25+ [Emerald](#emerald--proxy-games-apps)
+- 25+ [Waves](#waves--proxy-games-apps-movies-ai) (**NEW**)
+- 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
+- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
+- 5+ [FalconLink](#falcon--proxy-games-apps) (**NEW**)
+- 5+ [Truffled](#truffled--proxy-games-apps-movies)
+- 5+ [Sunset]()
+- 5+ Shuttle
+- 5+ CanLite
+- <5 Purified
+- More Szvy + a million link document!!
+- Added [Extra Proxies](#extra-proxies) Section
 ### April 20, 2025 - 500+ Links! + Doc Clean up - [Google Doc Launched!](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 **To find the newly added WORKING links, look for the label, "April 20 links."**
 - 275+ [Shadow](#shadow-browser--web-browser)
@@ -69,7 +90,7 @@ To find the newly added links in the update, **look for the heading that contain
 - <5 [Meximath](#meximath--proxy-games-apps)
 - 15+ [Shuttle](#shuttle--games-apps-and-proxy), [Artclass](#artclass--games-apps-proxy-and-emulators), [Tinf0il](#tinf0il--games-proxy-apps)
 
-  
+<!--
 ### March 3, 2025 - Over 200 Links, New sites CanLite and DayDreamX
 - Created [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) page, check it out for more links.
 - 55+ [Rammerhead](#rammerhead--web-browser)
@@ -90,7 +111,7 @@ To find the newly added links in the update, **look for the heading that contain
   - Space changed from fresh to flourishing
   - Shuttle changed from unstable to ghosted
   - Astroid moved down from flourishing to stable
-<!--
+
 ### Feb 23, 2025 - 300+ Links, New sites Szvy Central, Sunset Network
 **To find the newly added WORKING links, look for the label, "Feb 23 links."**
 - 100+ [Space](#space--proxy-games-apps) links
@@ -129,7 +150,8 @@ To find the newly added links in the update, **look for the heading that contain
 <!--- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 -->
 - **150+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
 - 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
-- **180+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Status: Flourishing 💯
+- **180+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing 💯
+- **190+** [Selenite](selenite--games-apps) - One of the best GAMES sites, Apps | Status: Flourishing 💯
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable ✅
  <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* 🚫-->
 - 80+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
@@ -138,12 +160,16 @@ To find the newly added links in the update, **look for the heading that contain
 - 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted 🚫
 - 60+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
 - 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😬
-- 5+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
+- 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional 😐
+- 30+ [**Bolt**](#bolt--web-browser-games-apps) - Web Browser, Games, Apps| Fresh 😎
+- 25+ [Waves](#waves--proxy-games-apps-movies-ai) - Proxy, Games, Apps, Movies, AI | Fresh 😎
 - 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  ✅
 - 20+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
 - 60+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
-- 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Status: Fresh 😎
+- 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Fresh 😎
+- 5+ [FalconLink](#falconlink--proxy-games-apps) - Proxy, Games, Apps |  Fresh 😎
+- 5+ [Truffled](#falconlink--proxy-games-apps-movies) - Proxy, Games, Apps, Movies |  Fresh 😎
 - <5 [Incognito](#incognito--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
 <!--- <5 [Camouflage](#camouflage--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐-->
 - [1-2 link sites](#sites-with-1-2-links) - 16+ sites & 25+ links total, with proxies, web browsers, OS, games, & apps | Varying 😐
@@ -167,6 +193,16 @@ https://codepen.io/weaF_z/full/RwJVywE <br>
 #### Status: Flourishing 💯
 https://gointerstellar.app <br> 
 Interstellar Discord (has more links w/dispenser): https://discord.gg/interstellar <br>  
+**6/3 Links (10+)** <br>
+https://useinterstellar.laviewddns.com/ <br>
+https://interstellar.laviewddns.com/ <br>
+https://iamsteve.raspberryip.com/ <br>
+https://zixypy.reticence.lol/ <br>
+https://my-learning-hall.jemix.sg/ <br>
+https://ghost.enslavednickgers.beingtouched.latinliturgy.com/ <br>
+https://zixypy.reticence.lol/d <br>
+https://login.rit.cl/onboard.html <br>
+https://billing.matthias-berlin.de/onboard.html <br> <br>
 **4/20 Links (25+)** <br>
 https://my-learning-hall.jemix.sg/ <br>
 https://zixypy.reticence.lol/ <br>
@@ -403,6 +439,67 @@ https://church.macgregoremc.com/ <br> <br>
 ### Doge Unblocker | Proxy, Games, Apps
 #### Status: Flourishing 💯 
 Disclaimer: Has ads <br>
+**June 3 Links (60+)** <br>
+http://manifest.sundby.com/ <br>
+http://letsgoo.kletterfranz.ch/ <br>
+http://aura.cuetara.name/ <br>
+http://haliburton.am-brillantengrund.at/ <br>
+http://summer.manishnene.com/ <br>
+http://aedwards.geobattery.com/ <br>
+http://haliburton.hitremixes.com/ <br>
+http://haliburton.unids.com/ <br>
+http://brunson.dateeasily.com/ <br>
+http://schooisoverl.krahl.com.br/ <br>
+http://overrated.aintno.info/ <br>
+http://overrated.palvelin.net/ <br>
+http://brunson.thomster.ch/ <br>
+http://aura.joemullins.info/ <br>
+http://summer.topmoto.pl/ <br>
+http://aura.g33k.com.ve/ <br>
+http://last.bryongaskin.net/ <br>
+http://underrated.lawson-engineers.co.uk/ <br>
+http://break.relaps-club.li/ <br>
+http://camp.audicolsas.co/ <br>
+http://instructure.speedbike.com.ar/ <br>
+http://edwards.schuetzweb.com/ <br>
+http://instructure.unshush.hr/ <br>
+http://brunson.sonjanherkku.fi/ <br>
+http://italy.subcetatecity.ro/ <br>
+http://creative.ramirocroce.com.ar/ <br>
+http://mexico.michelleingah.com/ <br>
+http://calculus.udalyonka.com/ <br>
+http://camp.macroscopechile.cl/ <br>
+http://thankmelater.feliperamirez.cl/ <br>
+http://shai.tradekinginternational.com/ <br>
+http://india.kbl-o.com/ <br>
+http://thankmelater.mesaayuda.net/ <br>
+http://shop.suwal.com.np/ <br>
+https://espanolmath.ontariobsd.net/ <br>
+https://studying-for-a-history-test.fieldofstudy.com/ <br>
+https://globalstudents.tuumin.net/ <br>
+https://edu.osobi.ro/ <br>
+https://use.madefalva.ro/ <br>
+https://use.f4.is/ <br>
+https://learn.whitespaceairwaves.org/ <br>
+https://fucklightspeed.mgotz.com/ <br>
+https://suhdihlightspeed.xiayu7.cn/ <br>
+https://learnmaths.academiaderock.ro/ <br>
+https://classroom.broomleigh.org/ <br>
+https://dogebyvcsa.hec.to/ <br>
+https://study-history.jumpingcrab.com/ <br>
+https://iloveyouguys-teamvcsa.smelly.cc/ <br>
+https://subscribe-to-vcsa.ignorelist.com/ <br>
+https://mathiseasy.chickenkiller.com/ <br>
+https://spacetechnology.twilightparadox.com/ <br>
+https://chinesekidscheeksarentsafearoundme.procrastin.ar/ <br>
+https://amir1.cuza16.ro/ <br>
+https://lol-asha.dedyn.io/ <br>
+https://ixl.lol-asha.dedyn.io/ <br>
+https://renrendane.laviewddns.com/ <br>
+https://salyte.cassidycamp.work/ <br>
+https://doge.gracyjohns.cl/ <br>
+https://schoolwork.broomleigh.org/ <br>
+https://learnmaths.lahrtowers.com/ <br> <br>
 **4/20 Links (40+)** <br>
 https://learn.whitespaceairwaves.org/ <br>
 https://travel.connect.hqcloud.de/ <br>
@@ -457,9 +554,25 @@ https://math.7s.com.tr/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small:  
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
-#### Status: Flourishing 💯
+#### Status: Stable ✅
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
 **200 more Astroid Links** (use unblocker if restricted): https://pastes.io/wkgmzaxgsk <br>
+**June 3 Links (15+)** <br>
+http://wearer.desaindigital.com/ <br>
+http://frugal.pujaghimire.com.np/ <br>
+http://blight.devimontreal.com/ <br>
+http://lastly.bad-domain.info/ <br>
+http://heater.tecwagen.cl/ <br>
+http://runoff.rostest74.ru/ <br>
+http://frugal.superfiks.hr/ <br>
+http://runoff.fmhchile.cl/ <br>
+http://veggie.sochikimet.cl/ <br>
+http://heater.davidkim.cc/ <br>
+http://blight.indiancoins.com/ <br>
+http://blight.shubhammedia.com.np/ <br>
+http://heater.triplewipe.ru/ <br>
+http://wearer.lokprakashpandey.com.np/ <br>
+http://lastly.4nets.org/ <br> <br>
 ##### ipv64.net links: (Nov 5)
 https://www.www.www.obitrani.ipv64.net     <br>
 https://ultraapple.ipv64.net     <br>
@@ -619,6 +732,12 @@ https://vps.intoabyss.org/ <br>
 
 ### Szvy Central | Proxy, Games, Apps
 #### Status: Fresh 😎
+##### 1 million szvy links: https://drive.google.com/file/d/1rKv4WV83llQh7hpM7aqzbXfOFkUzT_ez/view
+**6/3 Links** <br>
+https://james.lebron.lebrandeus.com <br>
+https://test.freemedicine.info/ <br>
+https://mathsubjeftvrebagreements.corporaciontolerancia.cl/ <br>
+https://kahoot.com.de/ <br>
 **4/20 Links** <br>
 https://sciencemath.csfl.eu/ <br>
 https://schoolisfun.farted.net/ <br>
@@ -730,6 +849,45 @@ https://login.mathcentral.work/   <br>
 
 ### Shadow Browser | web browser
 #### Status: Flourishing 💯 
+**June 3 Links (45+)** <br>
+http://summer.steveward.ws/ <br>
+http://brunson.ryanjlowe.us/ <br>
+http://letsgoo.jnrcs.org/ <br>
+http://shai.tecnova.com.br/ <br>
+http://last.serverpit.com/ <br>
+http://underrated.logntw.com/ <br>
+http://time.dateeasily.com/ <br>
+http://aedwards.circusslaves.com/ <br>
+http://brunson.mutsuura.com/ <br>
+http://manifest.icemail.me.uk/ <br>
+http://shai.slumbo.com/ <br>
+http://brunson.lospenitentes.com/ <br>
+http://aura.larakaras.com/ <br>
+http://last.southquay.com/ <br>
+http://break.nettekks.com/ <br>
+http://underrated.pchelp-24.com/ <br>
+http://brunson.jckadames.com.br/ <br>
+http://last.tecnova.com.br/ <br>
+http://time.opensrc.mx/ <br>
+http://aedwards.ku4oy.us/ <br>
+http://time.mrdev.com.ar/ <br>
+http://letsgoo.jaytex.ca/ <br>
+http://break.osastrologos.com.br/ <br>
+http://break.davidmcorn.com/ <br>
+https://ball.8head.org/ <br>
+https://morph.aphantocosm.com/ <br>
+https://science.bloodis.red/ <br>
+https://board.escomstack.ro/ <br>
+https://spain.javierblog.com/ <br>
+https://canvasdashboard.apsago.com/ <br>
+https://goguardianteacher.qwerty.com.ar/ <br>
+https://canvasassignments.mashedpotates.com/ <br>
+https://edpuzzle.lempicki.com/ <br>
+https://chessstudyreview.gregoryzhang.com/ <br>
+http://asistdoc.ar.asistdoc.ar/ <br>
+https://my-ip6.de.my-ip6.de/ <br>
+https://mills-family.us.mills-family.us/ <br>
+https://botar-uk.botar.uk/ <br> <br>
 **4/20 Links (275+)** <br>
 https://ace.shadowshark.ipv64.net <br>
 https://apapu.shadowshark.ipv64.net <br>
@@ -1579,6 +1737,154 @@ https://searchplayground.google/ <br> <br>
 
 ### Rammerhead | Web Browser
 #### Status: Flourishing 💯 
+**June 3 Links (150+)** <br>
+https://skibidiparkergoon.happyforever.com/ <br>
+https://giggachad.thepotionsmaster.net/ <br>
+https://sm6.jake.eu/ <br>
+https://quizzesforhelp.26252526.xyz/ <br>
+https://michaelsosigma.26252526.xyz/ <br>
+https://mrfstudyguild.26252526.xyz/ <br>
+https://sami-socsd-public.26252526.xyz/ <br>
+https://sleepykirby.ofmdirect.com/ <br>
+https://gurtyo.sino.tw/ <br>
+https://scienceforkids.saahee.cn/ <br>
+https://lemein.hardsoft.nu/ <br>
+https://lemein.tor-relay.me/ <br>
+https://please.work.h0stname.net/ <br>
+https://lemein.hec.to/ <br>
+https://learnmath.sibmed.org.ru/ <br>
+https://lemein.sibmed.org.ru/ <br>
+https://arjunthestinkyindian.dorsrv.ru/ <br>
+https://please.work.falki.pl/ <br>
+https://ab.ctx.cl/ <br>
+https://h31p.open-window.de/ <br>
+https://tomb.hec.to/ <br>
+https://www.lumber.tedfullwood.com/ <br>
+https://cars.au-32.ch/ <br>
+https://www.iwanta.toilet.ldop.com/ <br>
+https://artiom.made.this.h0stname.net/ <br>
+https://browser.lolo.pro/ <br>
+https://researchedu.mesaayuda.net/ <br>
+https://helpfix.computerworksaz.com/ <br>
+https://sigmawebsitebyaleks.spacenaught.us/ <br>
+https://pbs.lookids.com/ <br>
+https://docs.google.l5.ca/ <br>
+https://dylanigotchu.hbmc.net/ <br>
+https://ramm-ume-pro.swanndvr.net/ <br>
+https://zobovr.csproject.org/ <br>
+https://didsomeoneaskforgooglechromecanary.cryodome.com/ <br>
+https://ranmaadaayorokobee.ve3.info/ <br>
+https://crypticlalaland.9dejulio.gob.ar/ <br>
+https://mathandela.rickroll.xiayu7.cn/ <br>
+https://math.sachhot.com/ <br>
+https://browser.pythonsden.net/ <br>
+https://pp.hamburger2.mesaayuda.net/ <br>
+https://lucasisbritsh.26252526.xyz/ <br>
+https://when-sophie-gets-angry.26252526.xyz/ <br>
+https://bbcincheecks.26252526.xyz/ <br>
+https://calculus.zothow.com/ <br>
+https://math.minetest.land/ <br>
+https://register.cakk.us/ <br>
+https://academy.ctx.cl/ <br>
+https://wiki.manica.org/ <br>
+https://woodworking.jbworks.com/ <br>
+https://start.succeed.cl/ <br>
+https://home.amq.ro/ <br>
+https://shop.woodworker.cl/ <br>
+https://potatojuice.h0stname.net/ <br>
+https://woodshop.jbworks.com/ <br>
+https://plant-selection.baumgardner.us/ <br>
+https://williamjackson.glej.name/ <br>
+https://ramjam.pythontheproto.com/ <br>
+https://learning.zanity.net/ <br>
+https://hihihi.minecraftnoob.com/ <br>
+https://shark.thatguy.space/ <br>
+https://cometomyhouse.homelinuxserver.org/ <br>
+https://z2lozwfpb25kcgtiy25rbmfpb2ruymt6bmj4aw9uzmjrblt4zm8.cobos.mx/ <br>
+https://goldenwebsite.lozan.com/ <br>
+https://elijah.cgbackup1.xyz/ <br>
+https://reaperhead.24-7.ro/ <br>
+https://reapeerr.24-7.ro/ <br>
+https://hammeredhead.24-7.ro/ <br>
+https://reaped.24-7.ro/ <br>
+https://reeper.24-7.ro/ <br>
+https://cant-find-me.1337.cx/ <br>
+https://i-am-a.gooner.my/ <br>
+https://gova.alemanaactiva.cl/ <br>
+https://xtramath.zoho.to/ <br>
+https://bring-your-own.sinewave.cc/ <br>
+https://maths.ds6.pw/ <br>
+https://search.alemanaactiva.cl/ <br>
+https://books.allisons.org/ <br>
+https://info.linville.net/ <br>
+https://its-giving.qwyns-up.in-here.yo.baumgardner.us/ <br>
+https://s7mmervxbes-luck-is-real.baumgardner.us/ <br>
+https://qwyns-luck-is-real.baumgardner.us/ <br>
+https://tesutorender.jake.eu/ <br>
+https://46tube.cky.cl/ <br>
+https://zachscool.allisons.org/ <br>
+https://cheezeballz.404.mn/ <br>
+https://hotsexysinglemomsnearme.undo.cl/ <br>
+https://drive.google.com.hec.to/ <br>
+https://kanji-jp.port0.org/ <br>
+https://eiken-jp.lozan.com/ <br>
+https://blob.ro0t.hm/ <br>
+https://vynox.ctx.cl/ <br>
+https://blobx.ro0t.hm/ <br>
+https://vercel.or-g.net/ <br>
+https://nexsos.syac.ca/ <br>
+https://gbot.gtk.cl/ <br>
+https://be.hse.tw/ <br>
+https://free.30x.ru/ <br>
+https://btg.ludopop.cl/ <br>
+https://btg.go4it.com.mx/ <br>
+https://yoursuper.rude.li/ <br>
+https://qwerty.arepropiedades.cl/ <br>
+https://yes.pastrypowered.com/ <br>
+https://notrh.shockwaver.it/ <br>
+https://xyz.robtop.xyz/ <br>
+https://abdullikesfruits.valejo.net/ <br>
+https://appleicloud.anondns.net/ <br>
+https://linknet.linkpc.net/ <br>
+https://reapeerr.24-7.ro/ <br>
+https://hammeredhead.24-7.ro/ <br>
+https://reaped.24-7.ro/ <br>
+https://reeper.24-7.ro/ <br>
+https://i-am-a.gooner.my/ <br>
+https://gova.alemanaactiva.cl/ <br>
+https://xtramath.zoho.to/ <br>
+https://bring-your-own.sinewave.cc/ <br>
+https://maths.ds6.pw/ <br>
+https://search.alemanaactiva.cl/ <br>
+https://books.allisons.org/ <br>
+https://its-giving.qwyns-up.in-here.yo.baumgardner.us/ <br>
+https://s7mmervxbes-luck-is-real.baumgardner.us/ <br>
+https://tesutorender.jake.eu/ <br>
+https://46tube.cky.cl/ <br>
+https://zachscool.allisons.org/ <br>
+https://drive.google.com.hec.to/ <br>
+https://blob.ro0t.hm/ <br>
+https://vynox.ctx.cl/ <br>
+https://blobx.ro0t.hm/ <br>
+https://vercel.or-g.net/ <br>
+https://nexsos.syac.ca/ <br>
+https://be.hse.tw/ <br>
+https://free.30x.ru/ <br>
+https://btg.ludopop.cl/ <br>
+https://btg.go4it.com.mx/ <br>
+https://shark.thatguy.space/ <br>
+https://flipgrid.opior.com/ <br>
+https://jp.absl.ro/ <br>
+https://good.kje.us/ <br>
+https://ougonokaze.cheftayebeh.ir/ <br>
+https://next.rinet.ai/ <br>
+https://haihu-by-scrsa.3cm.us/ <br>
+https://tails.ospa.fi/ <br>
+https://start.puto.me/ <br>
+https://kazuma-fumo.24-7.ro/ <br>
+https://suken.cfmr.ro/ <br>
+https://the.infocommthailand.com/ <br>
+https://nodamirai.hec.to/ <br> <br>
 **4/20 Links (10+)** <br>
 https://rammerhead-10.swanndvr.net/ <br>
 https://aiden-major.minecraftnoob.com/ <br>
@@ -1953,6 +2259,72 @@ Found no working links..... :(
 ### Utopia | Proxy, Games, AI
 #### Status: Stable  ✅ 
 ##### MORE LINKS IN THEIR DISCORD SERVER (#community-links), https://discord.com/invite/hFZC5cgsmq, CHECK IT OUT.
+**June 3 All working (65+)** <br>
+http://ions.hec.to <br>
+http://strong.marcusleandro.com.br <br>
+http://six.meier.li <br>
+http://base.kaohsiung.tv <br>
+http://electrolyte.theoceanforest.com <br>
+http://hydroxide.cochrane.com.br <br>
+http://six.geo-sistemas.com.ar <br>
+http://soluble.surreyquays.com <br>
+http://chloride.ttkacz.com <br>
+http://seven.privatedns.org <br>
+http://dog.crisdantas.com.br <br>
+http://acetates.lolomgwtfbbq.info <br>
+http://potassium.geo-sistemas.com.ar <br>
+http://acetates.bad.mn <br>
+http://cesium.carroriopreto.com.br <br>
+http://cation.tbarros.com.br <br>
+http://ammonium.truckstore.ch <br>
+http://ammonium.glengall.com <br>
+http://acetates.cnr.com.pk <br>
+http://potassium.cylone.net <br>
+http://vnnogoiafy.familyjam.es/ <br>
+http://yztwnpczxn.copyprint.com.ar/ <br>
+http://wnkfwhlrth.cardiovillamercedes.com.ar/ <br>
+http://ntyzxfoabg.repuestoslibertad.cl/ <br>
+http://tlfpvrbyvt.xxxxx.tw/ <br>
+http://ducifvizsm.mine.bz/ <br>
+http://mvafcuoanw.insamexico.com.mx/ <br>
+http://cwqdvnobjm.gracesiefer.com/ <br>
+http://wxqtmcejsl.dekalo.net/ <br>
+http://mbimaawfsw.erotikload.at/ <br>
+https://bio.write.examinedbytopmen.com/ <br>
+https://learn.data.abbeydentist.com/ <br>
+https://lightspeedsucksloleasybypassedandihavelike12moredomainsxd.beautydiskount.ru/ <br>
+https://math.skill.eccoi.org/ <br>
+https://music.howto.befitannapolis.com/ <br>
+https://state.gov.jaycloudlab.com/ <br>
+https://read.atom.stickyricecakes.com/ <br>
+https://teach.essay.porcineplacenta.com/ <br>
+https://info.lab.paskud.net/ <br>
+https://level.lab.wanganxin.org/ <br>
+https://terms.words.virtualin-houseit.com/ <br>
+https://gov.goal.agilewhitecloud.com/ <br>
+https://sage.know.massloading.net/ <br>
+https://theory.topic.cassidyd.com/ <br>
+https://atom.bio.mrlewburger.com/ <br>
+https://data.focus.abonament.net/ <br>
+https://history.login.wiftee.com/ <br>
+https://info.data.jksol.net/ <br>
+https://topic.know.ticpu.net/ <br>
+https://core.goal.challengepursuit.com/ <br>
+https://data.atom.rehabilitaestudio.com/ <br>
+https://facts.craft.michiganbowling.com/ <br>
+https://skills.ela.briandelano.com/ <br>
+https://piano.rules.placentavitamin.com/ <br>
+https://class.course.acslincoln.com/ <br>
+https://goal.think.vomy.com/ <br>
+https://proof.sage.tenderproai.com/ <br>
+https://rules.grade.lipizzanregistry.com/ <br>
+https://rules.plant.tristateskydivers.com/ <br>
+https://skills.arts.apsiscom.com/ <br>
+https://study.tutor.junliu.com/ <br>
+https://learn.clever.notesninjas.com/ <br>
+https://khanacadamy.ftp.sh/ <br>
+https://state.write.heroicdoses.com/ <br>
+https://craft.sage.sunsmoke.org/ <br> <br>
 **4/20 Links (50+)** <br>
 https://read.atom.stickyricecakes.com/ <br>
 https://teach.essay.porcineplacenta.com/ <br>
@@ -2133,6 +2505,50 @@ https://void-network.radiodelsur.cl <br>
 #### Status: Flourishing 💯 
 ##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (It has weekly links) 
 **Note: Some links might be DayDream X Links**
+**Jun 3 Links (40+)** <br>
+http://edwards.c-om.net/ <br>
+http://shop.smartintegration.cl/ <br>
+http://camp.fassen-shoes.com/ <br>
+http://italy.gandurlog.com/ <br>
+http://calculus.fasoclash.com/ <br>
+http://india.tree-board.net/ <br>
+http://guide.estiloescencial.cl/ <br>
+http://brunson.vuosaarielokuva.fi/ <br>
+http://italy.orinokiagoods.com/ <br>
+http://camp.ephrata-rdc.com/ <br>
+http://mexico.saritakarki.com.np/ <br>
+http://india.anjilabudathoki.com.np/ <br>
+http://goaway.auszeiter.ch/ <br>
+http://calculus.heren1.com/ <br>
+http://thankmelater.hiddensanctuaryhoney.com/ <br>
+https://buy.wine-software.com/ <br>
+https://shop.miceforlife.com/ <br>
+https://edu.info.east-kazakhstan.su/ <br>
+https://app.edu.iownyour.org/ <br>
+https://portal.sso.toythieves.com/ <br>
+https://use.bsfa.info/ <br>
+https://use.gurdit.com/ <br>
+https://use.moldeo.org/ <br>
+https://use.bsfa.info/ <br>
+https://study.moldeo.org/ <br>
+https://edu.bsfa.info/ <br>
+https://edu.gurdit.com/ <br>
+https://study.moldeo.org/ <br>
+https://dumb.frtala.sk/ <br>
+https://love.fugyou.com/ <br>
+https://bruh.j82.org/ <br>
+https://nice.noviolencia.ar/ <br>
+https://cool.symtek.cl/ <br>
+https://guh.uniall.tk/ <br>
+https://zuh.ndr.cl/ <br>
+https://luh.masgas.cl/ <br>
+https://suh.casucha.cl/ <br>
+https://cuh.altimiras.cl/ <br>
+https://prr.toma.cl/ <br>
+https://grr.smel.ls/ <br>
+https://srr.rhiz0.me/ <br>
+https://nrr.ne1.co/ <br>
+https://visit.sistemasplenario.com.ar/ <br> <br>
 **4/20 Links (35+)** <br>
 https://sso.jaaax.net/ <br>
 https://use.bsfa.info/ <br>
@@ -2318,6 +2734,205 @@ https://avocadofrommexico.limana.rs/ <br>
 https://skyzone.radarvision.co.za/ <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+### Selenite | Games, Apps
+#### Status: Flourishing 💯 - ALL ARE WORKING as of 6/3
+http://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+http://fnmfiwxitf.disisleri.com/ <br>
+http://bmsdkgiify.boalimp.com.br/ <br>
+http://ocsscsydjl.inoa.cl/ <br>
+http://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+http://smqzwsgpmb.gaoexpresstowing.sg/ <br>
+http://neaoxbhwlt.radial-pistonmotors.com/ <br>
+http://uipxjajtqc.bamapos.com/ <br>
+http://zavtslecsb.francomedia.net/ <br>
+http://ncsxzrdmvg.eubonia.com/ <br>
+http://ktgeczhtdt.sagark.com.np/ <br>
+http://jqfbdoouzl.covalpo.cl/ <br>
+http://viloyzukzl.sangeetc.com.np/ <br>
+http://zticjpomub.eithermouse.com/ <br>
+http://agmsisuxwn.yaksi.name.tr/ <br>
+http://svjtrkwfza.pii.at/ <br>
+http://oyrxbnamdz.attendasolutions.com/ <br>
+http://algebra.koellreutter.com/ <br>
+http://english.clandestina.org/ <br>
+http://science.hiperclaves.xyz/ <br>
+http://science.mycolli.com/ <br>
+http://math.robot-agachado.org/ <br>
+http://geometry.maum.in/ <br>
+http://math.seegers.us/ <br>
+http://english.thesoultheque.com/ <br>
+http://geometry.browbar.ar/ <br>
+http://geometry.candcinsurancebrokers.com/ <br>
+http://nfslxrrqga.simplecharity.com <br>
+http://gtroecklxp.xn--hgnestrand-q5a.se <br>
+http://hhfnbuvaka.serveris.id.lv <br>
+http://tnhndphmdd.kaznets.com <br>
+http://wzhwiorsyj.lawsonengineers.co.uk <br>
+http://wyugqyazuh.grid-tronix.com <br>
+http://hzsrvgokju.reldas.com.ar <br>
+http://tohldumtfl.sportgroup.cl <br>
+http://czdvunbxky.mygadgets.com.ar <br>
+http://albgqwxucn.rren.ch <br>
+http://wednesdayf.blacknapkins.org/ <br>
+http://thankmelater.thanyakarn.com/ <br>
+http://survival.hmsolucoes.com/ <br>
+http://complete.sleepgate.im/ <br>
+http://creative.birdsofnorthamerica.ca/ <br>
+http://ross.albertn.ru/ <br>
+http://nutrition.staffordesq.com/ <br>
+http://finals.youpc.ro/ <br>
+http://food.nm7.cc/ <br>
+http://coding.swhydro.com/ <br>
+http://yearbook.certified.cl/ <br>
+http://protein.treetech.tw/ <br>
+http://yearbook.cartes.cl/ <br>
+http://spain.phunkmasterz.com/ <br>
+http://carnival.serprise.com/ <br>
+http://protein.excuse.ro/ <br>
+http://calculus.sensibleinvesting.com.au/ <br>
+http://china.diagprog.co.uk/ <br>
+http://yearbook.kyrgyzstan.kg/ <br>
+http://italy.runyeard.com/ <br>
+http://clear.grupo-agm.mx/ <br>
+http://carnival.enigma3rd.co.za/ <br>
+http://mexico.swiderski.ca/ <br>
+http://america.escribaniarusso.com.ar/ <br>
+http://ross.mikealesso.com/ <br>
+http://project.runyeard.com/ <br>
+http://spain.lospenitentes.com/ <br>
+http://geometry.pablogallego.com.ar/ <br>
+http://coding.360technologies.ca/ <br>
+https://itsbacklesgo.bsfa.info/ <br>
+https://electricity.geobattery.com/ <br> <br>
+##### Old links from Games.md (all workimg)
+http://ratherliethan.logntw.com <br>
+http://ratherliethan.opticalize.com <br>
+http://ratherliethan.allez.la <br>
+http://ratherliethan.jumpingcrab.com <br>
+http://ratherliethan.paulkelly.org <br>
+https://fish.fiddlefish.net/ <br>
+https://fishes.fishfx.com/ <br>
+https://fish.socalfishkillaz.com/ <br>
+https://fishes.teachmetofish.net/ <br>
+https://fish.toadfishmonastery.org/ <br>
+https://selenite.edublue.org/ <br>
+http://xzuqfwxvru.ambientinformatica.com.br/ <br>
+http://hvglybasrh.evils.in/ <br>
+http://qmzemizbfq.lczipper.com/ <br>
+http://byenccoyec.propertyshots.net/ <br>
+http://jznopbfrwd.masdiseno.com/ <br>
+http://hodltvpthf.malam.or.id/ <br>
+http://olsnglpuyt.bookinturkey.net/ <br>
+http://dhnpcqfcyh.stahlnecker.net/ <br>
+http://gyxnadefai.lehoozeher.com/ <br>
+http://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+http://fnmfiwxitf.disisleri.com/ <br>
+http://bmsdkgiify.boalimp.com.br/ <br>
+http://ocsscsydjl.inoa.cl/ <br>
+http://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+http://celkupfivp.adis.web.id/ <br>
+http://smqzwsgpmb.gaoexpresstowing.sg/ <br>
+http://neaoxbhwlt.radial-pistonmotors.com/ <br>
+http://uipxjajtqc.bamapos.com/ <br>
+http://zavtslecsb.francomedia.net/ <br>
+http://ncsxzrdmvg.eubonia.com/ <br>
+http://ktgeczhtdt.sagark.com.np/ <br>
+http://jqfbdoouzl.covalpo.cl/ <br>
+http://viloyzukzl.sangeetc.com.np/ <br>
+http://zticjpomub.eithermouse.com/ <br>
+http://svjtrkwfza.pii.at/ <br>
+http://algebra.koellreutter.com/ <br>
+http://english.clandestina.org/ <br>
+http://science.hiperclaves.xyz/ <br>
+http://science.mycolli.com/ <br>
+http://math.robot-agachado.org/ <br>
+http://geometry.maum.in/ <br>
+http://math.seegers.us/ <br>
+http://english.thesoultheque.com/ <br>
+http://english.macadmincc.co.za/ <br>
+http://geometry.browbar.ar/ <br>
+http://geometry.candcinsurancebrokers.com/ <br>
+https://bmsdkgiify.boalimp.com.br/ <br>
+https://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+https://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+https://selenite.edublue.org/ <br>
+http://pjeehxawjg.acompanhantesantoandre.com.br/ <br>
+http://ocsscsydjl.inoa.cl/ <br>
+http://pnmhyxtcyb.sandhyakhand.com.np/ <br>
+http://smqzwsgpmb.gaoexpresstowing.sg/ <br>
+http://neaoxbhwlt.radial-pistonmotors.com/ <br>
+http://uipxjajtqc.bamapos.com/ <br>
+http://zavtslecsb.francomedia.net/ <br>
+http://ktgeczhtdt.sagark.com.np/ <br>
+http://jqfbdoouzl.covalpo.cl/ <br>
+http://zticjpomub.eithermouse.com/ <br>
+https://fishingrod0bisidan.global.ssl.fastly.net/ <br>
+https://aydenisanunc.razorlan.info/ <br>
+https://selenite.global.ssl.fastly.net/ <br>
+https://totallyfastly.net.it123.ru/ <br>
+https://whatis.terradomus.net/ <br>
+https://bob-the-builder.bsfa.info/ <br>
+https://hop.refillmaker.com/ <br>
+https://asster.df.cissp.or.id/ <br>
+http://wasdwasdwasdwasdwasdwasd.df.cissp.or.id/ <br>
+http://tutorialig.agguiopz.ip-dynamic.org/ <br>
+http://they.are.controlling.you.df.cissp.or.id/ <br>
+http://the.line.df.cissp.or.id/ <br>
+http://r.i.p.dumpsterfire.and.lucid.df.cissp.or.id/ <br>
+http://prison.df.cissp.or.id/ <br>
+http://olncavior.agguiopz.ip-dynamic.org/ <br>
+http://oldaccguiop.agguiopz.ip-dynamic.org/ <br>
+http://notion.df.cissp.or.id/ <br>
+http://lsco.df.cissp.or.id/ <br>
+http://loser.co.is.goated.df.cissp.or.id/ <br>
+http://lean.with.it.rock.with.it.df.cissp.or.id/ <br>
+http://kom.is.sigma.df.cissp.or.id/ <br>
+http://keep.it.freaky.df.cissp.or.id/ <br>
+http://ineedmoreips.agguiopz.ip-dynamic.org/ <br>
+http://happy.holidays.df.cissp.or.id/ <br>
+http://greetings.huzz.df.cissp.or.id/ <br>
+http://fleshpanopticon.agguiopz.ip-dynamic.org/ <br>
+http://feel.good.inc.df.cissp.or.id/ <br>
+http://everlong.df.cissp.or.id/ <br>
+http://entertain.my.faithh.df.cissp.or.id/ <br>
+http://asster.man.is.sigma.df.cissp.or.id/ <br>
+https://learn.follobusiness.com/ <br>
+https://skys.booty.hair/ <br>
+https://safe-selection.assenov.net/ <br>
+https://goofy-nonstop.strangled.net/ <br>
+https://defnotselenite.pakasak.com/ <br>
+https://learn-2-cook.2gfkitchen.com/ <br>
+https://land.refillmaker.com/ <br>
+https://hop.refillmaker.com/ <br>
+https://netflixa.blacknapkins.org/ <br>
+https://sewafw.bistaumanga.com.np/ <br>
+https://selenite.global.ssl.fastly.net/ <br>
+http://blueshadows.cl <br>
+https://projects.blueshadows.cl/ <br>
+https://telescopes.blueshadows.cl/ <br>
+https://fideos.projects.blueshadows.cl <br>
+https://sizing.tool.garmanage.com/ <br>
+https://information.potomacriversafetycommittee.org/ <br>
+https://checkout.donate.potomacriversafetycommittee.org/ <br>
+https://aboutourcause.potomacriversafetycommittee.org/ <br>
+https://calendar.matches.tafca.co.uk/ <br>
+https://clubs.tafca.co.uk/ <br>
+https://winter.league.tafca.co.uk/ <br>
+https://calendar.matches.tafca.co.uk/ <br>
+https://form.contact.essexregional.org <br>
+https://staff.about.essexregional.org/ <br>
+https://art.portfolio.steveharrop.co.uk/ <br>
+https://about.blog.steveharrop.co.uk/ <br>
+http://cool.hlebets.space/ <br>
+http://schoology.hlebets.space/ <br>
+http://btwdontmasshare-ifgetsblocked-iwillremovethelink.yuanda223.xyz/ <br>
+https://deezbananas.cc/ <br>
+https://thestoreselection.com/ <br>
+ <br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+
 ### Hypertabs | Web Browser
 #### Status: Stable ✅ 
 https://quack-start.surge.sh/ <br>
@@ -2346,6 +2961,11 @@ None....
 
 ### Sunset Network | Web browser
 #### Status: Stable ✅
+**June 3 Links (<5)** <br>
+https://green.2fine.de/ <br>
+https://blue.8bit.ca/ <br>
+https://blue.govt.hu/ <br>
+https://hubby.anjumanallana.in/ <br> <br>
 **4/20 Links (45+)** <br>
 https://5.199.139.218.nip.io/ <br>
 https://6thand5thgradewebsite.freemath.ch/ <br>
@@ -2438,6 +3058,32 @@ https://sunsetv3-z.global.ssl.fastly.net/   <br>
 
 ### Emerald | Proxy, Games, Apps
 #### Status: Stable ✅ 
+**June 3 Links** <br>
+https://cowculus.leasingindia.com/ <br>
+https://ericgentryisgay.mooo.com/ <br>
+https://blockthisifyourgay.chickenkiller.com/ <br>
+https://cyberrsarcane.mooo.com/ <br>
+https://2025-emerald101.1337dev.pro/ <br>
+https://cyberrmadethisyuh.sibmed.org.ru/ <br>
+https://schooldinoartik.qthome.org/ <br>
+https://emerald.laoxz.cn/ <br>
+https://schoologyv69.frostalertemail.com/ <br>
+https://tswasmadebygal.ignorelist.com/ <br>
+https://sleepphonk.dicosmo.com.au/ <br>
+https://galdoingtomuchistg.dream.org.il/ <br>
+https://brawlstarsisshitplaypjsk.garmanage.com/ <br>
+https://donpollothegoat.glenalmond.com.au/ <br>
+https://stickysock.andreigeorgescu.ro/ <br>
+https://coolsite.ix.tc/ <br>
+https://homeworkforall.chickenkiller.com/ <br>
+https://gusss5.mooo.com/ <br>
+https://gusmadethislol.chickenkiller.com/ <br>
+https://emerald.zavoj.ch/ <br>
+https://dlv.standardpartner.com/ <br>
+https://adrielmypookie.faizinternational.com.np/ <br>
+https://emeralder.chickenkiller.com/ <br>
+https://ixl.chanka.com/ <br>
+https://tesdtyhgf.turismofutaleufu.cl/ <br> <br>
 **4/20 Links** <br>
 https://didddypreston.ajhurst.org/ <br>
 https://flintandsteelchickenjocky.nodnor.com/ <br>
@@ -2558,6 +3204,14 @@ https://zatoga-guffy.achpnl.cl/ <br>
 ### CanLite | Proxy, Games
 #### Status: Fresh 😎 - Mar 3 Links, all working!
 **MAIN LINK:** https://canlite.org/<br>
+**JUNE 3 WORKING 5+** <br>
+https://canliteisawsome.bsfa.info/ <br>
+https://8jiq6jl79bz8.2to1agri.com/<br>
+https://ifyoqhwia98h.pennstateoldies.com/<br>
+https://swzwrczynghk.runyeard.com/<br>
+https://lphoky3kt8c1.interseguros.cl/<br>
+<br>
+Mar 3 Links: <br>
 https://everyonegetsnews.org/<br>
 https://9sqn9f4ue2oq.abc92.ru/<br>
 https://boakqyagbgc9.ultrav.us/<br>
@@ -2687,6 +3341,14 @@ https://j2q385-8080.csb.app/ <br>
 
 ### Shuttle | Games, Apps, and Proxy 
 #### Status: Unstable 😐
+**6/3 Links 5+** <br>
+https://robotics.nstabiology.org/ <br>
+https://publichealth.nstabiology.org/ <br>
+https://literature.k12biography.com/ <br>
+https://trigonometry.scientificsense.org/ <br>
+https://historicallinguistics.scientificsense.org/ <br>
+https://sociolinguistics.k12biology.com/ <br>
+<br>
 **4/5 Links (Bonus)** <br>
 https://warm-lake-753.3kh0.org/ <br>
 https://bright-rain-434.k12biography.com/ <br>
@@ -2712,8 +3374,68 @@ https://j.xj2.workers.dev/ <br>
 https://io.sqeven.workers.dev/ <br>
 https://loli.xianyu1.workers.dev/ <br>
 
+###  Bolt | web browser, games, apps
+#### Status: Fresh 😎 - All working as of june 3
+https://flashorbolt.bsfa.info/ <br>
+http://mxosaijtea.stockcity.ru/ <br>
+http://ytlzmqzwyr.dockl.com/ <br>
+http://grcohhriul.promedika.cl/ <br>
+http://nvfbefnxti.redhouserivermile.co.za/ <br>
+http://hopkwedcor.kanayadrumband.co.id/ <br>
+http://mnyttvchdm.madereramilano.com.ar/ <br>
+http://lbqbtpmqiw.infomasc.com.ar/ <br>
+http://nmweerxovk.lawson-engineers.co.uk/ <br>
+http://frohwvozsp.kanayadrumband.co.id/ <br>
+https://yug-has-a-big-butt.faizinternational.com.np/ <br>
+http://ewwohziiim.estudioinaa.com.ar/ <br>
+http://eucmqjwdeu.nchez.mx/ <br>
+http://kztdrrzwmk.c-abogados.com.ar/ <br>
+http://qvllhtghwt.madereramilano.com.ar/ <br>
+http://izhpvmqsck.sostech.net.au/ <br>
+http://wxtkkgppby.garbinconstructora.com.ar/ <br>
+http://lashjxfodo.judysart.com/ <br>
+http://yfinnxfiyz.gosurama.com.ar/ <br>
+http://etwfrrpmkn.skamaria.net/ <br>
+http://fnbjmyfkbf.sch-design.com.ar/ <br>
+http://dveynasblq.firstimage.biz/ <br>
+http://lkhpcgrctm.mnode.net/ <br>
+https://i-heart-chicken-jockey.jaaax.net/ <br>
+https://bolted.potatoes.moldeo.org/ <br>
+https://ok.hec.to/ <br>
+ <br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+### Waves | proxy, games, apps, movies, ai
+#### Status: Fresh 😎 - Jun 3 all work
+https://flintandsteel.kemalyerli.com/ <br>
+https://juanfoolio.logistica.com.mx/ <br>
+https://waves.gigaportal.pl/ <br>
+https://guyimsureimnotgay.awesine.com/ <br>
+https://elsigmathegreat.justminers.com/ <br>
+https://elthesigma.intrarmour.com/ <br>
+https://sigmawithel2.tvjumbleanswers.com/ <br>
+https://elsigmareturns.ippaveln.xyz/ <br>
+https://elsigmareturns5.ippaveln.xyz/ <br>
+https://elsigmareturns4.ippaveln.xyz/ <br>
+https://usewaves.site/ <br>
+https://noiwillcomealive.wolfsdengaming.com/ <br>
+https://exlinmath.chickenkiller.com/ <br>
+https://plzdontdothistomefreakahh.embavenez-siria.com.ve/ <br>
+https://brooootheynotgettingus.chickenkiller.com/ <br>
+https://ocean.chimmychurry.com/ <br>
+https://mysteries.sltech.cl/ <br>
+https://waves.ignorelist.com/ <br>
+https://buyplaquenil.site/ <br>
+https://guyyallneedtheselink.xiayu7.cn/ <br>
+https://myguymiasaidtooilupnow.matribhumimf.com.np/ <br>
+https://secondsneedasap.xiayu7.cn/ <br>
+https://yallquestionmesomuch.matribhumimf.com.np/ <br>
+ <br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
 ### Tinf0il | games, proxy, apps
 #### Status: Stable ✅ 
+**6/3** https://correctly-ultimate-eel.global.ssl.fastly.net/ <br>
 **March 24 Links** <br>
  http://citrik-is-a-smelly-indian.xyz/ <br> <br>
 **Dec 25 Links:** <br>
@@ -2871,6 +3593,28 @@ https://mexi.rest/ <br>
 https://utauloid.space/ <br> <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
+### FalconLink | Proxy, Games, Apps 
+#### Status: Fresh 😎
+https://mathing.vngeek.com/ <br>
+https://ela.somgelida.net/ <br>
+https://tutor.storevisuals.com/ <br>
+https://falconlink.worldwideweber.net/ <br>
+https://calculator.renoirmanagement.com/ <br>
+https://learning.appmine.com/ <br>
+<br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
+
+### Truffled | Proxy, Games, Apps, Movies
+#### Status: Fresh 😎 - June 3
+**Server:** https://discord.gg/4pBKVKhfTQ <br> <br>
+https://golflesson.sbs/ <br>
+https://historylesson.online/ <br>
+https://historylesson.xyz/ <br>
+https://iwantto.cyou/ <br>
+https://schoology.com.de/ <br>
+https://v2202502255106315135.powersrv.de/ <br>
+<br>
+**:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 ### Incognito | Proxy, Games, Apps 
 #### Status: Stable ✅
 https://km8y68.csb.app/ <br>
@@ -2940,6 +3684,11 @@ https://cool.zaz.vhutambo.co.za/static/ <br>
 
 ### Purified | Proxy, Games, Apps
 https://mathproxy.cool.aid.edu.surfnet.ca/ <br>
+**JUNE 3** <br>
+https://purified3.transportescasuso.com.ar/<br>
+https://purified2.transportescasuso.com.ar/<br>
+https://purified1.transportescasuso.com.ar/<br>
+
 
 ### Holy Unblocker 
 Credits to rando sandow for the links. <br>
@@ -2963,6 +3712,16 @@ Directions: <br>
 
 ### Radius
 **Feb 24 Link (credit to rando sando):** https://scaratek.me/ <br>
+
+### Extra Proxies
+Im too lazy to sort these out. Here:
+https://helios-browser.rf.gd/?i=1 <br>
+https://helios-browser.ct.ws/?i=1 <br>
+https://gtube.lat/ <br>
+https://gtube.autos/ <br>
+https://myaccount.starnightimport.com/ <br>
+https://ubyis.top/ <br>
+https://sigmasigmatoiletedge.github.io/ <br>
 
 ---
 
