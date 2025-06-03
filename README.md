@@ -7,7 +7,7 @@ FYI: **"Proxies" = "Unblockers"**
 Please do this poll to know which unblockers I should make: https://github.com/wea-f/ByePassHub/discussions/88 (thanks!)<br> 
 
 **3250+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
-**450+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
+**300+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
 **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br><br>
 **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
 **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
