@@ -33,26 +33,28 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
 
-### Jun 3, 2025 - 550+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
+### Jun 3, 2025 - 700+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
 - 190+ [Selenite](#selenite--games-apps) (**NEW**)
 - 150+ [Rammerhead](#rammerhead--web-browser)
 - 65+ [Utopia](#utopia--proxy-games-ai)
 - 60+ [Doge](#doge-unblocker--proxy-games-apps)
 - 45+ [Shadow](#shadow-browser--web-browser)
 - 40+ [Space](#space--proxy-games-apps)
-- 30+ [Bolt](#bolt--web-browser-games-apps) (**NEW HIGHLY RECOMMEND**)
+- 30+ [Bolt](#bolt--web-browser-games-apps) (**NEW, HIGHLY RECOMMEND**)
 - 25+ [Emerald](#emerald--proxy-games-apps)
 - 25+ [Waves](#waves--proxy-games-apps-movies-ai) (**NEW**)
 - 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
 - 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
 - 5+ [FalconLink](#falcon--proxy-games-apps) (**NEW**)
 - 5+ [Truffled](#truffled--proxy-games-apps-movies)
-- 5+ [Sunset]()
-- 5+ Shuttle
-- 5+ CanLite
-- <5 Purified
-- More Szvy + a million link document!!
+- 5+ [Sunset](#sunset-network--web-browser)
+- 5+ [Shuttle](#shuttle--games-apps-and-proxy)
+- 5+ [CanLite](#canlite--proxy-games)
+- <5 [Purified](#purified--proxy-games-apps)
+- More [Szvy Central](#szvy-central--proxy-games-apps) + a million link document!!
 - Added [Extra Proxies](#extra-proxies) Section
+
+  
 ### April 20, 2025 - 500+ Links! + Doc Clean up - [Google Doc Launched!](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 **To find the newly added WORKING links, look for the label, "April 20 links."**
 - 275+ [Shadow](#shadow-browser--web-browser)
@@ -76,7 +78,7 @@ To find the newly added links in the update, **look for the heading that contain
 - 10+ [Space](#space--proxy-games-apps) and [Daydreamx](#daydream-x--web-browser)
 - New site [Purified](#purified--proxy-games-apps) with 1 link
 - 15+ [Sunset Network](#sunset-network--web-browser), [Emerald](#emerald--proxy-games-apps)
-
+<!--
 ### March 24, 2025 - 175+ Links! New site Gimkit, Meximath
 - NEW [Gimkit](#gimkit--proxy) site with 30+ links
 - 65+ [Space](#space--proxy-games-apps)
@@ -90,7 +92,7 @@ To find the newly added links in the update, **look for the heading that contain
 - <5 [Meximath](#meximath--proxy-games-apps)
 - 15+ [Shuttle](#shuttle--games-apps-and-proxy), [Artclass](#artclass--games-apps-proxy-and-emulators), [Tinf0il](#tinf0il--games-proxy-apps)
 
-<!--
+
 ### March 3, 2025 - Over 200 Links, New sites CanLite and DayDreamX
 - Created [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) page, check it out for more links.
 - 55+ [Rammerhead](#rammerhead--web-browser)
@@ -140,25 +142,25 @@ To find the newly added links in the update, **look for the heading that contain
 | Fresh 😎 | The site was recently made and newly introduced! | <br>
 
 - <5 [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable ✅
-- **250+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing 💯
-- 50+ [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing 💯
-- **140+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
-- **100+** [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps | Status: Stable ✅
-- **800+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing 💯 
+- **260+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing 💯
+- *110+* [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing 💯
+- **155+** [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page) - Proxy, Games, Emulators, Apps | Status: Stable ✅
+- *100+* [Szvy Central](#szvy-central--proxy-games-apps) - Proxy, Games, Apps | Status: Stable ✅
+- **845+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing 💯 
 - 30+ [Google Sites](#google-sites--a-mixture-of-games-exploits-proxies-and-emulators--some-proxy-or-games-may-be-blocked) - Games, Exploits, Proxies, Apps | Status: Varying 😬 
-- **300+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing 💯 
+- **450+** [**Rammerhead**](#rammerhead--web-browser) - Web Browser <- these links are probably unblocked for you | Flourishing 💯 
 <!--- 5+ [Artclass](#artclass--games-apps-proxy-and-emulators) - Proxy, Games, Apps, and Emulators | Ghosted 🚫 -->
-- **150+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
+- **215+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
 - 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
-- **180+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing 💯
+- **220+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing 💯
 - **190+** [Selenite](selenite--games-apps) - One of the best GAMES sites, Apps | Status: Flourishing 💯
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable ✅
  <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* 🚫-->
-- 80+ [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
-- 45+ [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
+- *85+* [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
+- *70+* [**Emerald**](#emerald--proxy-games-apps) - Proxy, Games, Apps | Stable ✅
 - 40+ [Arsenic](#arsenic--proxy-games) - Proxy, Games | Status: Stable ✅
 - 10+ [Zatoga](#zatoga--proxy-games-apps-and-cheats) - Proxy, **500+ Games**, Apps, Cheats | Ghosted 🚫
-- 60+ [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
+- *60+* [CanLite](#canlite--proxy-games) - Proxy, games | Fresh 😎
 - 40+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank) - Proxy, Games, Apps | Status: unstable 😬
 - 10+ [Shuttle](#shuttle--games-apps-and-proxy) - Proxy, Games, Apps | Unstable 😐
 - <5 [Page Sandbox](#page-sandbox--proxy--apps-like-reddit-and-twitch--ignore-the-random-chinese-text-it-doesnt-do-anything) - Proxy, Apps | Functional 😐
@@ -166,7 +168,7 @@ To find the newly added links in the update, **look for the heading that contain
 - 25+ [Waves](#waves--proxy-games-apps-movies-ai) - Proxy, Games, Apps, Movies, AI | Fresh 😎
 - 5+ [Tinf0il](#tinf0il--games-proxy-apps) - Proxy, Games, Apps | Status: Stable  ✅
 - 20+ [Gimkit](#gimkit--proxy) - Proxy | Fresh 😎 + **hidden access**
-- 60+ [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
+- *60+* [**DayDream X**](#daydream-x--web-browser) - Web Browser | Flourishing 💯
 - 10+ [Meximath](#meximath--proxy-games-apps) - Proxy, Games, Apps + **TOOLS** | Fresh 😎
 - 5+ [FalconLink](#falconlink--proxy-games-apps) - Proxy, Games, Apps |  Fresh 😎
 - 5+ [Truffled](#falconlink--proxy-games-apps-movies) - Proxy, Games, Apps, Movies |  Fresh 😎
