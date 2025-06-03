@@ -153,7 +153,7 @@ To find the newly added links in the update, **look for the heading that contain
 - **215+** [**Utopia**](#utopia--proxy-games-ai) - Proxy, Games, **AI** | Stable  ✅ 
 - 5+ [Kazwire](#kazwire--proxy-games-apps) - Proxy, Games, Apps | Unstable 😐
 - **220+** [**Space**](#space--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing 💯
-- **190+** [Selenite](selenite--games-apps) - One of the best GAMES sites, Apps | Status: Flourishing 💯
+- **190+** [Selenite](#selenite--games-apps) - One of the best GAMES sites, Apps | Status: Flourishing 💯
 - 10+ [Hypertabs](#hypertabs--web-browser) - Web browser | Stable ✅
  <!--  <5 [Kitty Cat Club](#kitty-cat-club--proxy-games-apps) - Proxy, Games, Apps | *Ghosted* 🚫-->
 - *85+* [Sunset Network](#sunset-network--web-browser) - Web browser, Games | Status: Flourishing 💯
