@@ -1,4 +1,4 @@
-# ByePassHub > Movies & Anime | updated June 27
+# ByePassHub > Movies & Anime | updated June 7
 ## If you like this list, make sure to star it!
 ### This is a collection of links of movies and anime watchers **free**! 
 **Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -32,7 +32,6 @@ https://movie-web.us/#/search/movie <br>
 ### Movie Services using Google Slides
 Netflix: https://docs.google.com/presentation/d/149GpUX0v2xNpwbUTv0Ra1bXSBJ8VImN3yQXMYA9ZhKA/edit <br>
 Disney+: https://docs.google.com/presentation/d/1cqMoS7rNvOX77938GusdWNi6mYVPOfETCVsAVW9I9ps/edit <br>
-Paramount+: https://docs.google.com/presentation/d/1lc9cs9TYLcS3fZNz599myliKaH3_0OjvS5guw3MFZl4/edit <br>
 Hulu: https://docs.google.com/presentation/d/1YDZCGRJMcIXA6CDnnxEUcNuZuEx-NdUETeeVFulhYDg/edit <br>
 ### Other Movie Sites
 https://onionplay.se/ <br>
