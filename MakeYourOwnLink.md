@@ -1,4 +1,4 @@
-# ByePassHub > Making your Own Links | updated June 3
+# ByePassHub > Making your Own Links | updated June 7
 ## If you like these tutorials, make sure to star this repository!
 This files includes a guide on how to make your own unblockers! You can do this with a free DNS provider or with a deployment service like Render or Vercel! <br> <br>
 **Exploit not working? Need help?** Click to fill a [form](https://forms.gle/pGrirP5YAxmKa6kB6). With this feedback I will make the instructions easier to understand! <br>
@@ -10,7 +10,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 + [Deploying via Vercel](#make-links-with-vercel)
 + [Deploying via Render](#make-links-with-render)
  #### (COMING SOON) Deploying with billigerhost and more!?!?!
- 
+
  ### Other files:
 **Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
@@ -114,6 +114,7 @@ If your link doesn't work, try these steps.
 - Then, go to service summary and purge > purge all.
 
 ### Make links with Vercel
+If you try Koyeb, Koyeb has VERY STRICT terms and if you follow instructions too fast you get flagged. These instructions are for vercel anyways. <br> <br>
 Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
 1. Replace the filler with an unblocker repository. For example, vercel.com/new/clone?repositoryurl=https://github.com/dogenetwork/v4 for deploying a doge unblocker link. Here's more (you can find your own too):
 	> Interstellar: `https://github.com/InterstellarNetwork/Interstellar` <br>
@@ -130,24 +131,7 @@ Link: https://vercel.com/new/clone?repositoryurl=`ReplaceThisWithRepositoryURL`
 4. Click "Create"
 5. After a few moments, go to the link that you just created, which should be (repositoryName).vercel.app
 
-### Make links with Render
-(coming soon!)
-IGNORE ALL OF THIS, Doesn't WORK.... <br>
-Link: https://render.com/deploy?repo=(repositoryURL)
-1. With the above link, substitute the repositoryURL with one of the below (you can find your own too):
- 	> Interstellar: `https://github.com/InterstellarNetwork/Interstellar` <br>
- 	> Snorlax's Cave: `https://github.com/Snorlaxs-Cave/Snorlaxs-Cave-v2` <br>
- 	> Artclass: `https://github.com/art-class/v4` <br>
- 	> Utopia: `https://github.com/UtopiaUnblocker/Utopia` <br>
-    	> Abyss Web: `https://github.com/AbyssServices/Abyss-Web` <br>
- 	> Astroid: `https://github.com/VyperGroup/astroidv3` <br>
- 	> Shuttle: `https://github.com/shuttlenetwork/shuttle` <br>
- 	> Tinf0il: `https://github.com/Aluminum-Depot/Tinf0il-new` <br>
-  	> Doge Unblocker: `https://github.com/dogenetwork/v4` <br>
-   	> Shadow Tabbed: `https://github.com/xnightless/Shadownetwork` <br>
-2. Example: https://render.com/deploy?repo=https://github.com/Shadowproxynetwork/Shadownetwork
-3. It will prompt you to sign in, sign up if needed. You should sign in/sign up with Github.
-4. For the blueprint name, put anything
-5. For the branch, keep it at `main`
+
+
 
 
