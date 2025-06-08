@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated June 3
+# ByePassHub > Main Links | updated June 8
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -20,6 +20,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- June 8 - Fixed some non working proxies (some have shutdown for the summer!)
 - June 3 - This might be the last update. Summer Break is here, and I am losing intereset and motivation. 
 - 5/23 - I know, its been almost a month, but please do this [poll](https://github.com/wea-f/ByePassHub/discussions/88) to know what links I should make!!
 - 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
@@ -557,6 +558,9 @@ https://math.7s.com.tr/ <br> <br>
 
 ### Astroid | Games, Emulators, Apps, and Proxy | To access, click ANY button on the "Math is fun" page
 #### Status: Stable ✅
+> [!IMPORTANT]  
+> Most links don't work, (the IP changed, more links will come soon)
+
 **2000+ Astroid Links** (use unblocker if link restricted): https://pastebin.com/5pDP2SsS <br>
 **200 more Astroid Links** (use unblocker if restricted): https://pastes.io/wkgmzaxgsk <br>
 **June 3 Links (15+)** <br>
@@ -2508,6 +2512,8 @@ https://void-network.radiodelsur.cl <br>
 ##### Highly recommend their discord server: https://discord.com/invite/2xtRtawncs (It has weekly links) 
 **Note: Some links might be DayDream X Links**
 **Jun 3 Links (40+)** <br>
+https://parrotfacts.nordparrot.ro/ <br>
+https://sign-in.urmanet.ch/ <br>
 http://edwards.c-om.net/ <br>
 http://shop.smartintegration.cl/ <br>
 http://camp.fassen-shoes.com/ <br>
@@ -2963,6 +2969,7 @@ None....
 
 ### Sunset Network | Web browser
 #### Status: Stable ✅
+#### IMPORTANT: THESE LINKS DO NOT WORK IN THE SUMMER, THEY WILL BE BACK UP IN FALL WHEN SCHOOL STARTS
 **June 3 Links (<5)** <br>
 https://green.2fine.de/ <br>
 https://blue.8bit.ca/ <br>
@@ -3271,7 +3278,10 @@ https://zyh82z65heuq.fairway.cl<br>
 #### Status: Ghosted 🚫
 
 ### Snorlax | Games, Apps, and Proxy | Can be opened in about:blank 
-#### Status: Unstable 😐:
+#### Status: Unstable 😐
+> [!IMPORTANT]  
+> **THESE LINKS DO NOT WORK IN THE SUMMER, THEY WILL BE BACK UP IN FALL WHEN SCHOOL STARTS**
+
 **4/20 Links, 10+** <br>
 http://atnt.visiblebyverizonwireless.com/ <br>
 http://iamthemusic.a1rplayis.us/ <br>
@@ -3496,13 +3506,11 @@ https://edu.gurdit.com/ <br>
 https://edu.bsfa.info/ <br>
 https://ddxck.rocketpride.com/ <br> <br>
 **Mar 24 Links** <br>
-https://sign-in.urmanet.ch/ <br>
 https://blog.hyvernion.com/ <br>
 https://prices.rchamberlinwoodworking.com/ <br>
 https://buy.viajesflores.com/ <br>
 https://www.zephisfreaky.net/ <br>
 https://financing.fulwellcastingagency.co.uk/ <br>
-https://parrotfacts.nordparrot.ro/ <br>
 https://cheese.suwal.com.np/ <br>
 https://isitreallyeasy.eroeasy.com/ <br>
 https://developer.devmon.ru/ <br>
@@ -3648,18 +3656,23 @@ https://maths4you.net/ <br>
 https://scienceiscool.info/ <br>
 
 ### Anura | web browser | Click "normal user"
-https://anura.mercurywork.shop/ <br>
+https://anura.pro <br>
 
 ### Glype | proxy | May or may not work from time to time
 https://proxy-server.azurewebsites.net/index.php <br>
 
 ### NEW! miniProxy
+> [!NOTE]  
+> The site may or may not work at times, its inconsistent.
+
 https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php <br> 
 **NEW** https://www.4digitalsignage.com/content/showtimes/beltway/miniProxy.php <br>
 <br>
 **:arrow_up_small: Back to [top](#shortcuts--table-of-contents)** :arrow_up_small: 
 
 ### Aero Proxy
+> [!NOTE]  
+> This site is kind of outdated (I wouldn't really use it), but I guess its functional.
 https://rf425d-8080.csb.app/ <br>
 
 ### Node Unblocker
@@ -3671,6 +3684,7 @@ Has a trial <br>
 
 ### Nebula | Proxy and games
 https://spotifyshuffle.com/ <br>
+https://scaratek.me/ <br>
 **Feb 24 Link:** https://librarymath.homes/en_US/ <br>
 **Mar 12 Link:** https://writingessayepicguide.lol/en_US/ <br>
 
@@ -3685,6 +3699,9 @@ https://cool.zaz.vhutambo.co.za/static/ <br>
 -->
 
 ### Purified | Proxy, Games, Apps
+> [!IMPORTANT]  
+> **THESE LINKS DO NOT WORK IN THE SUMMER, THEY WILL BE BACK UP IN FALL WHEN SCHOOL STARTS**
+
 https://mathproxy.cool.aid.edu.surfnet.ca/ <br>
 **JUNE 3** <br>
 https://purified3.transportescasuso.com.ar/<br>
@@ -3693,6 +3710,9 @@ https://purified1.transportescasuso.com.ar/<br>
 
 
 ### Holy Unblocker 
+> [!NOTE]  
+> This site is slow to load, be patient
+> 
 Credits to rando sandow for the links. <br>
 https://fireinspector.xyz/ <br>
 https://cameraproposal.xyz/ <br>
@@ -3712,8 +3732,6 @@ Directions: <br>
 ### Polaris
 **NEW Nov 24** https://polarislearning.org/ <br> -->
 
-### Radius
-**Feb 24 Link (credit to rando sando):** https://scaratek.me/ <br>
 
 ### Extra Proxies
 Im too lazy to sort these out. Here:
