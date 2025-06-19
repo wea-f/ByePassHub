@@ -26,8 +26,7 @@ https://kahoot.club/ <br>
 https://mem.rip/kahoot/ <br>
 
 ## Blooket Cheats (You can use an unblocker and it still works) | You need to be able to execute bookmarklets
-https://05konz.github.io/Blooket-Cheats/ <br>
-https://github.com/05Konz/Blooket-Cheats <br>
+<br> https://github.com/Blooket-Council/Blooket-Cheats <br>
 
 ## Quizlet Cheats
 These are found from this repository: https://github.com/UndercoverGoose/classroom-cheats <br>
