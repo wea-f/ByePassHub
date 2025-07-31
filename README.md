@@ -1,6 +1,6 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! ⭐- Have a great summer!
-### Expect No updates for the summer
+## If you like this collection, make sure to star it! 300 stars!⭐ Updates will come!!
+### Expect No updates for the summer, most proxies shut down.
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 
