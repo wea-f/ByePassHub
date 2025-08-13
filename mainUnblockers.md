@@ -35,98 +35,10 @@ To find the newly added links in the update, **look for the heading that contain
   > For example: Dec 25 Links: <br>
 
 ### June 3, 2025 - 700+ Links!! - New Bolt, Waves, Truffled, Selenite, Falcon Sites
-- 190+ [Selenite](#selenite--games-apps) (**NEW**)
-- 150+ [Rammerhead](#rammerhead--web-browser)
-- 65+ [Utopia](#utopia--proxy-games-ai)
-- 60+ [Doge](#doge-unblocker--proxy-games-apps)
-- 45+ [Shadow](#shadow-browser--web-browser)
-- 40+ [Space](#space--proxy-games-apps)
-- 30+ [Bolt](#bolt--web-browser-games-apps) (**NEW, HIGHLY RECOMMEND**)
-- 25+ [Emerald](#emerald--proxy-games-apps)
-- 25+ [Waves](#waves--proxy-games-apps-movies-ai) (**NEW**)
-- 15+ [Astroid](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page)
-- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 5+ [FalconLink](#falconlink--proxy-games-apps) (**NEW**)
-- 5+ [Truffled](#truffled--proxy-games-apps-movies)
-- 5+ [Sunset](#sunset-network--web-browser)
-- 5+ [Shuttle](#shuttle--games-apps-and-proxy)
-- 5+ [CanLite](#canlite--proxy-games)
-- <5 [Purified](#purified--proxy-games-apps)
-- More [Szvy Central](#szvy-central--proxy-games-apps) + a million link document!!
-- Added [Extra Proxies](#extra-proxies) Section
-
-  
-### April 20, 2025 - 500+ Links! + Doc Clean up - [Google Doc Launched!](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
-**To find the newly added WORKING links, look for the label, "April 20 links."**
-- 275+ [Shadow](#shadow-browser--web-browser)
-- 50+ [Utopia](#utopia--proxy-games-ai)
-- 45+ [Sunset](#sunset-network--web-browser)
-- 40+ [Doge](#doge-unblocker--proxy-games-apps)
-- 35+ [Space](#space--proxy-games-apps)
-- 25+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 10+ [Rammerhead](#rammerhead--web-browser)
-- 10+ [Snorlax](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
-- 10+ [Szvy Central](#szvy-central--proxy-games-apps)
-- 5+ [Emerald](#emerald--proxy-games-apps)
-- Doc clean up, if a section has multiple broken links, it was removed!
-
-### April 5, 2025 - 550+ Links! (300+ Shadow)
-- **330+** [Shadow](#shadow-browser--web-browser)
-- **100+** [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 60+ [Rammerhead](#rammerhead--web-browser)
-- 35+ [Utopia](#utopia--proxy-games-ai)
-- 15+ [Meximath](#meximath--proxy-games-apps)
-- 10+ [Space](#space--proxy-games-apps) and [Daydreamx](#daydream-x--web-browser)
-- New site [Purified](#purified--proxy-games-apps) with 1 link
-- 15+ [Sunset Network](#sunset-network--web-browser), [Emerald](#emerald--proxy-games-apps)
-<!--
-### March 24, 2025 - 175+ Links! New site Gimkit, Meximath
-- NEW [Gimkit](#gimkit--proxy) site with 30+ links
-- 65+ [Space](#space--proxy-games-apps)
-- 25+ [DayDreamX](#daydream-x--web-browser)
-- 25+ [Rammerhead](#rammerhead--web-browser)
-- 15+ [Shadow](#shadow-browser--web-browser)
-- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- 5+ [Doge Unblocker](#doge-unblocker--proxy-games-apps)
-- 5+ [Sunset Network](#sunset-network--web-browser)
-- 5+ [Utopia](#utopia--proxy-games-ai)
-- <5 [Meximath](#meximath--proxy-games-apps)
-- 15+ [Shuttle](#shuttle--games-apps-and-proxy), [Artclass](#artclass--games-apps-proxy-and-emulators), [Tinf0il](#tinf0il--games-proxy-apps)
+- Personally tested all links (WIP), removing non working ones.
+- Verified to be ALL working: [Doge](#doge-unblocker--proxy-games-apps), [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects), [**Astroid**](#astroid--games-emulators-apps-and-proxy--to-access-click-any-button-on-the-math-is-fun-page), [Szvy Central](#szvy-central--proxy-games-apps),  [**Rammerhead**](#rammerhead--web-browser),[**Utopia**](#utopia--proxy-games-ai), [Kazwire](#kazwire--proxy-games-apps), **845+** [Shadow Browser](#shadow-browser--web-browser), [**Space**](#space--proxy-games-apps), [Selenite](#selenite--games-apps), [Hypertabs](#hypertabs--web-browser)
 
 
-### March 3, 2025 - Over 200 Links, New sites CanLite and DayDreamX
-- Created [Other Ways to get Proxies](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) page, check it out for more links.
-- 55+ [Rammerhead](#rammerhead--web-browser)
-- New site [CanLite](#canlite--proxy-games) with 45+ links
-- 25+ [Shadow](#shadow-browser--web-browser)
-- 20+ [Snorlax's Cave](#snorlax--games-apps-and-proxy--can-be-opened-in-aboutblank)
-- 20+ [Emerald](#emerald--proxy-games-apps)
-- 20+ [Sunset Network](#sunset-network--web-browser)
-- New site [DayDreamX](#daydream-x--web-browser) with 10+ links
-- 5+ [Szvy Central](#szvy-central--proxy-games-apps)
-- 5+ [Utopia](#utopia--proxy-games-ai)
-- More [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) and [Space](#space--proxy-games-apps)
-- (Feb 24) New site [Radius](#radius) with one link.
-- (Feb 24) Added one more [Nebula](#nebula--proxy-and-games) link.
-- Status Changes:
-  - Snorlax changed from ghost to unstable
-  - Sunset Network changed from fresh to flourishing
-  - Space changed from fresh to flourishing
-  - Shuttle changed from unstable to ghosted
-  - Astroid moved down from flourishing to stable
-
-### Feb 23, 2025 - 300+ Links, New sites Szvy Central, Sunset Network
-**To find the newly added WORKING links, look for the label, "Feb 23 links."**
-- 100+ [Space](#space--proxy-games-apps) links
-- New site [Szvy Central](#szvy-central--proxy-games-apps) with 100+ links
-- 35+ [Shadow](#shadow-browser--web-browser)
-- New site [Sunset Network](#sunset-network--web-browser) with 30+ links
-- 10+ [Emerald](#emerald--proxy-games-apps)
-- 10+ [Interstellar](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects)
-- New site [Acceleration](#acceleration--proxy-games-apps) with 5+ links
-- 5+ [Rammerhead](#rammerhead--web-browser)
-- More [Arsenic](#arsenic--proxy-games), [Utopia](#utopia--proxy-games-ai), and one more [Light](#light--proxy-games-apps)
--->
 
 <br>
 
