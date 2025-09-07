@@ -1,6 +1,6 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! 300 stars!⭐ Updates have come!!
-### Most proxies have not many links after the summer.
+## If you like this collection, make sure to star it! 300 stars!⭐ 
+### This collection is not very well updated, and I've lost interest. Please check out [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies: 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 
