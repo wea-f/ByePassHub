@@ -1,28 +1,19 @@
-# ByePassHub > Other ways to get Proxies | updated March 8
-## If you like this list, make sure to star this repository!
-Other Files:<br>
-**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+# ByePassHub > Other ways to get Proxies | updated Sep 9
+On this page, I'm going to give you **THE BEST** resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
+1. You can get the freshest links and exploits 😎
+2. Those links and bypasses are more likely to **stay** being unblocked
+3. You can get **more**, 📈
+4. and I can do less (i won't be updating that often) 📉
 
----
-
-Hi, I've noticed that this collection is getting quite popular, this means links are getting blocked faster and faster. Having an archive of links is dangerous and admins can easily copy and paste this list and block them (or just block this site). <br>
-  > Basically, this collection is public to everyone, and it is very easy to access, especially to admins. <br>
-  
-On this page, I'm going to give you some other resources to find proxies that are hidden to the public eye (the same resources I use to get my links), so <br>
-1. You can get the freshest links that are more likely to be unblocked.
-2. Those links are more likely to stay being unblocked
-3. You can get more links,
-4. and I can do less work :)
-
-## Resource #1: Proxy Discord Servers
+## Resource #1: Proxy and Exploit Discord Servers
 After joining these servers (make sure you have a discord account first), you can verify and access plenty of links. <br>
 **Usually, these servers have a channel called `community links` where people would post fresh links that they made.**  <br>
-They also have things called link dispensers, these links are NOT public, 100% working, and probably the most secure links. <br>
+They also have things called **link dispensers**, these links are PRIVATE, 100% working, and probably the most secure links. <br>
 
 They also have instructions for BYOD, meaning creating your own proxy site, and you could follow their instructions too (or follow mine [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md)). <br>
 <br>
 Interstellar: https://discord.gg/interstellar  <br>
-Mercury Workshop Public: https://discord.gg/unblock  <br>
+Mercury Workshop Public - HAS EXPLOTIS TOO: https://discord.gg/unblock  <br>
 Shuttle Network: https://discord.gg/xi   <br>
 Rammerhead: https://discord.gg/VNT4E7gN5Y  <br>
 Art Class: https://discord.gg/desmos  <br>
@@ -50,10 +41,16 @@ PlayVera: https://discord.gg/nova-949081080571494450 <br>
 Universal Network: https://discord.gg/nX6sWSa9HE <br>
 To the left is the proxy name, to the right is the discord invite link (some may not work)
 
-## Resource #2: BYOD
-You can even make your own links with a specific domain. <br>
-This means if a specific domain is unblocked for you, you could try making more proxies with the same domain, which will all be unblocked. <br>
-You could see the instructions [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md), or join some of the above discord servers with more specific instructions (and if you need help) <br>
+## Resource #2: Exploit Collections
+**Use a proxy (mainUnblockers.md) if the sites are blocked. <br>
+Titanium Network: https://docs.titaniumnetwork.org/guides/ (they also have a really good discord server!)<br>
+Chromebook utilities: https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/README.md <br>
+Updated Chromebook utilities: https://github.com/Burvyn/Corellium/tree/main <br>
+Chrose: https://chrose.netlify.app/ <br>
+Mercury Workshop: https://mercurywork.shop/ <br>
+Ext remover: https://github.com/3kh0/ext-remover <br>
+[Chromebook Wifi Unlock](https://docs.google.com/presentation/d/1v1bpEnvQ0OiZ-0-7t_n4VszUAArajypVp1A4A0JmYYI/edit?usp=sharing) <br>
+Unenrolling guide: https://chromebook-guide.github.io/ <br> <br>
 
 ## Resource #3: Online Proxy Collections
 There are many other proxy collections like this one, but maybe not as popular (or more popular) <br>
@@ -84,7 +81,17 @@ https://docs.google.com/document/d/1I-5J5pqc16iXNPGV8AJcTKWbK8iIBAKE57wX6n1ah5Y/
 https://docs.google.com/document/d/1VaZOMeIc3mB73Eowg7YxvyDPEwKTvCrx1001aAXT_gU/edit?usp=sharing <br>
 https://docs.google.com/document/d/1jK_YbLswr_zDIvlkaAdS8U1R_dhIzA4J1J09xbrHgGQ/edit <br>
 https://docs.google.com/document/d/1Q5V1AgsoS2hbCvQJ7RmDzx4ZRIaiGRLLhjkhOrjJqLc/edit?usp=sharing <br>
-https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br>
+https://docs.google.com/document/d/1fy1MAH28pFFrxDkOCEnhKWVl74-mtFA4ZBMoF7OQAm0/edit#heading=h.lzsxfhaz0cl8 <br> <br>
+
+## Resource #4: BYOD
+You can even make your own links with a specific domain. <br>
+This means if a specific domain is unblocked for you, you could try making more proxies with the same domain, which will all be unblocked. <br>
+You could see the instructions [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md), or join some of the above discord servers with more specific instructions (and if you need help) <br>
+
+
 
 <br>
 Anyways, thats it, hope you explored all of these proxy hubs and got some links. Also make sure to not publicly share the link dispenser links, there are rules against that, and they will ban you if you do so. <br>
+<br>
+This collection is getting quite popular, this means links/bypasses are getting blocked faster and faster. Having an archive of links and bypasses is dangerous and admins can easily copy and paste this list and block them (or just block this site). <br>
+  > Basically, this collection is public to everyone, and it is very easy to access, especially to admins. <br>
