@@ -1,4 +1,4 @@
-# ByePassHub > Other ways to get Proxies | updated Sep 9
+# ByePassHub > Other ways to get Proxies | updated Sep 12
 On this page, I'm going to give you **THE BEST** resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
 1. You can get the freshest links and exploits 😎
 2. Those links and bypasses are more likely to **stay** being unblocked
@@ -45,7 +45,7 @@ To the left is the proxy name, to the right is the discord invite link (some may
 **Use a proxy (mainUnblockers.md) if the sites are blocked. <br>
 Titanium Network: https://docs.titaniumnetwork.org/guides/ (they also have a really good discord server!)<br>
 Chromebook utilities: https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/README.md <br>
-Updated Chromebook utilities: https://github.com/Burvyn/Corellium/tree/main <br>
+Corellium (stopped updating): https://github.com/Burvyn/Corellium/tree/main <br>
 Chrose: https://chrose.netlify.app/ <br>
 Mercury Workshop: https://mercurywork.shop/ <br>
 Ext remover: https://github.com/3kh0/ext-remover <br>
