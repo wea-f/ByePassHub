@@ -127,20 +127,8 @@ https://blueybirdy.casarosalba.cl/ <br>
  <br>
 **Jan 25 Links:** <br>
 www.thisemeraldisfree.jokertv.eu/   <br>
-www.phantom-children.kameli.org/   <br>
-https://moneybling.okzk.com/   <br>
-https://not-in-order.okay.com.tr/   <br>
-https://doing-green-now.nokedli.org/   <br>
-https://greenbird.brokenfuture.com/   <br>
-https://smallbluebird.alyaf.com/   <br>
-https://bluebirdgoesblue.hackquest.com/   <br>
-https://birdofblue.chickenkiller.com/   <br>
-https://i-guess-we.okoloko.one.pl/   <br>
 https://phantom-gg-pdfz-sike.duckdns.org/   <br>
 https://phantomtest.delusionz.xyz/   <br>
-https://phantom-children.kameli.org/   <br>
-https://babies-are-ghost.epicgamer.org/   <br>
-https://phantom-babies.spacetechnology.net/   <br>
 https://lifeiswarthunder.hbmc.net/   <br>
 https://fantomutoemerarudotteiptigaunka.easterndns.com/   <br>
 **Dec 25 Links:** <br>
