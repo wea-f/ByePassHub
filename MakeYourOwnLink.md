@@ -50,7 +50,7 @@ This files includes a guide on how to make your own unblockers! You can do this 
 | Unblocker   |  Type | IP Destination |
 | ----------- | ----------- | ------- |
 | Abyss     | Web browser|`5.161.43.35`     |
-| Astroid   | Games, Unblocker, Emulators, Apps|`5.161.68.227`, or `152.53.53.8` |
+| Astroid   | Games, Unblocker, Emulators, Apps| `152.53.53.8` |
 | Artclass | Unblocker, Games, Apps |`198.251.90.4`|
 | Shadow | Web Browser | `104.243.38.18`|
 | Kazwire |  Proxy, games, apps | `103.195.102.132` |
