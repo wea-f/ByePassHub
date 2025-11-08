@@ -1,10 +1,24 @@
-# ByePassHub > Games | updated Sep 24
+# ByePassHub > Games | updated Nov 7
 ## If you like this list, make sure to star it!
 This is a collection of links of ONLY games, no unblockers just games.  <br>
+Including ROBLOX, and multiple game hubs <br>
 
 
-Google doc (use if github is blocked): [here]( https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
+SPOTLIGHT (from November 7th Update)
+### 1346
+https://thirteenfo.netlify.app/ <br>
+https://71745718.online/ <br>
+https://test380.vercel.app/ <br>
 
+### Ghoogle 
+https://ghoogle.vercel.app/ <br>
+https://not-phishing-for-the-last-time.inoa.cl/ <br>
+https://ghoogle.netlify.app/ <br>
+https://unnamedservice.global.ssl.fastly.net/ <br>
+https://binjadagoat.global.ssl.fastly.net/ <br>
+https://work.global.ssl.fastly.net/ <br>
+
+Join this discord for more games!! https://discord.com/invite/Gv4rVt2SJp <br> <br>
 ---
 ### Table of Contents:
 *Italicized ones are RECOMMENDED.* <br>
@@ -12,6 +26,7 @@ Links with a **NEW** tag means that the link was added recently (< 1 week ago) <
   - ***Selenite***: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#selenite--recommended)
   - *Roblox:* [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#roblox--how-is-this-possible)
   - Unblocked Games Hub: [here](#unblocked-games-hub)
+  - 1346 Games: [here](#1346)
   - A1R: [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#a1r)
   - ***Phantom Games:*** [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md#phantom-games--recommended)
   - 3kh0: [here](#3kh0--recommended)
@@ -109,8 +124,8 @@ https://v3.now.gg/ <br>
 
 https://beiswenger.net/unblocked/ <br>
 
-  
-  
+
+
 
 ### A1R
 
