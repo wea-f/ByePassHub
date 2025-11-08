@@ -1125,6 +1125,8 @@ https://gtube.autos/ <br>
 https://myaccount.starnightimport.com/ <br>
 https://ubyis.top/ <br>
 https://sigmasigmatoiletedge.github.io/ <br>
+Hyperion: 1 Link but has BYOD: https://hyperion-v1.us.to/ BYOD IP: 129.158.60.178
+
 
 <br>
 
@@ -1241,7 +1243,8 @@ Platformer: https://discord.gg/sSWRxaHhvA  <br>
 Xenon: https://discord.gg/DyaVHTxng4  <br>
 Sunset Network: https://discord.gg/GPFwfVNEhn <br>
 Night Network: https://discord.com/invite/2xtRtawncs <br>
-
+For Oasis, Insanity, Horizon, Hyperion: https://discord.gg/Gv4rVt2SJp <br>
+For Ghoogle, Gtube, and 1346: https://discord.gg/m9TMXycM3n <br>
 <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼 
