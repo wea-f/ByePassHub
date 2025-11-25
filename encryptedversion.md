@@ -76,7 +76,7 @@ To find the newly added lnks in the update, **look for the heading that contains
 - 20+ [NEW **Velera**](#verla) - Liberator, Playtime, Apps, and Emulators | Status: Flourishing 💯
 - **200+** [Shadow Browser](#shadow-browser--web-browser) - Web browser | Flourishing 💯 
 - 0 [Szvy Central](#szvy-central--liberator-playtime-apps) - Liberator, Playtime, Apps | Status: Fresh 😎 (No lnks currently listed )
-- 28+ [Google Sites](#google-sites--a-mixture-of-playtime-xploits-proxies-and-emulators--some-liberator-or-playtime-may-be-blocked) - Playtime, Exploits, Proxies, Apps | Status: Varying 😬 
+- 28+ [Google Sites](#google-sites--a-mixture-of-playtime-xploit-proxies-and-emulators--some-liberator-or-playtime-may-be-blocked) - Playtime, xploit, Proxies, Apps | Status: Varying 😬 
 - **450+** [Rammerhead](#rammerhead--web-browser) - Web Browser <- these lnks are probably released for you | Flourishing 💯 
 - **35+** [**Utopia**](#utopia--liberator-playtime-academic-integrity) - Liberator, Playtime, **AI** | Status: Flourishing 💯
 - 10+ [**NEW Ghost**](#ghost-liberator-playtime-apps) - Liberator, Playtime, Apps | Status: Fresh 😎
