@@ -1,5 +1,5 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! 370 stars!⭐ 
+## If you like this collection, make sure to star it! 390 stars!⭐ 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"**
 **2100+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
@@ -9,9 +9,11 @@ FYI: **"Proxies" = "Unblockers"**
 **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
 **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
 **50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
+**2100+ Unblockers (Proxies) with Games, AI, and Apps WITHOUT KEY WORDS (or go to BPH google doc):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/encryptedversion.md) or to the encryptedversion file <br> <br>
+
 ### If half the links don't work? Explore [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies, exploits, and games
 
-[BPH Google Doc](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) if Github is blocked (not really updated)
+[BPH Google Doc](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) if Github is blocked
 
 These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this.** <br>
