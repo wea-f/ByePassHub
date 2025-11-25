@@ -10,6 +10,7 @@ This is a collection of lnks of proxies, playtime, AI, and apps. <br>
 **Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 ---
+### [BYEPASSHUB GOOGLE DOC UPDATED NOV 25 (v3)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 
   This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com lnks. <br>
   
