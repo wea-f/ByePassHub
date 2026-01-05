@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated November 7
+# ByePassHub > Main Links | updated January 4
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -20,6 +20,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
+- Jan 4 - Happy New Year, found 100+ links, go [here](#link-dump), or scroll down until you see "Link Dump."
 - November 7 - Rechecked ALL Links, added more (new Ghosted and Vapor Sites!) too!!
 - August 17 - Added new links and removed broken ones (issues [#96](https://github.com/wea-f/ByePassHub/issues/96), [#101](https://github.com/wea-f/ByePassHub/issues/101), and [#102](https://github.com/wea-f/ByePassHub/issues/102)) - Also added more links!
 - June 8 - Fixed some non working proxies (some have shutdown for the summer!)
@@ -31,6 +32,11 @@ Links added in an update are **guranteed** to be working as of that day. <br>
 However, links added in previous updates sometimes **stops working** after a while. <br>
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
+
+### January 4, 2026 - Happy New Year! - Added 100+ Links, includes 3 NEW sites!!
+- Link Dump: Scroll down to [here](#link-dump)
+  - Consists of Selenite, gn math, some shadow, as well as some new sites that I found. 
+
 
 ### November 7, 2025 - Rechecked + 200 more links! + New Sites: Vapor, Verla, Ghost, Petezah, Doge v5 Links!!
 - Personally tested ALL links
@@ -114,6 +120,137 @@ To find the newly added links in the update, **look for the heading that contain
 ---
 
 ## website title | what it contains | any note if needed
+
+## Link Dump 
+> [!NOTE]
+> They should be working - **ALL NEW AS OF 1/4/26!!!**
+
+#### Selenite
+https://guide.flightbooker.co.za/ <br>
+https://map.flightbooker.co.za/ <br>
+<br>
+ 	
+#### Rammerhead
+https://areyousure.bostoncareercounselor.com/ <br>
+https://frittledsocool.bostoncareercounselor.com/ <br>
+https://thatswhattheywantyoutothink.bostoncareercounselor.com/ <br>
+https://wecanbebees.primeflk.ch/ <br>
+https://rammermyhammer.goteeem.com/ <br>
+https://lolgod15try.ndr.cl/ <br>
+https://nana.a.drciocan.ro/ <br>
+https://nana.b.drciocan.ro/ <br>
+https://nana.rammerhead.runolas.pl/ <br>
+https://drive.google.com.csdue.it/ <br>
+https://verynormalsite.wendyandnick.net/ <br>
+https://www.itrsa.chiqui.ar/ <br>
+https://notdominospizzeria.fluxus.org/ <br>
+https://justdoit.ndr.cl/ <br>
+https://abhub1134.truckstore.ch/ <br>
+https://nana.ssk.rinet.ai/ <br>
+https://nana.rammer.dinprima.ro/ <br>
+https://nana.rammer.swift.cl/ <br>
+https://damianlikesjulie.wakemeup.ru/ <br>
+https://rammerheadscience.dougtreadwell.com/ <br>
+https://www.itrsa.env.lntxbox.com/ <br>
+https://join.snak.today.for.proxy.links.bostoncareercounselor.com/ <br>
+https://infinite.bostoncareercounselor.com/ <br>
+ <br>
+
+#### Vafor:
+http://welcome-to-learning.fredrikkivi.se/ <br>
+http://wow.education.cellophaneslinger.net/ <br>
+http://helpmecheckthisout.help <br>
+https://rizzmas2025.marqenhotels.com/  <br>
+https://prismboi.clicksoftware.co.uk/ <br>
+https://cheap.fursuits.savenowclub.com/ <br>
+https://doublebrr.patapim.clicksoftware.co.uk/ <br>
+https://triple.t.clicksoftware.co.uk/ <br>
+https://happynewdestenation.pintravel.ro/ <br>
+https://cliffbayschools.anjumanallana.in/ <br>
+https://prism.global.ssl.fastly.net/ <br>
+ <br>
+
+#### NEW gn math
+https://math-lessons-space-17244170.codehs.me/index.html <br>
+https://crimsonviper8605.codehs.me/ <br>
+https://indexkool-17244295.codehs.me/index.html <br>
+https://slingshotswitch-17245605.codehs.me/ <br>
+https://homework-gaming-17245536.codehs.me/ <br>
+https://new-sandbox-program-9-17245499.codehs.me/ <br>
+https://new-sandbox-program-8-17245465.codehs.me/ <br>
+https://object-fighters-is-peak-17245571.codehs.me/ <br>
+https://spar-kart-sunday-17245573.codehs.me/ <br>
+https://mark-i-made-a-stake-17245582.codehs.me/ <br>
+https://goob-17245597.codehs.me/ <br>
+https://pneumonoultramicroscopicsilicovolcanoconiosis-67-17245612.codehs.me/ <br>
+https://trombone-is-da-best-intrument-17245404.codehs.me/ <br>
+https://roblock-is-life-67-17245755.codehs.me/ <br>
+https://mathlessonsproski-17246090.codehs.me/index.html <br>
+https://six-seven-five-five-17246203.codehs.me/index.html <br>
+https://funni-steam-web-17246226.codehs.me/index.html <br>
+https://brainrot-88-17246223.codehs.me/index.html <br>
+https://gn-math-67-17246219.codehs.me/index.html <br>
+https://sigma-skull-emoji-17246216.codehs.me/index.html <br>
+https://ohio-apply-lat-17246212.codehs.me/index.html <br>
+https://github-guthib-17246489.codehs.me/ <br>
+https://deer-club-17246500.codehs.me/ <br>
+https://67-67-67-67-67-67-67-67-67-67-67-67-67-67-67-67-67-67--17246506.codehs.me/ <br>
+https://what-is-this-diddyblud-doing-on-a-calculator-17246519.codehs.me/ <br>
+https://is-blud-einstein-17246524.codehs.me/ <br>
+https://hi-17246585.codehs.me/ <br>
+https://grandmanoob.codehs.me/ <br>
+https://sethmightshoothimself.codehs.me/ <br>
+https://sites.google.com/view/crazycats-gn-math/play <br>
+https://pug-really-gatekeeping-public-methods.global.ssl.fastly.net/ <br>
+https://copyparty.blahaj.dedyn.io/gn-math.html <br>
+https://gn-math6q12.hosteriafutaleufu.cl/ <br>
+https://gn-math7sz2.hosteriafutaleufu.cl/ <br>
+https://gn-mathmm71.hosteriafutaleufu.cl/ <br>
+https://gn-matholn1.hosteriafutaleufu.cl/ <br>
+https://gn-mathq6bv.hosteriafutaleufu.cl/ <br>
+https://blahaj.dedyn.io/gn.html <br>
+https://pug-really-gatekeeping-public-methods.global.ssl.fastly.net/ <br>
+https://ccs0715.789888.xyz/ <br>
+https://gn-math-t.github.io/ <br>
+https://eclipzeunbgs.codehs.me/ <br>
+https://gn-mathq6bv.hosteriafutaleufu.cl/ <br>
+https://gn-mathq6bv.hosteriafutaleufu.cl/ <br>
+https://mrvaporwave25.github.io/breadkartextremecomingsoonquestionmark/ <br>
+https://project-one-15257027.codehs.me/?id=468 <br>
+https://samsmathwork.strangled.net/ <br>
+
+
+#### Piza game:
+http://pizagame.com <br>
+http://pizagame.pages.dev <br>
+http://pizzaeditiongames.bitbucket.io <br>
+
+#### Froggies Arcade: 
+http://directory.leeschoolsk12.org.cdn.cloudflare.net <br>
+http://math-homework.site <br>
+http://venturehq.net <br>
+
+#### Misc: 
+http://quiz-70.pro <br>
+http://quiz25.live <br>
+
+#### Total Science
+http://d11jzht7mj96rr.cloudfront.net <br> <br>
+
+#### Astronomy Hub: 
+http://kriptic-edition-3-0.vercel.app <br>
+http://kripticedition2.neocities.org <br>
+http://kriptic-edition-3-0.vercel.app <br>
+http://kripticedition2.neocities.org <br>
+http://kriptic-edition-3-0.vercel.app <br>
+
+#### Vertex Gold:
+http://gold-static.pages.dev <br>
+
+<br> <br>
+End of link dump
+
+--- 
 
 ### Norepted | YT video watcher with history hiding 
 #### Status:  Stable ✅
