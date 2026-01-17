@@ -125,6 +125,12 @@ To find the newly added links in the update, **look for the heading that contain
 > [!NOTE]
 > They should be working - **ALL NEW AS OF 1/4/26!!!**
 
+Credits to @rando_sandow for the links. <br>
+#### Fern: <br>
+https://s3.amazonaws.com/fernisbest/index.html <br>
+#### Axiom:
+https://newedu.sghub.co.za/ https://newmatter.snapframework.com/ <br>
+<br>
 #### Selenite
 https://guide.flightbooker.co.za/ <br>
 https://map.flightbooker.co.za/ <br>
