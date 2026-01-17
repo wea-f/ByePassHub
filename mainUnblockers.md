@@ -1162,6 +1162,12 @@ https://educational.mom/ <br>
 https://monkeytype.lol/ <br> 
 <br>
 
+
+### Saturn Proxy | Proxy, Games, Apps, Movies
+#### Status: New
+**Server** https://discord.gg/vAF5AZHwwD Byod is  74.208.174.33 go to the discord server to add ur Link to There Bot
+https://planets.polezen.bg  <br>
+
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼 
 
 ### Incognito | Proxy, Games, Apps 
@@ -1226,8 +1232,7 @@ https://scaratek.me/ <br>
 **Feb 24 Link:** https://librarymath.homes/en_US/ <br>
 **Mar 12 Link:** https://writingessayepicguide.lol/en_US/ <br>
 
-## Saturn | Proxy and games
-https://saturn.sibmed.org.ru/ <br>
+
 
 ### Holy Unblocker 
 > [!NOTE]  
