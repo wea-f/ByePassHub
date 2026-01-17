@@ -135,7 +135,15 @@ https://newedu.sghub.co.za/ https://newmatter.snapframework.com/ <br>
 https://guide.flightbooker.co.za/ <br>
 https://map.flightbooker.co.za/ <br>
 <br>
- 	
+
+#### Unblocking on iPads
+> [!WARNING]
+> Use these two at your own risk, I haven't tested them personally.
+iPadOS 18: https://www.icloud.com/shortcuts/408cdbdc5073499a8c81e2107528412a <br>
+iPadOS 26+: https://www.icloud.com/shortcuts/5c3bc0b734cf4209861e718d93a12cf1 <br>
+Video walkthrough (credits @thsaa208): https://is.gd/ubsvid <br>
+
+
 #### Rammerhead
 https://areyousure.bostoncareercounselor.com/ <br>
 https://frittledsocool.bostoncareercounselor.com/ <br>
