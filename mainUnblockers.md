@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated January 4
+# ByePassHub > Main Links | updated January 19
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -33,7 +33,7 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>
 
-### January 4, 2026 - Happy New Year! - Added 100+ Links, includes 3 NEW sites!!
+### January 4 & 19, 2026 - Happy New Year! - Added 200 Links, includes 7 NEW sites!!
 - Link Dump: Scroll down to [here](#link-dump)
   - Consists of Selenite, gn math, some shadow, as well as some new sites that I found. 
 
@@ -123,7 +123,127 @@ To find the newly added links in the update, **look for the heading that contain
 
 ## Link Dump 
 > [!NOTE]
-> They should be working - **ALL NEW AS OF 1/4/26!!!**
+> They should be working - **ALL NEW AS OF 1/19/26!!!**
+#### NEW! Luminal OS:
+https://player-nation.bayworld.net/ <br>
+https://luminalbypn.smacs.net/ <br>
+https://playernation.goodfox.com.br/ <br>
+https://iloveteachers.graphicon.org/ <br>
+ <br>
+#### Interstellar
+https://fake.bayworld.net/ <br>
+https://grandemass.goodfox.com.br/ <br>
+https://exploring.sghub.co.za/ <br>
+https://interstellar.sevecom.com/ <br>
+ <br>
+#### Selenite
+https://studying.9x.at <br>
+https://pn.goodfox.com.br <br>
+https://science.naturalstatehollow.com <br>
+ <br>
+#### Froggie's Arcade
+https://full.boxathome.net/ <br>
+ <br>
+#### Truffled
+https://educational.radissontucson.com/ <br>
+https://town.charlestonwvhotel.com/ <br>
+https://vacation.briaquaticcabinets.com/ <br>
+https://eggmanmasterplan.comtek.com.ar/ <br>
+https://school.metropolitanstaffingsolutions.com <br>
+https://health.touchofpink.ca/ <br>
+https://babybee.tcogpcal.org/ <br>
+https://educateandlearnallabout.sciencevictory.com/ <br>
+https://educationandlearnabout.sciencevictory.com/ <br>
+https://geteducatedandlearnabout.sciencevictory.com/ <br>
+https://learnandeducationabout.sciencevictory.com/ <br>
+https://educateandlearn.sciencevictory.com/ <br>
+https://learnabouthardadvanced.imaginelearningmath.com/ <br>
+https://educationandfunlearningabout.imaginelearningmath.com/ <br>
+https://thinkingandlearning.imaginelearningmath.com/ <br>
+https://learningandeducationmath.imaginelearningmath.com/ <br>
+https://learn.highdesertcoders.com/ <br>
+https://learnhard.sciencevictory.com/ <br>
+https://learning.sciencevictory.com/ <br>
+https://learningallabout.sciencevictory.com/ <br>
+https://learnabout.sciencevictory.com/ <br>
+https://learnaboutpotatoes.imaginelearningmath.com/ <br>
+https://learnscienceforfree.sciencevictory.com/ <br>
+https://hardmathproblems.imaginelearningmath.com/ <br>
+https://two.thousand.one.hundred.sixty.seven.days.dimitriecantemir.ro/ <br>
+
+#### NEW! Glint
+https://securly.zoho.to/ <br>
+https://aqua.bastaff.ru/ <br>
+https://leave-school.bastaff.ru <br>
+https://smack.bastaff.ru/ <br>
+https://we-hate-school.bastaff.ru/ <br>
+https://galaxy-glint.bastaff.ru/ <br>
+
+#### NEW! Boredom 
+https://f.freetls.fastly.net/ <br>
+https://mikumovieispeak.global.ssl.fastly.net/ <br>
+https://academi.edu.pl.cdn.cloudflare.net/ <br>
+https://admin.v2202508297531378155.powersrv.de/ <br>
+https://cool67.allisons.org/ <br>
+https://bobbyrizz2.canadianlocomotivelogistics.ca/ <br>
+https://boredomss.a.ssl.fastly.net/ <br>
+https://wearerhebeat9e48373.knowhowit.com.au/ <br>
+https://dev.com.theosmanthusknight.camdvr.org/ <br>
+https://toocoolforschool.donhoo.com/ <br>
+https://apis.quiz.courses/ <br>
+https://ilovecoding.ftp.sh/ <br>
+https://imboring.bostoncareercounselor.com/ <br>
+https://l.global.ssl.fastly.net/ <br>
+https://manually-relaxed-alien.global.ssl.fastly.net/ <br>
+ <br>
+#### Vapor
+https://ge-lao-shi.global.ssl.fastly.net/ <br>
+https://gelaoshi.global.ssl.fastly.net/ <br>
+https://igenuinelyneed.help/ <br>
+https://equatorial.deltacompy.com.br/ <br>
+https://meadow.zoho.to/ <br>
+https://ohgodplease.help/ <br>
+https://transport.saintsparky.org/ <br>
+https://homework.kutakutik.or.id/ <br>
+https://sports.izlet.com.ar/ <br>
+https://portal.pelotonkorea.com/ <br>
+https://dining.dipeshshahi.com.np/ <br>
+https://support.uwgraduation.net/ <br>
+https://homework.ephrata-rdc.com/ <br>
+https://bookstore.lauriemillotte.com/ <br>
+https://vaperisveryeducational.dinprima.ro/ <br>
+https://dontvape.clicksoftware.co.uk/ <br>
+https://click.click.clicksoftware.co.uk/ <br>
+ <br>
+#### NEW! Overcloaked
+https://eyd7pydh.beanweb.qzz.io.cdn.cloudflare.net/ <br>
+https://stats.graphicon.ru/ <br>
+https://ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com <br>
+https://uytjhuyghbjkuiyhbjku.fghvhbvghjgj.bonded-game.com <br>
+https://vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com <br>
+https://iopsfwjrklewrdf.xcvjklesdfewf.dingsheng-yule.com/ <br>
+https://oijkmuiojk.yhujnmok.dingsheng-yule.com/ <br>
+https://jacobcheeseman.fundacioncidea.org.ar/ <br>
+ <br>
+#### NEW! Galaxy v6
+https://byodisthebest.hobbygame.dev/ <br>
+https://learnnn.guildstashtracker.xyz/ <br>
+https://learnn.guildstashtracker.xyz/ <br>
+https://learn.guildstashtracker.xyz/ <br>
+ <br>
+#### Utopia
+https://cool.wikilegia.org/ <br>
+https://piano.think.substruction.net/ <br>
+ <br>
+#### NEW! fern
+https://theory.websdr64.ru/ <br>
+https://apple5.websdr64.ru/ <br>
+https://apple11.nowhearthis.co.uk/ <br>
+https://motor-cycle-part.org/ <br>
+https://hours.newlifesanctuarychurch.com/ <br>
+ <br>
+> [!NOTE]
+> These below should be working - **ALL NEW AS OF 1/4/26!!!**
 
 Credits to @rando_sandow for the links. <br>
 #### Fern: <br>
