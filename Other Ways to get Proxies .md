@@ -1,4 +1,4 @@
-# ByePassHub > Other ways to get Proxies | updated Sep 12
+# ByePassHub > Other ways to get Proxies | updated Jan 26
 On this page, I'm going to give you **THE BEST** resources to find proxies, exploits, bypasses, etc. that are *hidden* to the public eye, so <br>
 1. You can get the freshest links and exploits 😎
 2. Those links and bypasses are more likely to **stay** being unblocked
@@ -53,6 +53,8 @@ Ext remover: https://github.com/3kh0/ext-remover <br>
 Unenrolling guide: https://chromebook-guide.github.io/ <br> <br>
 
 ## Resource #3: Online Proxy Collections
+This website/youtube channel updates weekly!!: https://afkinfo.blogspot.com/ <br>
+Also good website: https://ubghub.org/ <br>
 There are many other proxy collections like this one, but maybe not as popular (or more popular) <br>
 https://bio.link/theblackhand <br>
 https://bio.link/fuhnny <br>
