@@ -1,6 +1,7 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! 
+## If you like this collection, make sure to star it! 410+🌟!
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
+
 FYI: **"Proxies" = "Unblockers"** <br>
 **2100+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
 **325+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
@@ -18,9 +19,9 @@ FYI: **"Proxies" = "Unblockers"** <br>
 [BPH Google Doc](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) if Github is blocked
 
 ---
-These links and bypasses are **not made by me**, they are found through many other lists and sites. <br>
+> [!NOTE]
+> I do not own any of these proxies and I do not guarantee if they are functional, secure, or safe (not malicious), though I try my best to test them! I am not responsbile for any problems that arise associated with this repository. It's your device and your decisions. 
+
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this.** <br>
 **Credits are in the individual files** <br> <br>
-**I am not responsbile for any problems that arise associated with this repository. It's your device and you control your own decisions. Links/exploits are not guranteed to be fully safe and not malicious** <br>
 **Also note to proxy developers: if you believe that I leaked your links, make an issue and I'll take them down asap, I have no intention in leaking private links.** <br>
-**This repository is also licensed under the MIT license, check the LICENSE file for more information.**  <br> <br>
