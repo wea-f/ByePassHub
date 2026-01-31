@@ -79,6 +79,7 @@ To find the newly added links in the update, **look for the heading that contain
 | Ghosted 🚫 | site is inactive, most links work but likely to stop working. |
 | Fresh 😎 | The site was recently made and newly introduced! | <br>
 
+- **500+** [Unsorted Link Dump](#link-dump)
 - **7+** [Norepted](#norepted--yt-video-watcher-with-history-hiding) - Youtube video watcher  |  Status: Stable ✅
 - **30+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing 💯
 - *15+* [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps | Flourishing 💯
