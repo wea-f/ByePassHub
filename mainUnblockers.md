@@ -128,7 +128,8 @@ To find the newly added links in the update, **look for the heading that contain
 ## Link Dump 
 > [!NOTE]
 > **ALL NEW AS OF 1/26/26!!! 300+ LINKS**
-These are unsorted btw:
+
+These are unsorted btw: <br>
 https://play.jimmyqrg.com/ <br>
 https://wiki.schooloqy.com/ <br>
 https://play.schooloqy.com/ <br>
