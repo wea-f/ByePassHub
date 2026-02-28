@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated January 19
+# ByePassHub > Main Links | updated Februrary 27
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 <!--
@@ -126,6 +126,17 @@ To find the newly added links in the update, **look for the heading that contain
 ## website title | what it contains | any note if needed
 
 ## Link Dump 
+New link submitted by @randosandow: (2/27) <br>
+https://clever-education.londonwhiteeagles.ca/ <br>
+https://lightspeeddontblock.b-cdn.net/ <br>
+
+Selenite links submitted by @skysthelimitt: (2/27) <br>
+https://calc-guide.remiosenifoundation.org <br>
+https://cs-textbook.remiosenifoundation.org <br>
+https://english-guide.remiosenifoundation.org <br>
+https://mathematics-tutor.remiosenifoundation.org <br>
+https://med-tutorial.remiosenifoundation.org <br> <br>
+
 > [!NOTE]
 > **ALL NEW AND WORKING AS OF 1/30/26!!! 380+ LINKS**
 
